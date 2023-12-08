@@ -1,0 +1,12 @@
+{
+	"bot_accounts": [
+		{ "username": "" , "password": "" }
+	],
+	"api_url":"http://cadd-35-233-244-108.ngrok.io",
+	"company_accounts": ["mentantonio"],
+	"notification_email": "antonio_martinez88@hotmail.com",
+	"proxies": [],
+	"send_dm":false,
+	"create_post":true,
+	"interval_min":5
+}
