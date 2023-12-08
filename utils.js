@@ -72,9 +72,9 @@ async function twitterLogin(page, config) {
             return list
         })
 
-        const cookies = await page.cookies();
-        fs.writeFileSync('./raw/cookies.json', JSON.stringify(cookies, null, 2));
-        console.log("Logged in and saved cookies");
+        //const cookies = await page.cookies();
+        //fs.writeFileSync('./raw/cookies.json', JSON.stringify(cookies, null, 2));
+        //console.log("Logged in and saved cookies");
     } catch (err) {
         console.log(err)
     }
