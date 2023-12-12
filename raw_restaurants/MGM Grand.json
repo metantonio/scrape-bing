@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Joël Robuchon",
+    "hotel": "MGM Grand",
+    "gastronomy": "French",
+    "price": "$$$$"
+  },
+  {
+    "name": "Wolfgang Puck Bar &amp; Grill",
+    "hotel": "MGM Grand",
+    "gastronomy": "American ·",
+    "price": "$$"
+  },
+  {
+    "name": "MGM Grand Buffet",
+    "hotel": "MGM Grand",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Grand Wok Noodle Bar",
+    "hotel": "MGM Grand",
+    "gastronomy": "Pan-Asian",
+    "price": "$$"
+  },
+  {
+    "name": "L'Atelier de Joël Robuchon",
+    "hotel": "MGM Grand",
+    "gastronomy": "French",
+    "price": "$$$$"
+  },
+  {
+    "name": "Hakkasan Restaurant",
+    "hotel": "MGM Grand",
+    "gastronomy": "Chinese",
+    "price": "$$$$"
+  },
+  {
+    "name": "TAP Sports Bar",
+    "hotel": "MGM Grand",
+    "gastronomy": "American",
+    "price": "$"
+  },
+  {
+    "name": "Luchini Italian Restaurant",
+    "hotel": "MGM Grand",
+    "gastronomy": "Italian",
+    "price": "$$"
+  },
+  {
+    "name": "Avenue Café",
+    "hotel": "MGM Grand",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Emeril's New Orleans Fish House",
+    "hotel": "MGM Grand",
+    "gastronomy": "Creole ·",
+    "price": "$$"
+  },
+  {
+    "name": "Greek Sneek Mediterranean Grill",
+    "hotel": "MGM Grand",
+    "gastronomy": "Mediterranean",
+    "price": "$$"
+  },
+  {
+    "name": "CRUSH American Grill",
+    "hotel": "MGM Grand",
+    "gastronomy": "American",
+    "price": "$$"
+  },
+  {
+    "name": "Morimoto Las Vegas",
+    "hotel": "MGM Grand",
+    "gastronomy": "Japanese",
+    "price": "$$$"
+  },
+  {
+    "name": "Starbucks",
+    "hotel": "MGM Grand",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Pieology",
+    "hotel": "MGM Grand",
+    "gastronomy": "Italian ·",
+    "price": "$"
+  },
+  {
+    "name": "Tom Colicchio's Craftsteak",
+    "hotel": "MGM Grand",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$"
+  },
+  {
+    "name": "Blizz Frozen Yogurt &amp; Desserts",
+    "hotel": "MGM Grand",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Food Court",
+    "hotel": "MGM Grand",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Bonanno's New York Pizzeria",
+    "hotel": "MGM Grand",
+    "gastronomy": "Italian ·",
+    "price": "$"
+  }
+]

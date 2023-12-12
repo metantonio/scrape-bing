@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dick's Last Resort",
+    "hotel": "Excalibur",
+    "gastronomy": "American ·",
+    "price": "$$"
+  },
+  {
+    "name": "The Buffet at Excalibur",
+    "hotel": "Excalibur",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Buca di Beppo",
+    "hotel": "Excalibur",
+    "gastronomy": "Italian ·",
+    "price": "$$"
+  },
+  {
+    "name": "Starbucks",
+    "hotel": "Excalibur",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Baja Fresh",
+    "hotel": "Excalibur",
+    "gastronomy": "Mexican ·",
+    "price": "$"
+  },
+  {
+    "name": "Johnny Rockets",
+    "hotel": "Excalibur",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Food Court",
+    "hotel": "Excalibur",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Orange Julius/Dairy Queen",
+    "hotel": "Excalibur",
+    "gastronomy": "American ·",
+    "price": "$"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Libertine Social",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American",
+    "price": "$$"
+  },
+  {
+    "name": "Border Grill",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Mexican ·",
+    "price": "$$"
+  },
+  {
+    "name": "House of Blues Restaurant &amp; Bar",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$$"
+  },
+  {
+    "name": "Wahlburgers",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Hussong's Cantina",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Mexican ·",
+    "price": "$"
+  },
+  {
+    "name": "BBQ Mexicana",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Mexican ·",
+    "price": "$"
+  },
+  {
+    "name": "Hazel Coffee &amp; Cocktails",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Rí Rá Irish Pub",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Irish ·",
+    "price": "$"
+  },
+  {
+    "name": "Flanker Kitchen + Sports Bar",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American",
+    "price": "$$"
+  },
+  {
+    "name": "Retro by Voltaggio",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American",
+    "price": "$$"
+  },
+  {
+    "name": "Seabreeze Café",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Noodle Shop",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Pan-Asian ·",
+    "price": "$"
+  },
+  {
+    "name": "Foundation Room",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American",
+    "price": "$$$"
+  },
+  {
+    "name": "Citizens Kitchen &amp; Bar",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "StripSteak",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$"
+  },
+  {
+    "name": "Slice of Vegas",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Italian ·",
+    "price": "$"
+  },
+  {
+    "name": "KUMI",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Japanese",
+    "price": "$$$"
+  },
+  {
+    "name": "Veranda",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "",
+    "price": ""
+  },
+  {
+    "name": "PRESS",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "",
+    "price": ""
+  },
+  {
+    "name": "Starbucks",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Mandalay Bay Food Court",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$"
+  }
+]

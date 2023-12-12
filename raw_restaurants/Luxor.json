@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Diablo's Cantina",
+    "hotel": "Luxor",
+    "gastronomy": "Mexican ·",
+    "price": "$$"
+  },
+  {
+    "name": "Public House",
+    "hotel": "Luxor",
+    "gastronomy": "American",
+    "price": "$"
+  },
+  {
+    "name": "TENDER steakhouse + lounge",
+    "hotel": "Luxor",
+    "gastronomy": "Steakhouse",
+    "price": "$$$"
+  },
+  {
+    "name": "The Buffet at Luxor",
+    "hotel": "Luxor",
+    "gastronomy": "American",
+    "price": "$"
+  },
+  {
+    "name": "Backstage Deli",
+    "hotel": "Luxor",
+    "gastronomy": "American",
+    "price": "$"
+  },
+  {
+    "name": "Pyramid Café",
+    "hotel": "Luxor",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Starbucks Café",
+    "hotel": "Luxor",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Luxor Food Court",
+    "hotel": "Luxor",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Blizz",
+    "hotel": "Luxor",
+    "gastronomy": "American ·",
+    "price": "$"
+  }
+]

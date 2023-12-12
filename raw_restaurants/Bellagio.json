@@ -1,0 +1,110 @@
+[
+  {
+    "name": "PRIME Steakhouse",
+    "hotel": "Bellagio",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$"
+  },
+  {
+    "name": "Sadelle’s Café",
+    "hotel": "Bellagio",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Le Cirque",
+    "hotel": "Bellagio",
+    "gastronomy": "French",
+    "price": "$$$$"
+  },
+  {
+    "name": "The Mayfair Supper Club",
+    "hotel": "Bellagio",
+    "gastronomy": "American",
+    "price": "$$$"
+  },
+  {
+    "name": "The Buffet at Bellagio",
+    "hotel": "Bellagio",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Spago",
+    "hotel": "Bellagio",
+    "gastronomy": "American ·",
+    "price": "$$$"
+  },
+  {
+    "name": "Jasmine",
+    "hotel": "Bellagio",
+    "gastronomy": "Cantonese",
+    "price": "$$$"
+  },
+  {
+    "name": "LAGO by Julian Serrano",
+    "hotel": "Bellagio",
+    "gastronomy": "Italian ·",
+    "price": "$$$$"
+  },
+  {
+    "name": "Harvest",
+    "hotel": "Bellagio",
+    "gastronomy": "American",
+    "price": "$$$"
+  },
+  {
+    "name": "Noodles",
+    "hotel": "Bellagio",
+    "gastronomy": "Pan-Asian ·",
+    "price": "$"
+  },
+  {
+    "name": "Picasso",
+    "hotel": "Bellagio",
+    "gastronomy": "French",
+    "price": "$$$$"
+  },
+  {
+    "name": "Bellagio Patisserie",
+    "hotel": "Bellagio",
+    "gastronomy": "French ·",
+    "price": "$"
+  },
+  {
+    "name": "Snacks",
+    "hotel": "Bellagio",
+    "gastronomy": "American",
+    "price": "$"
+  },
+  {
+    "name": "Michael Mina",
+    "hotel": "Bellagio",
+    "gastronomy": "Seafood",
+    "price": "$$$$"
+  },
+  {
+    "name": "Starbucks",
+    "hotel": "Bellagio",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Quick Eats",
+    "hotel": "Bellagio",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Juice Press",
+    "hotel": "Bellagio",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Yellowtail Japanese Restaurant &amp; Lounge",
+    "hotel": "Bellagio",
+    "gastronomy": "Japanese",
+    "price": "$$$"
+  }
+]

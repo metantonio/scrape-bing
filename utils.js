@@ -20,7 +20,7 @@ async function setupBrowser() {
         const msgArgs = msg.args();
         for (let i = 0; i < msgArgs.length; ++i) {
             try {
-                console.log(await msgArgs[i].jsonValue());
+                console.log("open page: ", await msgArgs[i].jsonValue());
             } catch (e) {
                 console.log(e);
             }
@@ -32,7 +32,7 @@ async function setupBrowser() {
 
 async function twitterLogin(page, config) {
     try {
-        await page.goto('https://www.bing.com/maps/?cp=26.051884%7E-80.20943&lvl=17.4')
+        await page.goto('https://www.bing.com/maps/?cp=36.111468%7E-115.175598&lvl=17.4')
         await timeout(1000)
         await page.waitForSelector("[data-listtype=\"Restaurant\"]", { visible: true })
         await page.focus("[data-listtype=\"Restaurant\"]")
@@ -49,14 +49,14 @@ async function twitterLogin(page, config) {
                 let restaurant = slides[i];
                 let name = restaurant.querySelectorAll("h2")
                 let info = restaurant.querySelectorAll(".b_recCardData")
-                for(let j =0; j< name.length; j++){
-                    console.log("\nRestaurant: ",name[j].innerHTML)
-                    for(let k =0; k< info.length; k++){            
-                        console.log("Info:",info[k].innerText)
-                    }                
+                for (let j = 0; j < name.length; j++) {
+                    console.log("\nRestaurant: ", name[j].innerHTML)
+                    for (let k = 0; k < info.length; k++) {
+                        console.log("Info:", info[k].innerText)
+                    }
                 }
-                
-               
+
+
                 /* let h2Split = restaurant.innerHTML.split("h2>")
                 console.log(h2Split[0]) */
                 //console.log("Restaurant: ", name.innerHTML/* , " - info: ", info.innerText */);
@@ -78,6 +78,90 @@ async function twitterLogin(page, config) {
     } catch (err) {
         console.log(err)
     }
+
+}
+
+async function mgmgoin(page, config) {
+    const ruta = './raw_restaurants';
+    const url = [
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Bellagio',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Delano_Las_Vegas',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Luxor_Hotel_Casino',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,ARIA',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Cosmopolitan_of_Las_Vegas',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Excalibur_Hotel_Casino',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Mandalay_Bay',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,MGM_Grand_Las_Vegas',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,NoMad_Las_Vegas',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Signature_at_MGM_Grand',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,New_York_New_York_Hotel_Casino',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Park_MGM',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Vdara_Hotel_Spa_at_ARIA'
+    ]
+    for (let k = 0; k < url.length; k++) {
+        try {
+            console.log("MGMgoIn function")
+            await page.goto(url[k])
+            await timeout(1000)
+            await page.waitForSelector("[class=\"css-1eatf5e\"]", { visible: true })
+            //await page.focus("[class=\"css-1eatf5e\"]")
+            //console.log(page)
+
+
+            let scrape = await page.evaluate(() => {
+                let restaurants = []
+                console.log("evaluation")
+                //let cards = document.querySelectorAll(".b_recCardData")
+                let cards = Array.from(document.querySelectorAll(".css-1eatf5e"))
+                console.log("length cards: ", cards.length)
+                for (let i = 0; i < cards.length; i++) {
+                    let restaurant = { name: '', hotel: '', gastronomy: '', price: '' }
+
+                    let title = cards[i].querySelector("[data-testid=\"discovery-result-card-title\"]")
+                    if (title) {
+                        restaurant["name"] = title.innerHTML
+                        let detail_a = cards[i].querySelector("[data-testid=\"discovery-result-card-detail-a\"]")
+                        if (detail_a) {
+                            restaurant["hotel"] = detail_a.innerHTML
+                        }
+                        let detail_b = cards[i].querySelector("[data-testid=\"discovery-result-card-detail-b\"]")
+                        if (detail_b) {
+                            restaurant["gastronomy"] = detail_b.innerText
+                        }
+                        let detail_c = cards[i].querySelector("[data-testid=\"discovery-result-card-detail-c\"]")
+                        if (detail_c) {
+                            restaurant["price"] = detail_c.innerHTML
+                        }
+                        restaurants.push(restaurant)
+                        //console.log("restaurant:", restaurant)
+                    }
+
+
+                }
+                //console.log(restaurants)
+                return restaurants;
+            })
+            console.log('scrape: ', scrape)
+            const dataJSON = JSON.stringify(scrape, null, 2);
+            // Escribe el archivo JSON en el sistema de archivos
+            fs.writeFile(`${ruta}/${scrape[0]["hotel"]}.json`, dataJSON, 'utf8', (err) => {
+                if (err) {
+                    console.error('Error al escribir el archivo JSON:', err);
+                } else {
+                    console.log('Archivo JSON creado exitosamente:', ruta);
+                }
+            });
+
+
+            //return scrape
+            //const cookies = await page.cookies();
+            //fs.writeFileSync('./raw/cookies.json', JSON.stringify(cookies, null, 2));
+            //console.log("Logged in and saved cookies");
+        } catch (err) {
+            console.log(err)
+        }
+    }
+
 
 }
 
@@ -163,5 +247,6 @@ module.exports = {
     getRandBotAccount,
     getBotAccount,
     sendTwitterPost,
-    limitarLongitud
+    limitarLongitud,
+    mgmgoin
 }

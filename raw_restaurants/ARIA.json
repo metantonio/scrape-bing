@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Bardot Brasserie",
+    "hotel": "ARIA",
+    "gastronomy": "French",
+    "price": "$$$"
+  },
+  {
+    "name": "Carbone",
+    "hotel": "ARIA",
+    "gastronomy": "Italian",
+    "price": "$$$$"
+  },
+  {
+    "name": "CATCH",
+    "hotel": "ARIA",
+    "gastronomy": "Seafood",
+    "price": "$$$"
+  },
+  {
+    "name": "Javier's",
+    "hotel": "ARIA",
+    "gastronomy": "Mexican ·",
+    "price": "$$$"
+  },
+  {
+    "name": "Jean Georges Steakhouse",
+    "hotel": "ARIA",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$"
+  },
+  {
+    "name": "Blossom",
+    "hotel": "ARIA",
+    "gastronomy": "Chinese",
+    "price": "$$$"
+  },
+  {
+    "name": "Din Tai Fung",
+    "hotel": "ARIA",
+    "gastronomy": "Pan-Asian ·",
+    "price": "$$"
+  },
+  {
+    "name": "Julian Serrano Tapas",
+    "hotel": "ARIA",
+    "gastronomy": "Spanish",
+    "price": "$$$"
+  },
+  {
+    "name": "Moneyline Pizza &amp; Bar",
+    "hotel": "ARIA",
+    "gastronomy": "American ·",
+    "price": "$$"
+  },
+  {
+    "name": "Salt &amp; Ivy",
+    "hotel": "ARIA",
+    "gastronomy": "American ·",
+    "price": "$$"
+  },
+  {
+    "name": "Lemongrass",
+    "hotel": "ARIA",
+    "gastronomy": "Thai",
+    "price": "$$"
+  },
+  {
+    "name": "Cathédrale Las Vegas",
+    "hotel": "ARIA",
+    "gastronomy": "French",
+    "price": "$$$"
+  },
+  {
+    "name": "ARIA Patisserie",
+    "hotel": "ARIA",
+    "gastronomy": "French ·",
+    "price": "$"
+  },
+  {
+    "name": "Starbucks",
+    "hotel": "ARIA",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Pressed Juicery",
+    "hotel": "ARIA",
+    "gastronomy": "American ·",
+    "price": "$"
+  }
+]

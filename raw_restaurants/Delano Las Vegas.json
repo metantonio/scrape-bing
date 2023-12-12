@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rivea",
+    "hotel": "Delano Las Vegas",
+    "gastronomy": "French",
+    "price": "$$$"
+  },
+  {
+    "name": "Della's Kitchen",
+    "hotel": "Delano Las Vegas",
+    "gastronomy": "American",
+    "price": "$"
+  },
+  {
+    "name": "3940 Coffee and Tea",
+    "hotel": "Delano Las Vegas",
+    "gastronomy": "American ·",
+    "price": "$"
+  }
+]

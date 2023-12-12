@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bavette's Steakhouse &amp; Bar",
+    "hotel": "Park MGM",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$"
+  },
+  {
+    "name": "Best Friend",
+    "hotel": "Park MGM",
+    "gastronomy": "Korean",
+    "price": "$"
+  },
+  {
+    "name": "Eataly",
+    "hotel": "Park MGM",
+    "gastronomy": "Italian ·",
+    "price": "$"
+  },
+  {
+    "name": "La Pizza e La Pasta",
+    "hotel": "Park MGM",
+    "gastronomy": "Italian ·",
+    "price": "$"
+  },
+  {
+    "name": "BetMGM Sportsbook &amp; Bar",
+    "hotel": "Park MGM",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Mobile Takeout",
+    "hotel": "Park MGM",
+    "gastronomy": "",
+    "price": ""
+  },
+  {
+    "name": "Primrose",
+    "hotel": "Park MGM",
+    "gastronomy": "American ·",
+    "price": "$$"
+  },
+  {
+    "name": "La La Noodle",
+    "hotel": "Park MGM",
+    "gastronomy": "Pan-Asian",
+    "price": "$"
+  }
+]

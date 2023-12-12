@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Nine Fine Irishmen",
+    "hotel": "New York-New York",
+    "gastronomy": "Irish",
+    "price": "$$"
+  },
+  {
+    "name": "Tom's Watch Bar",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Beerhaus",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$$"
+  },
+  {
+    "name": "Shake Shack",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Gallagher's Steakhouse",
+    "hotel": "New York-New York",
+    "gastronomy": "Steakhouse",
+    "price": "$$$"
+  },
+  {
+    "name": "Chin Chin - Asian Restaurant and Sushi Bar",
+    "hotel": "New York-New York",
+    "gastronomy": "Chinese ·",
+    "price": "$$"
+  },
+  {
+    "name": "48th And Crepe",
+    "hotel": "New York-New York",
+    "gastronomy": "French ·",
+    "price": "$"
+  },
+  {
+    "name": "Gonzalez y Gonzalez",
+    "hotel": "New York-New York",
+    "gastronomy": "Mexican ·",
+    "price": "$"
+  },
+  {
+    "name": "Top Round",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Luke's Lobster",
+    "hotel": "New York-New York",
+    "gastronomy": "Seafood ·",
+    "price": "$$"
+  },
+  {
+    "name": "NYNY Food Hall",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Broadway Burger Bar and Grill",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Il Fornaio",
+    "hotel": "New York-New York",
+    "gastronomy": "Italian ·",
+    "price": "$$"
+  },
+  {
+    "name": "Nusr-Et",
+    "hotel": "New York-New York",
+    "gastronomy": "Steakhouse ·",
+    "price": "$$$$"
+  },
+  {
+    "name": "America",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Hello Kitty Cafe",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Village Street Eateries",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Starbucks",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  },
+  {
+    "name": "Nathan’s",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$"
+  }
+]
