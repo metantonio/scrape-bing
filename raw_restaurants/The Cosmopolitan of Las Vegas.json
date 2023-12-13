@@ -4,181 +4,285 @@
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Spanish",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-jaleo.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/jaleo.html"
   },
   {
     "name": "Wicked Spoon",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-wicked-spoon.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/wicked-spoon.html"
   },
   {
     "name": "Blue Ribbon",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Seafood",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-blue-ribbon.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/blue-ribbon.html"
   },
   {
     "name": "Bang Bar",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Pan-Asian",
     "price": "$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-bang-bar.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/bang-bar.html"
   },
   {
     "name": "Superfrico",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Italian",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-superfrico.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/superfrico.html"
   },
   {
     "name": "Holsteins",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "American",
     "price": "$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-holsteins.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/holsteins.html"
   },
   {
     "name": "Momofuku",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Pan-Asian",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/momofuku.html"
   },
   {
     "name": "Beauty &amp; Essex",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "American",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/beauty-and-essex.html"
   },
   {
     "name": "Eggslut",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/eggslut.html"
   },
   {
     "name": "Hattie B's Hot Chicken",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "American",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/hattie-bs.html"
   },
   {
     "name": "Starbucks",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "American ·",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/starbucks.html"
   },
   {
     "name": "Va Bene Caffe",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Italian",
+    "gastronomy": "Italian ·",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/va-bene-caffe.html"
   },
   {
     "name": "Scarpetta",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Italian",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/scarpetta.html"
   },
   {
     "name": "The Henry",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/the-henry.html"
   },
   {
     "name": "Milk Bar",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$$",
-    "image": ""
-  },
-  {
-    "name": "Ghost Donkey: Mezcal &amp; Tequila Bar",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Mexican",
-    "price": "$$",
-    "image": ""
-  },
-  {
-    "name": "Overlook Grill",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
-    "price": "$$$",
-    "image": ""
-  },
-  {
-    "name": "zuma",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Japanese",
-    "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/milk-bar.html"
   },
   {
     "name": "China Poblano",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Fusion",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/china-poblano.html"
   },
   {
     "name": "é by José Andrés",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Spanish",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/e-by-jose-andres.html"
   },
   {
     "name": "District: Donuts. Sliders. Brew.",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/district-donuts-sliders-brew.html"
+  },
+  {
+    "name": "Ghost Donkey: Mezcal &amp; Tequila Bar",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Mexican",
+    "price": "$$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/ghost-donkey.html"
+  },
+  {
+    "name": "Overlook Grill",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American ·",
+    "price": "$$$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/overlook-grill.html"
+  },
+  {
+    "name": "zuma",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Japanese",
+    "price": "$$$$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/zuma.html"
   },
   {
     "name": "Red Plate",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Chinese",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/red-plate.html"
   },
   {
     "name": "Lardo",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "American",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/lardo.html"
   },
   {
     "name": "Tekka Bar: Handroll &amp; Sake",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Japanese",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/tekka-bar.html"
   },
   {
     "name": "The Juice Standard",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/the-juice-standard.html"
   },
   {
     "name": "STK",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Steakhouse",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/stk.html"
   }
 ]

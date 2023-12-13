@@ -1,58 +1,35 @@
 [
   {
-    "name": "Bavette's Steakhouse &amp; Bar",
-    "hotel": "Park MGM",
-    "gastronomy": "Steakhouse",
-    "price": "$$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/bavettes/lifestyle/park-mgm-dining-bavettes-steakhouse-group-of-four-seated.jpeg.image.248.248.high.jpg"
-  },
-  {
     "name": "Best Friend",
     "hotel": "Park MGM",
     "gastronomy": "Korean",
     "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/best-friend/food-and-beverage/park-mgm-dining-best-friend-shared-group-plates.jpg.image.248.248.high.jpg"
-  },
-  {
-    "name": "Eataly",
-    "hotel": "Park MGM",
-    "gastronomy": "Italian",
-    "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/eataly/architecture/park-mgm-eataly-interior-bars-and-counters-illuminated.jpeg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/best-friend/food-and-beverage/park-mgm-dining-best-friend-shared-group-plates.jpg.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/best-friend.html"
   },
   {
     "name": "BetMGM Sportsbook &amp; Bar",
     "hotel": "Park MGM",
     "gastronomy": "American",
     "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/betmgm-sportsbook-and-bar/park-mgm-dining-betmgm-sportsbook-bar-view.jpeg.image.248.248.high.jpg"
-  },
-  {
-    "name": "La Pizza e La Pasta",
-    "hotel": "Park MGM",
-    "gastronomy": "Italian",
-    "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/eataly/la-pizza-e-la-pasta/park-mgm-dining-eataly-lapizzalapasta-overhead-group.jpeg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/betmgm-sportsbook-and-bar/park-mgm-dining-betmgm-sportsbook-bar-view.jpeg.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/betmgm-sportsbook-and-bar.html"
   },
   {
     "name": "Mobile Takeout",
     "hotel": "Park MGM",
     "gastronomy": "",
     "price": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/side-betty-grill/food-and-beverage/park-mgm-dining-side-betty-grill-multiple-plates-of-food.jpeg.image.248.248.high.jpg"
-  },
-  {
-    "name": "La La Noodle",
-    "hotel": "Park MGM",
-    "gastronomy": "Pan-Asian",
-    "price": "$",
-    "image": ""
-  },
-  {
-    "name": "Primrose",
-    "hotel": "Park MGM",
-    "gastronomy": "American",
-    "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/side-betty-grill/food-and-beverage/park-mgm-dining-side-betty-grill-multiple-plates-of-food.jpeg.image.248.248.high.jpg",
+    "link_detail": "https://parkmgm.mgmresorts.com/en/restaurants/dining-options.html"
   }
 ]

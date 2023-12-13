@@ -4,146 +4,230 @@
     "hotel": "Mandalay Bay",
     "gastronomy": "American",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/libertine-social/interior/mandalay-bay-dining-libertine-social-main-bar-ceiling.jpeg.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/libertine-social.html"
   },
   {
     "name": "Border Grill",
     "hotel": "Mandalay Bay",
     "gastronomy": "Mexican",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/border-grill/food-and-drink/mandalay-bay-restaurant-border-grill-tablescape.jpg.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/border-grill.html"
   },
   {
     "name": "House of Blues Restaurant &amp; Bar",
     "hotel": "Mandalay Bay",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$$",
-    "image": ""
-  },
-  {
-    "name": "Wahlburgers",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American",
-    "price": "$",
-    "image": ""
-  },
-  {
-    "name": "Seabreeze Café",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American",
-    "price": "$",
-    "image": ""
-  },
-  {
-    "name": "Rí Rá Irish Pub",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Irish",
-    "price": "$",
-    "image": ""
-  },
-  {
-    "name": "Retro by Voltaggio",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American",
-    "price": "$$",
-    "image": ""
-  },
-  {
-    "name": "Flanker Kitchen + Sports Bar",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American",
-    "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/house-of-blues-restaurant-and-bar/food-and-drink/mandalay-bay-dining-house-of-blues-nashville-hot-wings.tif.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/things-to-do/clubs/mandalay-bay/house-of-blues-restaurant-and-bar.html"
   },
   {
     "name": "Hussong's Cantina",
     "hotel": "Mandalay Bay",
     "gastronomy": "Mexican",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/hussongs-cantina/food-and-drink/mandalay-bay-dining-hussongs-fish-tacos.tif.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/hussongs-cantina.html"
   },
   {
     "name": "BBQ Mexicana",
     "hotel": "Mandalay Bay",
     "gastronomy": "Mexican",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/bbq-mexicana/mandalay-bay-restaurant-bbq-mexicana-burnt-end-burrito.tif.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/bbq-mexicana.html"
   },
   {
     "name": "Hazel Coffee &amp; Cocktails",
     "hotel": "Mandalay Bay",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/hazel-coffee-&-cocktails/architecture/mandalay-bay-dining-hazel-coffee-front-view-interior.tif.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/hazel-coffee-and-cocktails.html"
   },
   {
-    "name": "Citizens Kitchen &amp; Bar",
+    "name": "Flanker Kitchen + Sports Bar",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American",
+    "price": "$$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/flanker-las-vegas.html"
+  },
+  {
+    "name": "Wahlburgers",
     "hotel": "Mandalay Bay",
     "gastronomy": "American",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/wahlburgers.html"
   },
   {
-    "name": "Slice of Vegas",
+    "name": "Rí Rá Irish Pub",
     "hotel": "Mandalay Bay",
-    "gastronomy": "Italian",
+    "gastronomy": "Irish ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/ri-ra-irish-pub.html"
   },
   {
-    "name": "PRESS",
+    "name": "Retro by Voltaggio",
     "hotel": "Mandalay Bay",
-    "gastronomy": "",
-    "price": "",
-    "image": ""
+    "gastronomy": "American",
+    "price": "$$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/retro-by-voltaggio.html"
   },
   {
-    "name": "StripSteak",
+    "name": "Seabreeze Café",
     "hotel": "Mandalay Bay",
-    "gastronomy": "Steakhouse",
-    "price": "$$$$",
-    "image": ""
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/seabreeze-cafe.html"
   },
   {
     "name": "Noodle Shop",
     "hotel": "Mandalay Bay",
     "gastronomy": "Pan-Asian",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/noodle-shop.html"
   },
   {
     "name": "KUMI",
     "hotel": "Mandalay Bay",
     "gastronomy": "Japanese",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/kumi-by-akira-back.html"
+  },
+  {
+    "name": "Citizens Kitchen &amp; Bar",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/citizens.html"
+  },
+  {
+    "name": "StripSteak",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/stripsteak.html"
   },
   {
     "name": "Foundation Room",
     "hotel": "Mandalay Bay",
     "gastronomy": "American",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/foundation-room.html"
   },
   {
     "name": "Veranda",
     "hotel": "Mandalay Bay",
     "gastronomy": "",
     "price": "",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://www.fourseasons.com/lasvegas/dining/restaurants/veranda/?source=rra0005"
+  },
+  {
+    "name": "Slice of Vegas",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Italian",
+    "price": "$",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/slice-of-vegas.html"
+  },
+  {
+    "name": "PRESS",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "",
+    "price": "",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://www.fourseasons.com/lasvegas/dining/lounges/press/?source=rra0005"
   },
   {
     "name": "Starbucks",
     "hotel": "Mandalay Bay",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/starbucks.html"
   },
   {
     "name": "Mandalay Bay Food Court",
     "hotel": "Mandalay Bay",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/mandalay-bay-food-court.html"
   }
 ]

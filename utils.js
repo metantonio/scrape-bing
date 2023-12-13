@@ -115,7 +115,7 @@ async function mgmgoin(page, config) {
                 let cards = Array.from(document.querySelectorAll(".css-1eatf5e"))
                 console.log("length cards: ", cards.length)
                 for (let i = 0; i < cards.length; i++) {
-                    let restaurant = { name: '', hotel: '', gastronomy: '', price: '' }
+                    let restaurant = { name: '', hotel: '', gastronomy: '', price: '', description:'', phone:'', hours:'' }
 
                     let title = cards[i].querySelector("[data-testid=\"discovery-result-card-title\"]")
                     if (title) {
@@ -134,8 +134,14 @@ async function mgmgoin(page, config) {
                         }
                         let detail_img = cards[i].querySelector("[data-testid=\"discovery-result-card-image\"]")
                         if(detail_img){
-                            console.log(detail_img.getAttribute("src"))
+                            //console.log(detail_img.getAttribute("src"))
                             restaurant["image"] = detail_img.getAttribute("src")
+                        }
+
+                        let detail_link = cards[i].querySelector("[data-testid=\"discovery-result-card-image-link\"]")
+                        if(detail_link){
+                            console.log(detail_link.getAttribute("href"))
+                            restaurant["link_detail"] = detail_link.getAttribute("href")
                         }
                         restaurants.push(restaurant)
                         //console.log("restaurant:", restaurant)

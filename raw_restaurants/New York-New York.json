@@ -1,135 +1,189 @@
 [
   {
-    "name": "Nine Fine Irishmen",
-    "hotel": "New York-New York",
-    "gastronomy": "Irish",
-    "price": "$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/nine-fine-irishmen/food-and-drink/new-york-new-york-dining-nine-fine-irishmen-irish-nachos.tif.image.248.248.high.jpg"
-  },
-  {
     "name": "Gallagher's Steakhouse",
     "hotel": "New York-New York",
     "gastronomy": "Steakhouse",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/gallaghers-steakhouse/new-york-new-york-gallaghers-restaurant-interior.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/gallaghers-steakhouse.html"
   },
   {
     "name": "Beerhaus",
     "hotel": "New York-New York",
     "gastronomy": "American",
     "price": "$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/the-park/dining/beerhaus/new-york-new-york-dining-beerhaus-group-toasting-drinks.jpeg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/beerhaus.html"
   },
   {
     "name": "Shake Shack",
     "hotel": "New York-New York",
     "gastronomy": "American",
     "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/shake-shack/food-and-drink/new-york-new-york-dining-shake-shack-milkshakes.jpeg.image.248.248.high.jpg"
-  },
-  {
-    "name": "Tom's Watch Bar",
-    "hotel": "New York-New York",
-    "gastronomy": "American",
-    "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/toms-urban/architecture/new-york-new-york-dining-toms-urban-bar-and-patio.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/shake-shack.html"
   },
   {
     "name": "Chin Chin - Asian Restaurant and Sushi Bar",
     "hotel": "New York-New York",
-    "gastronomy": "Chinese",
+    "gastronomy": "Chinese ·",
     "price": "$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/chin-chin/new-york-new-york-dining-chin-chin-sushi-platter.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/chin-chin-cafe-and-sushi-bar.html"
   },
   {
     "name": "America",
     "hotel": "New York-New York",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/america.html"
   },
   {
     "name": "Hello Kitty Cafe",
     "hotel": "New York-New York",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/hello-kitty-cafe.html"
   },
   {
     "name": "Il Fornaio",
     "hotel": "New York-New York",
     "gastronomy": "Italian",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/il-fornaio.html"
   },
   {
     "name": "Gonzalez y Gonzalez",
     "hotel": "New York-New York",
     "gastronomy": "Mexican",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/gonzalez-y-gonzalez.html"
   },
   {
     "name": "Luke's Lobster",
     "hotel": "New York-New York",
     "gastronomy": "Seafood",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/lukes-lobster.html"
   },
   {
     "name": "Top Round",
     "hotel": "New York-New York",
     "gastronomy": "American",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/top-round.html"
   },
   {
     "name": "NYNY Food Hall",
     "hotel": "New York-New York",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://newyorknewyork.mgmresorts.com/en/restaurants/nyny-food-hall.html"
   },
   {
     "name": "Nusr-Et",
     "hotel": "New York-New York",
     "gastronomy": "Steakhouse",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/nusr-et.html"
   },
   {
     "name": "48th And Crepe",
     "hotel": "New York-New York",
-    "gastronomy": "French",
+    "gastronomy": "French ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/48th-and-crepe.html"
   },
   {
     "name": "Broadway Burger Bar and Grill",
     "hotel": "New York-New York",
     "gastronomy": "American",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/broadway-burger-bar-and-grill.html"
   },
   {
     "name": "Starbucks",
     "hotel": "New York-New York",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/starbucks.html"
   },
   {
     "name": "Village Street Eateries",
     "hotel": "New York-New York",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/village-street-eateries.html"
   },
   {
     "name": "Nathan’s",
     "hotel": "New York-New York",
     "gastronomy": "American",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/nathans-hot-dogs.html"
   }
 ]

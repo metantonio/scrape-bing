@@ -4,125 +4,197 @@
     "hotel": "Bellagio",
     "gastronomy": "Steakhouse",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/prime-steakhouse.html"
   },
   {
     "name": "Sadelle’s Café",
     "hotel": "Bellagio",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/sadelles.html"
   },
   {
     "name": "Le Cirque",
     "hotel": "Bellagio",
     "gastronomy": "French",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/le-cirque.html"
   },
   {
     "name": "The Mayfair Supper Club",
     "hotel": "Bellagio",
     "gastronomy": "American",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/the-mayfair-supperclub.html"
   },
   {
     "name": "The Buffet at Bellagio",
     "hotel": "Bellagio",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/the-buffet.html"
   },
   {
     "name": "Spago",
     "hotel": "Bellagio",
     "gastronomy": "American",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/spago-by-wolfgang-puck.html"
   },
   {
     "name": "Noodles",
     "hotel": "Bellagio",
     "gastronomy": "Pan-Asian",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/noodles.html"
   },
   {
     "name": "LAGO by Julian Serrano",
     "hotel": "Bellagio",
     "gastronomy": "Italian",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/lago.html"
   },
   {
     "name": "Jasmine",
     "hotel": "Bellagio",
     "gastronomy": "Cantonese",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/jasmine.html"
   },
   {
     "name": "Harvest",
     "hotel": "Bellagio",
     "gastronomy": "American",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/harvest.html"
   },
   {
     "name": "Picasso",
     "hotel": "Bellagio",
     "gastronomy": "French",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/picasso.html"
   },
   {
     "name": "Bellagio Patisserie",
     "hotel": "Bellagio",
     "gastronomy": "French ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/bellagio-patisserie.html"
   },
   {
     "name": "Snacks",
     "hotel": "Bellagio",
     "gastronomy": "American",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://bellagio.mgmresorts.com/en/restaurants/snacks.html"
   },
   {
     "name": "Michael Mina",
     "hotel": "Bellagio",
     "gastronomy": "Seafood",
     "price": "$$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/michael-mina.html"
   },
   {
     "name": "Starbucks",
     "hotel": "Bellagio",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/starbucks.html"
   },
   {
     "name": "Quick Eats",
     "hotel": "Bellagio",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/quick-eats.html"
   },
   {
     "name": "Juice Press",
     "hotel": "Bellagio",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/juice-press.html"
   },
   {
     "name": "Yellowtail Japanese Restaurant &amp; Lounge",
     "hotel": "Bellagio",
     "gastronomy": "Japanese",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/yellowtail-japanese-restaurant-lounge.html"
   }
 ]

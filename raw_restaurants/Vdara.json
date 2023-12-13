@@ -4,20 +4,32 @@
     "hotel": "Vdara",
     "gastronomy": "American ·",
     "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/vdara/dining/market-cafe-vdara/food-and-drink/vdara-dining-market-cafe-food-assortment.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/vdara/dining/market-cafe-vdara/food-and-drink/vdara-dining-market-cafe-food-assortment.jpg.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/market-cafe-vdara.html"
   },
   {
     "name": "VICE VERSA Patio &amp; Lounge",
     "hotel": "Vdara",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/vdara/dining/vice-versa-patio-and-lounge/architecture/vdara-architectural-vice-versa-patio-and-lounge-sign-shot.tif.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/vdara/dining/vice-versa-patio-and-lounge/architecture/vdara-architectural-vice-versa-patio-and-lounge-sign-shot.tif.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/vice-versa.html"
   },
   {
     "name": "Starbucks",
     "hotel": "Vdara",
     "gastronomy": "American ·",
     "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/starbucks/food-and-drink/aria-dining-starbucks-pour.tif.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/starbucks/food-and-drink/aria-dining-starbucks-pour.tif.image.248.248.high.jpg",
+    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/starbucks.html"
   }
 ]

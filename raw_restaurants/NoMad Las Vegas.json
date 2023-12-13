@@ -4,13 +4,21 @@
     "hotel": "NoMad Las Vegas",
     "gastronomy": "American",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/nomad-las-vegas/nomad-library.html"
   },
   {
     "name": "The NoMad Bar",
     "hotel": "NoMad Las Vegas",
     "gastronomy": "American",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/nomad-las-vegas/the-nomad-bar.html"
   }
 ]

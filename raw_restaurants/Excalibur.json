@@ -1,58 +1,79 @@
 [
   {
-    "name": "The Buffet at Excalibur",
-    "hotel": "Excalibur",
-    "gastronomy": "American",
-    "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/the-buffet/excalibur-restaurants-buffet-exterior.tif.image.248.248.high.jpg"
-  },
-  {
     "name": "Dick's Last Resort",
     "hotel": "Excalibur",
     "gastronomy": "American",
     "price": "$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/dicks-last-resort/architecture/excalibur-dining-dicks-last-resort-exterior-sign.tif.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/dicks-last-resort.html"
   },
   {
     "name": "Starbucks",
     "hotel": "Excalibur",
     "gastronomy": "American ·",
     "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/starbucks/food-and-drink/luxor-dining-restaurants-starbucks-coffee-and-tea.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://excalibur.mgmresorts.com/en/restaurants/starbucks.html"
   },
   {
     "name": "Buca di Beppo",
     "hotel": "Excalibur",
-    "gastronomy": "Italian",
+    "gastronomy": "Italian ·",
     "price": "$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/buca-di-beppo/excalibur-restaurants-buca-di-beppo-spaghetti-wine-.tif.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/buca-di-beppo.html"
   },
   {
     "name": "Johnny Rockets",
     "hotel": "Excalibur",
     "gastronomy": "American ·",
     "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/johnny-rockets/excalibur-restaurant-johnny-rockets-burger1.tif.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/johnny-rockets.html"
   },
   {
     "name": "Baja Fresh",
     "hotel": "Excalibur",
-    "gastronomy": "Mexican",
+    "gastronomy": "Mexican ·",
     "price": "$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/baja-fresh/excalibur-restaurant-baja-fresh-logo.tif.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/baja-fresh.html"
   },
   {
     "name": "Food Court",
     "hotel": "Excalibur",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/food-court.html"
   },
   {
     "name": "Orange Julius/Dairy Queen",
     "hotel": "Excalibur",
     "gastronomy": "American",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/orange-julius-dairy-queen.html"
   }
 ]

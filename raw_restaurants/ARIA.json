@@ -4,104 +4,164 @@
     "hotel": "ARIA",
     "gastronomy": "French",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/bardot-brasserie/food-and-drink/aria-dining-bardot-beef-wellington.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/bardot-brasserie.html"
   },
   {
     "name": "Carbone",
     "hotel": "ARIA",
     "gastronomy": "Italian",
     "price": "$$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/carbone/food-and-drink/aria-dining-carbone-veal-parm.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/carbone.html"
   },
   {
     "name": "CATCH",
     "hotel": "ARIA",
     "gastronomy": "Seafood",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/catch/food-and-drink/aria-dining-catch-oysters-and-a5-wagyu.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/catch.html"
   },
   {
     "name": "Javier's",
     "hotel": "ARIA",
     "gastronomy": "Mexican",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/javiers/food-and-drink/aria-dining-javiers-baja-specials.jpeg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/javiers.html"
   },
   {
     "name": "Jean Georges Steakhouse",
     "hotel": "ARIA",
     "gastronomy": "Steakhouse",
     "price": "$$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/jean-georges-steakhouse/food-and-drink/aria-dining-jean-georges-soy-glazed-short-ribs.jpeg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/jean-georges-steakhouse.html"
   },
   {
     "name": "Blossom",
     "hotel": "ARIA",
     "gastronomy": "Chinese",
     "price": "$$$",
-    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/blossom/food-and-drink/aria-dining-blossom-tablescape-dinner.jpg.image.248.248.high.jpg"
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/blossom.html"
   },
   {
     "name": "Din Tai Fung",
     "hotel": "ARIA",
     "gastronomy": "Pan-Asian",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/din-tai-fung.html"
   },
   {
     "name": "Lemongrass",
     "hotel": "ARIA",
     "gastronomy": "Thai",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/lemongrass.html"
   },
   {
     "name": "Salt &amp; Ivy",
     "hotel": "ARIA",
     "gastronomy": "American ·",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/salt-and-ivy.html"
   },
   {
     "name": "Moneyline Pizza &amp; Bar",
     "hotel": "ARIA",
     "gastronomy": "American",
     "price": "$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/moneyline-pizza-and-bar.html"
   },
   {
     "name": "Julian Serrano Tapas",
     "hotel": "ARIA",
     "gastronomy": "Spanish",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/julian-serrano.html"
   },
   {
     "name": "Cathédrale Las Vegas",
     "hotel": "ARIA",
     "gastronomy": "French",
     "price": "$$$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://aria.mgmresorts.com/en/restaurants/cathedrale-las-vegas.html"
   },
   {
     "name": "ARIA Patisserie",
     "hotel": "ARIA",
     "gastronomy": "French ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/aria-patisserie.html"
   },
   {
     "name": "Starbucks",
     "hotel": "ARIA",
     "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/starbucks.html"
   },
   {
     "name": "Pressed Juicery",
     "hotel": "ARIA",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$",
-    "image": ""
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "image": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/aria/pressed-juicery.html"
   }
 ]
