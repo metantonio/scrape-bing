@@ -108,14 +108,14 @@ async function mgmgoin(page, config) {
             //console.log(page)
 
 
-            let scrape = await page.evaluate(() => {
+            var scrape = await page.evaluate(async () => {
                 let restaurants = []
                 console.log("evaluation")
                 //let cards = document.querySelectorAll(".b_recCardData")
                 let cards = Array.from(document.querySelectorAll(".css-1eatf5e"))
                 console.log("length cards: ", cards.length)
                 for (let i = 0; i < cards.length; i++) {
-                    let restaurant = { name: '', hotel: '', gastronomy: '', price: '', description:'', phone:'', hours:'' }
+                    let restaurant = { name: '', hotel: '', gastronomy: '', price: '', description: '', phone: '', hours: '', link_detail: '' }
 
                     let title = cards[i].querySelector("[data-testid=\"discovery-result-card-title\"]")
                     if (title) {
@@ -133,14 +133,14 @@ async function mgmgoin(page, config) {
                             restaurant["price"] = detail_c.innerHTML
                         }
                         let detail_img = cards[i].querySelector("[data-testid=\"discovery-result-card-image\"]")
-                        if(detail_img){
+                        if (detail_img) {
                             //console.log(detail_img.getAttribute("src"))
                             restaurant["image"] = detail_img.getAttribute("src")
                         }
 
                         let detail_link = cards[i].querySelector("[data-testid=\"discovery-result-card-image-link\"]")
-                        if(detail_link){
-                            console.log(detail_link.getAttribute("href"))
+                        if (detail_link) {
+                            //console.log(detail_link.getAttribute("href"))
                             restaurant["link_detail"] = detail_link.getAttribute("href")
                         }
                         restaurants.push(restaurant)
@@ -152,6 +152,26 @@ async function mgmgoin(page, config) {
                 //console.log(restaurants)
                 return restaurants;
             })
+            for (var h = 0; h < scrape.length; h++) {
+                if (scrape[h]["link_detail"] != '') {
+                    console.log("entrando en: ",scrape[h]["link_detail"])
+
+                    await page.goto(scrape[h]["link_detail"])
+                    await timeout(1000)
+                    await page.waitForSelector("[class=\"OverviewHeaderSection__content\"]", { visible: true })
+
+                    let subpage = page.evaluate(() => {
+                        let restaurant = {description: '', phone: '', hours: ''}
+                        let description = document.querySelector("[class=\"CustomContent CustomContent--variant--large CustomContent--color--default\"]")
+                        if (description) {
+                            restaurant["description"] = description.innerHTML
+                        }
+                        return restaurant
+                    })
+                    scrape[h]["description"]=subpage["description"]
+                }
+            }
+
             console.log('scrape: ', scrape)
             const dataJSON = JSON.stringify(scrape, null, 2);
             // Escribe el archivo JSON en el sistema de archivos
