@@ -4,32 +4,38 @@
     "hotel": "Vdara",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "This modern café features a menu of freshly prepared breakfast (available all day), lunch and dinner options. Drop by this cozy eatery for a quick bite, sweet treats, gourmet groceries and a variety of healthy snacks. Market Café Vdara also offers patrons the added convenience of a boutique grocery store. The grocery store features items that create a luxurious home away from home, including fresh items, meats, wines, and cheeses.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/vdara/dining/market-cafe-vdara/food-and-drink/vdara-dining-market-cafe-food-assortment.jpg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/market-cafe-vdara.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/market-cafe-vdara.html",
+    "image": "",
+    "INFORMATION": "702.590.2424",
+    "MON - SUN": "Open 24 Hours"
   },
   {
     "name": "VICE VERSA Patio &amp; Lounge",
     "hotel": "Vdara",
     "gastronomy": "American ·",
     "price": "$$",
-    "description": "",
+    "description": "Welcome to VICE VERSA Patio & Lounge. This boutique venue resides at the center of our hotel and embodies the stylish aesthetics and vibrant energy of Vdara. By day, it’s a comfortable and casual space for business and leisure. By night, it transforms into a contemporary, hip lounge. Our patio, with a stunning water feature and fire pits, is open for enjoying tasty bites and handcrafted cocktails. We don’t do expected, typical or ordinary. We do things VICE VERSA.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/vdara/dining/vice-versa-patio-and-lounge/architecture/vdara-architectural-vice-versa-patio-and-lounge-sign-shot.tif.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/vice-versa.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/vice-versa.html",
+    "image": "",
+    "INFORMATION": "702.590.2030",
+    "MON - SUN": "8:00 AM - 12:00 AM",
+    "DAILY": "12:00 PM - 10:00 PM"
   },
   {
     "name": "Starbucks",
     "hotel": "Vdara",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "Starbucks offers handcrafted coffee beverages, premium teas and delectable treats.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/starbucks/food-and-drink/aria-dining-starbucks-pour.tif.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/starbucks.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/starbucks.html",
+    "image": "",
+    "MON - SUN": "6:00 AM - 8:00 PM"
   }
 ]

@@ -85,18 +85,18 @@ async function mgmgoin(page, config) {
     const ruta = './raw_restaurants';
     const url = [
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Bellagio',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Delano_Las_Vegas',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,Delano_Las_Vegas',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Luxor_Hotel_Casino',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,ARIA',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Cosmopolitan_of_Las_Vegas',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,ARIA',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Cosmopolitan_of_Las_Vegas',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Excalibur_Hotel_Casino',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Mandalay_Bay',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,MGM_Grand_Las_Vegas',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,NoMad_Las_Vegas',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Signature_at_MGM_Grand',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,NoMad_Las_Vegas',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Signature_at_MGM_Grand',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,New_York_New_York_Hotel_Casino',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Park_MGM',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Vdara_Hotel_Spa_at_ARIA'
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,Vdara_Hotel_Spa_at_ARIA'
     ]
     for (let k = 0; k < url.length; k++) {
         try {
@@ -135,13 +135,23 @@ async function mgmgoin(page, config) {
                         let detail_img = cards[i].querySelector("[data-testid=\"discovery-result-card-image\"]")
                         if (detail_img) {
                             //console.log(detail_img.getAttribute("src"))
-                            restaurant["image"] = detail_img.getAttribute("src")
+                            try{
+                                restaurant["image"] = detail_img.getAttribute("src") || ""
+                            }catch(err){
+                                console.log("err")
+                            }
+                           
                         }
 
                         let detail_link = cards[i].querySelector("[data-testid=\"discovery-result-card-image-link\"]")
                         if (detail_link) {
                             //console.log(detail_link.getAttribute("href"))
-                            restaurant["link_detail"] = detail_link.getAttribute("href")
+                            try{
+                                restaurant["link_detail"] = detail_link.getAttribute("href")
+                            }catch(err){
+                                console.log("err2")
+                            }
+                            
                         }
                         restaurants.push(restaurant)
                         //console.log("restaurant:", restaurant)
@@ -152,23 +162,36 @@ async function mgmgoin(page, config) {
                 //console.log(restaurants)
                 return restaurants;
             })
-            for (var h = 0; h < scrape.length; h++) {
+            for (let h = 0; h < scrape.length; h++) {
                 if (scrape[h]["link_detail"] != '') {
                     console.log("entrando en: ",scrape[h]["link_detail"])
 
                     await page.goto(scrape[h]["link_detail"])
-                    await timeout(1000)
+                    await timeout(2000)
                     await page.waitForSelector("[class=\"OverviewHeaderSection__content\"]", { visible: true })
-
-                    let subpage = page.evaluate(() => {
-                        let restaurant = {description: '', phone: '', hours: ''}
-                        let description = document.querySelector("[class=\"CustomContent CustomContent--variant--large CustomContent--color--default\"]")
+                    
+                    scrape[h]["description"]= await page.evaluate(() => {                        
+                        let description = document.querySelector("[class=\"CustomContent CustomContent--variant--large CustomContent--color--default\"]");
                         if (description) {
-                            restaurant["description"] = description.innerHTML
-                        }
-                        return restaurant
-                    })
-                    scrape[h]["description"]=subpage["description"]
+                            //console.log("innerText: ", description.innerText);
+                            return `${description.innerText}`;                            
+                        }                        
+                    });
+
+                    let other_details= await page.evaluate(() => {  
+                        let temp_data={}                      
+                        let descriptions = document.querySelectorAll("[class=\"OverviewSidebarSection__item__label\"]");
+                        let detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
+                        if (descriptions.length>0) {
+                            for(let n=0; n<descriptions.length; n++){
+                                temp_data[descriptions[n].innerText]=detailed[n].innerText
+                            }
+                            return temp_data;                            
+                        }                        
+                    });
+                    scrape[h] = {...scrape[h], ...other_details}
+                    console.log("scrape[h][desc]: ",scrape)
+                    
                 }
             }
 
