@@ -3,12 +3,14 @@
     "name": "NoMad Library Restaurant",
     "hotel": "NoMad Las Vegas",
     "gastronomy": "American",
-    "price": "$$$"
+    "price": "$$$",
+    "image": ""
   },
   {
     "name": "The NoMad Bar",
     "hotel": "NoMad Las Vegas",
     "gastronomy": "American",
-    "price": "$$$"
+    "price": "$$$",
+    "image": ""
   }
 ]

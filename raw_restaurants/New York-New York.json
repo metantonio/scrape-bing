@@ -3,114 +3,133 @@
     "name": "Nine Fine Irishmen",
     "hotel": "New York-New York",
     "gastronomy": "Irish",
-    "price": "$$"
-  },
-  {
-    "name": "Tom's Watch Bar",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$"
-  },
-  {
-    "name": "Beerhaus",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Shake Shack",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$"
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/nine-fine-irishmen/food-and-drink/new-york-new-york-dining-nine-fine-irishmen-irish-nachos.tif.image.248.248.high.jpg"
   },
   {
     "name": "Gallagher's Steakhouse",
     "hotel": "New York-New York",
     "gastronomy": "Steakhouse",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/gallaghers-steakhouse/new-york-new-york-gallaghers-restaurant-interior.jpg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Beerhaus",
+    "hotel": "New York-New York",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/the-park/dining/beerhaus/new-york-new-york-dining-beerhaus-group-toasting-drinks.jpeg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Shake Shack",
+    "hotel": "New York-New York",
+    "gastronomy": "American",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/shake-shack/food-and-drink/new-york-new-york-dining-shake-shack-milkshakes.jpeg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Tom's Watch Bar",
+    "hotel": "New York-New York",
+    "gastronomy": "American",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/toms-urban/architecture/new-york-new-york-dining-toms-urban-bar-and-patio.jpg.image.248.248.high.jpg"
   },
   {
     "name": "Chin Chin - Asian Restaurant and Sushi Bar",
     "hotel": "New York-New York",
-    "gastronomy": "Chinese ·",
-    "price": "$$"
-  },
-  {
-    "name": "48th And Crepe",
-    "hotel": "New York-New York",
-    "gastronomy": "French ·",
-    "price": "$"
-  },
-  {
-    "name": "Gonzalez y Gonzalez",
-    "hotel": "New York-New York",
-    "gastronomy": "Mexican ·",
-    "price": "$"
-  },
-  {
-    "name": "Top Round",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$"
-  },
-  {
-    "name": "Luke's Lobster",
-    "hotel": "New York-New York",
-    "gastronomy": "Seafood ·",
-    "price": "$$"
-  },
-  {
-    "name": "NYNY Food Hall",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$"
-  },
-  {
-    "name": "Broadway Burger Bar and Grill",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$"
-  },
-  {
-    "name": "Il Fornaio",
-    "hotel": "New York-New York",
-    "gastronomy": "Italian ·",
-    "price": "$$"
-  },
-  {
-    "name": "Nusr-Et",
-    "hotel": "New York-New York",
-    "gastronomy": "Steakhouse ·",
-    "price": "$$$$"
+    "gastronomy": "Chinese",
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/new-york-new-york/dining/chin-chin/new-york-new-york-dining-chin-chin-sushi-platter.jpg.image.248.248.high.jpg"
   },
   {
     "name": "America",
     "hotel": "New York-New York",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Hello Kitty Cafe",
     "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
-    "name": "Village Street Eateries",
+    "name": "Il Fornaio",
     "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "Italian",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Gonzalez y Gonzalez",
+    "hotel": "New York-New York",
+    "gastronomy": "Mexican",
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "Luke's Lobster",
+    "hotel": "New York-New York",
+    "gastronomy": "Seafood",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Top Round",
+    "hotel": "New York-New York",
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "NYNY Food Hall",
+    "hotel": "New York-New York",
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "Nusr-Et",
+    "hotel": "New York-New York",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$",
+    "image": ""
+  },
+  {
+    "name": "48th And Crepe",
+    "hotel": "New York-New York",
+    "gastronomy": "French",
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "Broadway Burger Bar and Grill",
+    "hotel": "New York-New York",
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Starbucks",
     "hotel": "New York-New York",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "Village Street Eateries",
+    "hotel": "New York-New York",
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Nathan’s",
     "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   }
 ]

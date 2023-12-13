@@ -3,114 +3,133 @@
     "name": "Joël Robuchon",
     "hotel": "MGM Grand",
     "gastronomy": "French",
-    "price": "$$$$"
+    "price": "$$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mgm-grand/dining/joel-robuchon/food-and-drink/mgm-grand-restaurant-joel-robuchon-signature-dessert-sphere-@2x.jpg.image.248.248.high.jpg"
   },
   {
     "name": "Wolfgang Puck Bar &amp; Grill",
     "hotel": "MGM Grand",
-    "gastronomy": "American ·",
-    "price": "$$"
+    "gastronomy": "American",
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mgm-grand/dining/wolfgang-puck/chefs/mgm-grand-resturants-wolfgang-puck-headshot.tif.image.248.248.high.jpg"
   },
   {
     "name": "MGM Grand Buffet",
     "hotel": "MGM Grand",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mgm-grand/dining/mgm-grand-buffet/architecture/mgm-grand-restaurants-buffet-architecture-buffet-line.jpg.image.248.248.high.jpg"
   },
   {
     "name": "Grand Wok Noodle Bar",
     "hotel": "MGM Grand",
     "gastronomy": "Pan-Asian",
-    "price": "$$"
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mgm-grand/dining/the-grand-wok-and-sushi-bar/architecture/mgm-grand-dining-grand-wok-front-entrance.jpeg.image.248.248.high.jpg"
   },
   {
     "name": "L'Atelier de Joël Robuchon",
     "hotel": "MGM Grand",
     "gastronomy": "French",
-    "price": "$$$$"
+    "price": "$$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mgm-grand/dining/latelier-de-joel-robuchon/food-and-drink/mgm-grand-dining-latelier-le-st-pierre-dish.tif.image.248.248.high.jpg"
   },
   {
     "name": "Hakkasan Restaurant",
     "hotel": "MGM Grand",
     "gastronomy": "Chinese",
-    "price": "$$$$"
+    "price": "$$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/mgm-grand/dining/hakkasan/food-and-drink/mgm-grand-dining-hakkasan-crispy-duck-salad.JPG"
   },
   {
     "name": "TAP Sports Bar",
     "hotel": "MGM Grand",
     "gastronomy": "American",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Luchini Italian Restaurant",
     "hotel": "MGM Grand",
     "gastronomy": "Italian",
-    "price": "$$"
+    "price": "$$",
+    "image": ""
   },
   {
     "name": "Avenue Café",
     "hotel": "MGM Grand",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Emeril's New Orleans Fish House",
     "hotel": "MGM Grand",
-    "gastronomy": "Creole ·",
-    "price": "$$"
-  },
-  {
-    "name": "Greek Sneek Mediterranean Grill",
-    "hotel": "MGM Grand",
-    "gastronomy": "Mediterranean",
-    "price": "$$"
+    "gastronomy": "Creole",
+    "price": "$$",
+    "image": ""
   },
   {
     "name": "CRUSH American Grill",
     "hotel": "MGM Grand",
     "gastronomy": "American",
-    "price": "$$"
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Greek Sneek Mediterranean Grill",
+    "hotel": "MGM Grand",
+    "gastronomy": "Mediterranean",
+    "price": "$$",
+    "image": ""
   },
   {
     "name": "Morimoto Las Vegas",
     "hotel": "MGM Grand",
     "gastronomy": "Japanese",
-    "price": "$$$"
+    "price": "$$$",
+    "image": ""
+  },
+  {
+    "name": "Pieology",
+    "hotel": "MGM Grand",
+    "gastronomy": "Italian",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Starbucks",
     "hotel": "MGM Grand",
     "gastronomy": "American ·",
-    "price": "$"
-  },
-  {
-    "name": "Pieology",
-    "hotel": "MGM Grand",
-    "gastronomy": "Italian ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Tom Colicchio's Craftsteak",
     "hotel": "MGM Grand",
     "gastronomy": "Steakhouse",
-    "price": "$$$$"
+    "price": "$$$$",
+    "image": ""
   },
   {
     "name": "Blizz Frozen Yogurt &amp; Desserts",
     "hotel": "MGM Grand",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Food Court",
     "hotel": "MGM Grand",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Bonanno's New York Pizzeria",
     "hotel": "MGM Grand",
-    "gastronomy": "Italian ·",
-    "price": "$"
+    "gastronomy": "Italian",
+    "price": "$",
+    "image": ""
   }
 ]

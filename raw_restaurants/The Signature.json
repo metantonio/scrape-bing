@@ -2,7 +2,8 @@
   {
     "name": "Delights",
     "hotel": "The Signature",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/signature/dining/delights/signature-dining-delights-detail-shot-pastries.jpg.image.248.248.high.jpg"
   }
 ]

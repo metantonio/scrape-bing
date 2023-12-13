@@ -3,90 +3,105 @@
     "name": "Bardot Brasserie",
     "hotel": "ARIA",
     "gastronomy": "French",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/bardot-brasserie/food-and-drink/aria-dining-bardot-beef-wellington.jpg.image.248.248.high.jpg"
   },
   {
     "name": "Carbone",
     "hotel": "ARIA",
     "gastronomy": "Italian",
-    "price": "$$$$"
+    "price": "$$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/carbone/food-and-drink/aria-dining-carbone-veal-parm.jpg.image.248.248.high.jpg"
   },
   {
     "name": "CATCH",
     "hotel": "ARIA",
     "gastronomy": "Seafood",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/catch/food-and-drink/aria-dining-catch-oysters-and-a5-wagyu.jpg.image.248.248.high.jpg"
   },
   {
     "name": "Javier's",
     "hotel": "ARIA",
-    "gastronomy": "Mexican ·",
-    "price": "$$$"
+    "gastronomy": "Mexican",
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/javiers/food-and-drink/aria-dining-javiers-baja-specials.jpeg.image.248.248.high.jpg"
   },
   {
     "name": "Jean Georges Steakhouse",
     "hotel": "ARIA",
     "gastronomy": "Steakhouse",
-    "price": "$$$$"
+    "price": "$$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/jean-georges-steakhouse/food-and-drink/aria-dining-jean-georges-soy-glazed-short-ribs.jpeg.image.248.248.high.jpg"
   },
   {
     "name": "Blossom",
     "hotel": "ARIA",
     "gastronomy": "Chinese",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/aria/dining/blossom/food-and-drink/aria-dining-blossom-tablescape-dinner.jpg.image.248.248.high.jpg"
   },
   {
     "name": "Din Tai Fung",
     "hotel": "ARIA",
-    "gastronomy": "Pan-Asian ·",
-    "price": "$$"
-  },
-  {
-    "name": "Julian Serrano Tapas",
-    "hotel": "ARIA",
-    "gastronomy": "Spanish",
-    "price": "$$$"
-  },
-  {
-    "name": "Moneyline Pizza &amp; Bar",
-    "hotel": "ARIA",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Salt &amp; Ivy",
-    "hotel": "ARIA",
-    "gastronomy": "American ·",
-    "price": "$$"
+    "gastronomy": "Pan-Asian",
+    "price": "$$",
+    "image": ""
   },
   {
     "name": "Lemongrass",
     "hotel": "ARIA",
     "gastronomy": "Thai",
-    "price": "$$"
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Salt &amp; Ivy",
+    "hotel": "ARIA",
+    "gastronomy": "American ·",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Moneyline Pizza &amp; Bar",
+    "hotel": "ARIA",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Julian Serrano Tapas",
+    "hotel": "ARIA",
+    "gastronomy": "Spanish",
+    "price": "$$$",
+    "image": ""
   },
   {
     "name": "Cathédrale Las Vegas",
     "hotel": "ARIA",
     "gastronomy": "French",
-    "price": "$$$"
+    "price": "$$$",
+    "image": ""
   },
   {
     "name": "ARIA Patisserie",
     "hotel": "ARIA",
     "gastronomy": "French ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Starbucks",
     "hotel": "ARIA",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Pressed Juicery",
     "hotel": "ARIA",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   }
 ]

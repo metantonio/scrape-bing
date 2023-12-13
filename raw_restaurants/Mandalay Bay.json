@@ -3,126 +3,147 @@
     "name": "Libertine Social",
     "hotel": "Mandalay Bay",
     "gastronomy": "American",
-    "price": "$$"
+    "price": "$$",
+    "image": ""
   },
   {
     "name": "Border Grill",
     "hotel": "Mandalay Bay",
-    "gastronomy": "Mexican ·",
-    "price": "$$"
+    "gastronomy": "Mexican",
+    "price": "$$",
+    "image": ""
   },
   {
     "name": "House of Blues Restaurant &amp; Bar",
     "hotel": "Mandalay Bay",
-    "gastronomy": "American ·",
-    "price": "$$"
+    "gastronomy": "American",
+    "price": "$$",
+    "image": ""
   },
   {
     "name": "Wahlburgers",
     "hotel": "Mandalay Bay",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
-    "name": "Hussong's Cantina",
+    "name": "Seabreeze Café",
     "hotel": "Mandalay Bay",
-    "gastronomy": "Mexican ·",
-    "price": "$"
-  },
-  {
-    "name": "BBQ Mexicana",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Mexican ·",
-    "price": "$"
-  },
-  {
-    "name": "Hazel Coffee &amp; Cocktails",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Rí Rá Irish Pub",
     "hotel": "Mandalay Bay",
-    "gastronomy": "Irish ·",
-    "price": "$"
-  },
-  {
-    "name": "Flanker Kitchen + Sports Bar",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American",
-    "price": "$$"
+    "gastronomy": "Irish",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Retro by Voltaggio",
     "hotel": "Mandalay Bay",
     "gastronomy": "American",
-    "price": "$$"
+    "price": "$$",
+    "image": ""
   },
   {
-    "name": "Seabreeze Café",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American ·",
-    "price": "$"
-  },
-  {
-    "name": "Noodle Shop",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Pan-Asian ·",
-    "price": "$"
-  },
-  {
-    "name": "Foundation Room",
+    "name": "Flanker Kitchen + Sports Bar",
     "hotel": "Mandalay Bay",
     "gastronomy": "American",
-    "price": "$$$"
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Hussong's Cantina",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Mexican",
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "BBQ Mexicana",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Mexican",
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "Hazel Coffee &amp; Cocktails",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Citizens Kitchen &amp; Bar",
     "hotel": "Mandalay Bay",
-    "gastronomy": "American ·",
-    "price": "$"
-  },
-  {
-    "name": "StripSteak",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Steakhouse",
-    "price": "$$$$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Slice of Vegas",
     "hotel": "Mandalay Bay",
-    "gastronomy": "Italian ·",
-    "price": "$"
-  },
-  {
-    "name": "KUMI",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Japanese",
-    "price": "$$$"
-  },
-  {
-    "name": "Veranda",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "",
-    "price": ""
+    "gastronomy": "Italian",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "PRESS",
     "hotel": "Mandalay Bay",
     "gastronomy": "",
-    "price": ""
+    "price": "",
+    "image": ""
+  },
+  {
+    "name": "StripSteak",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$",
+    "image": ""
+  },
+  {
+    "name": "Noodle Shop",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Pan-Asian",
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "KUMI",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Japanese",
+    "price": "$$$",
+    "image": ""
+  },
+  {
+    "name": "Foundation Room",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American",
+    "price": "$$$",
+    "image": ""
+  },
+  {
+    "name": "Veranda",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "",
+    "price": "",
+    "image": ""
   },
   {
     "name": "Starbucks",
     "hotel": "Mandalay Bay",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Mandalay Bay Food Court",
     "hotel": "Mandalay Bay",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   }
 ]

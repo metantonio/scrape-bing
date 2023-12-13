@@ -2,55 +2,64 @@
   {
     "name": "Diablo's Cantina",
     "hotel": "Luxor",
-    "gastronomy": "Mexican ·",
-    "price": "$$"
-  },
-  {
-    "name": "Public House",
-    "hotel": "Luxor",
-    "gastronomy": "American",
-    "price": "$"
+    "gastronomy": "Mexican",
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/diablos-cantina/food-and-drink/luxor-dining-diablos-enchiladas-top-view.jpg.image.248.248.high.jpg"
   },
   {
     "name": "TENDER steakhouse + lounge",
     "hotel": "Luxor",
     "gastronomy": "Steakhouse",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/tender-steak-and-seafood/food-and-drink/luxor-dining-tender-menu-assortment.jpg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Public House",
+    "hotel": "Luxor",
+    "gastronomy": "American",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/public-house/lifestyle/luxor-dining-public-house-group-lifestyle.jpg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Backstage Deli",
+    "hotel": "Luxor",
+    "gastronomy": "American ·",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/backstage-deli/food-and-drink/luxor-dining-restaurant-backstage-ahh-pluck-it.tif.image.248.248.high.jpg"
+  },
+  {
+    "name": "Pyramid Café",
+    "hotel": "Luxor",
+    "gastronomy": "American",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/pyramid-cafe/food-and-beverage/luxor-dining-pyramid-cafe-western-omelette-orange-juice.jpeg.image.248.248.high.jpg"
   },
   {
     "name": "The Buffet at Luxor",
     "hotel": "Luxor",
     "gastronomy": "American",
-    "price": "$"
-  },
-  {
-    "name": "Backstage Deli",
-    "hotel": "Luxor",
-    "gastronomy": "American",
-    "price": "$"
-  },
-  {
-    "name": "Pyramid Café",
-    "hotel": "Luxor",
-    "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/more-buffet/food-and-drink/luxor-dining-thebuffet-breakfast.tif.image.248.248.high.jpg"
   },
   {
     "name": "Starbucks Café",
     "hotel": "Luxor",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Luxor Food Court",
     "hotel": "Luxor",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Blizz",
     "hotel": "Luxor",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   }
 ]

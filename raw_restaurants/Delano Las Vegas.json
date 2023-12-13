@@ -3,18 +3,21 @@
     "name": "Rivea",
     "hotel": "Delano Las Vegas",
     "gastronomy": "French",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/delano-las-vegas/dining/rivea/delano-dining-rivea-riviera-style-branzino.jpeg.image.248.248.high.jpg"
   },
   {
     "name": "Della's Kitchen",
     "hotel": "Delano Las Vegas",
     "gastronomy": "American",
-    "price": "$"
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/delano-las-vegas/dining/dellas-kitchen/food-and-drink/delano-las-vegas-restaurants-dellas-kitchen-chicken-and-waffles.tif.image.248.248.high.jpg"
   },
   {
     "name": "3940 Coffee and Tea",
     "hotel": "Delano Las Vegas",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/delano-las-vegas/dining/3940-coffee-and-tea/delano-las-vegas-restaurants-3940-delano-coffee.tif.image.248.248.high.jpg"
   }
 ]

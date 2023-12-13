@@ -1,50 +1,58 @@
 [
   {
-    "name": "Dick's Last Resort",
-    "hotel": "Excalibur",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
     "name": "The Buffet at Excalibur",
     "hotel": "Excalibur",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/the-buffet/excalibur-restaurants-buffet-exterior.tif.image.248.248.high.jpg"
   },
   {
-    "name": "Buca di Beppo",
+    "name": "Dick's Last Resort",
     "hotel": "Excalibur",
-    "gastronomy": "Italian ·",
-    "price": "$$"
+    "gastronomy": "American",
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/dicks-last-resort/architecture/excalibur-dining-dicks-last-resort-exterior-sign.tif.image.248.248.high.jpg"
   },
   {
     "name": "Starbucks",
     "hotel": "Excalibur",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/starbucks/food-and-drink/luxor-dining-restaurants-starbucks-coffee-and-tea.jpg.image.248.248.high.jpg"
   },
   {
-    "name": "Baja Fresh",
+    "name": "Buca di Beppo",
     "hotel": "Excalibur",
-    "gastronomy": "Mexican ·",
-    "price": "$"
+    "gastronomy": "Italian",
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/buca-di-beppo/excalibur-restaurants-buca-di-beppo-spaghetti-wine-.tif.image.248.248.high.jpg"
   },
   {
     "name": "Johnny Rockets",
     "hotel": "Excalibur",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/johnny-rockets/excalibur-restaurant-johnny-rockets-burger1.tif.image.248.248.high.jpg"
+  },
+  {
+    "name": "Baja Fresh",
+    "hotel": "Excalibur",
+    "gastronomy": "Mexican",
+    "price": "$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/excalibur/dining/baja-fresh/excalibur-restaurant-baja-fresh-logo.tif.image.248.248.high.jpg"
   },
   {
     "name": "Food Court",
     "hotel": "Excalibur",
     "gastronomy": "American ·",
-    "price": "$"
+    "price": "$",
+    "image": ""
   },
   {
     "name": "Orange Julius/Dairy Queen",
     "hotel": "Excalibur",
-    "gastronomy": "American ·",
-    "price": "$"
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
   }
 ]

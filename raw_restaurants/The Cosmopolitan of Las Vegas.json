@@ -1,158 +1,184 @@
 [
   {
-    "name": "Wicked Spoon",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$$"
-  },
-  {
     "name": "Jaleo",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Spanish",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-jaleo.jpg.image.248.248.high.jpg"
   },
   {
-    "name": "é by José Andrés",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Spanish",
-    "price": "$$$$"
-  },
-  {
-    "name": "China Poblano",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Fusion ·",
-    "price": "$$"
-  },
-  {
-    "name": "District: Donuts. Sliders. Brew.",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Overlook Grill",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$$"
-  },
-  {
-    "name": "Lardo",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "STK",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Steakhouse ·",
-    "price": "$$$$"
-  },
-  {
-    "name": "The Juice Standard",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Ghost Donkey: Mezcal &amp; Tequila Bar",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Mexican",
-    "price": "$$"
-  },
-  {
-    "name": "Tekka Bar: Handroll &amp; Sake",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Japanese ·",
-    "price": "$$"
-  },
-  {
-    "name": "zuma",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Japanese",
-    "price": "$$$$"
-  },
-  {
-    "name": "Red Plate",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Chinese",
-    "price": "$$$$"
-  },
-  {
-    "name": "Beauty &amp; Essex",
+    "name": "Wicked Spoon",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "American",
-    "price": "$$$$"
-  },
-  {
-    "name": "Eggslut",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$"
-  },
-  {
-    "name": "Milk Bar",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Va Bene Caffe",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Italian ·",
-    "price": "$$"
-  },
-  {
-    "name": "Superfrico",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Italian",
-    "price": "$$$"
-  },
-  {
-    "name": "The Henry",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Momofuku",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Pan-Asian ·",
-    "price": "$$$"
-  },
-  {
-    "name": "Starbucks",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Bang Bar",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Pan-Asian ·",
-    "price": "$$"
-  },
-  {
-    "name": "Hattie B's Hot Chicken",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Holsteins",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$"
-  },
-  {
-    "name": "Scarpetta",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Italian",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-wicked-spoon.jpg.image.248.248.high.jpg"
   },
   {
     "name": "Blue Ribbon",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "Seafood",
-    "price": "$$$"
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-blue-ribbon.jpg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Bang Bar",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Pan-Asian",
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-bang-bar.jpg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Superfrico",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Italian",
+    "price": "$$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-superfrico.jpg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Holsteins",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": "//static.mgmresorts.com/content/dam/MGM/cosmopolitan/dining/tiles/tcolv-dining-tile-image-holsteins.jpg.image.248.248.high.jpg"
+  },
+  {
+    "name": "Momofuku",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Pan-Asian",
+    "price": "$$$",
+    "image": ""
+  },
+  {
+    "name": "Beauty &amp; Essex",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$$$",
+    "image": ""
+  },
+  {
+    "name": "Eggslut",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$",
+    "image": ""
+  },
+  {
+    "name": "Hattie B's Hot Chicken",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Starbucks",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American ·",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Va Bene Caffe",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Italian",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Scarpetta",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Italian",
+    "price": "$$$",
+    "image": ""
+  },
+  {
+    "name": "The Henry",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Milk Bar",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Ghost Donkey: Mezcal &amp; Tequila Bar",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Mexican",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Overlook Grill",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$$",
+    "image": ""
+  },
+  {
+    "name": "zuma",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Japanese",
+    "price": "$$$$",
+    "image": ""
+  },
+  {
+    "name": "China Poblano",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Fusion",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "é by José Andrés",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Spanish",
+    "price": "$$$$",
+    "image": ""
+  },
+  {
+    "name": "District: Donuts. Sliders. Brew.",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Red Plate",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Chinese",
+    "price": "$$$$",
+    "image": ""
+  },
+  {
+    "name": "Lardo",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "Tekka Bar: Handroll &amp; Sake",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Japanese",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "The Juice Standard",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
+    "price": "$$",
+    "image": ""
+  },
+  {
+    "name": "STK",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$",
+    "image": ""
   }
 ]

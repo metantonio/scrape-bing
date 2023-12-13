@@ -132,6 +132,11 @@ async function mgmgoin(page, config) {
                         if (detail_c) {
                             restaurant["price"] = detail_c.innerHTML
                         }
+                        let detail_img = cards[i].querySelector("[data-testid=\"discovery-result-card-image\"]")
+                        if(detail_img){
+                            console.log(detail_img.getAttribute("src"))
+                            restaurant["image"] = detail_img.getAttribute("src")
+                        }
                         restaurants.push(restaurant)
                         //console.log("restaurant:", restaurant)
                     }
