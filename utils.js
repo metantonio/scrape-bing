@@ -137,7 +137,7 @@ async function mgmgoin(page, config) {
                         const detail_img = card.querySelector("[data-testid=\"discovery-result-card-image\"]");
                         if (detail_img) {
                             try {
-                                restaurant["image"] = detail_img.getAttribute("src") || "";
+                                restaurant["image"] = detail_img.getAttribute("src");
                             } catch (err2) {
                                 console.error('Error2 in page.goto:', err2);
                             }
