@@ -15,7 +15,7 @@ async function Initiator(apiUrl, twitterAccount) {
 
 	const mainBotInfo = await getBotAccount()
 	const mainBotAccount = mainBotInfo.bot_accounts[0].username || "nothing"
-	console.log("mainBotAccount: ", mainBotAccount)
+	//console.log("mainBotAccount: ", mainBotAccount)
 
 
 	

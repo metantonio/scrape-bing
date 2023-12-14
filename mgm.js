@@ -36,6 +36,7 @@ async function MGM(twitterAccount) {
 		console.log("starting KarenResponder")
 		const timeSeries = 1000 * 60 * mainBotInfo.interval_min;
 	}
+	console.log("End")
 }
 
 
