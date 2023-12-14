@@ -85,25 +85,25 @@ async function mgmgoin(page, config) {
     const ruta = './raw_restaurants';
     const url = [
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Bellagio',
-        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,Delano_Las_Vegas',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Delano_Las_Vegas',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Luxor_Hotel_Casino',
-        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,ARIA',
-        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Cosmopolitan_of_Las_Vegas',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,ARIA',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Cosmopolitan_of_Las_Vegas',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Excalibur_Hotel_Casino',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Mandalay_Bay',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,MGM_Grand_Las_Vegas',
-        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,NoMad_Las_Vegas',
-        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Signature_at_MGM_Grand',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,NoMad_Las_Vegas',
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Signature_at_MGM_Grand',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,New_York_New_York_Hotel_Casino',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Park_MGM',
-        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,Vdara_Hotel_Spa_at_ARIA'
+        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Vdara_Hotel_Spa_at_ARIA'
     ]
     for (let k = 0; k < url.length; k++) {
         try {
             console.log("MGMgoIn function")
             await page.goto(url[k])
-            await timeout(1000)
-            await page.waitForSelector("[class=\"css-1eatf5e\"]", { visible: true })
+            //await timeout(1000)
+            await page.waitForSelector("[class=\"css-1eatf5e\"]", { visible: true, timeout: 60000 })
             //await page.focus("[class=\"css-1eatf5e\"]")
             //console.log(page)
 
@@ -137,8 +137,8 @@ async function mgmgoin(page, config) {
                             //console.log(detail_img.getAttribute("src"))
                             try{
                                 restaurant["image"] = detail_img.getAttribute("src") || ""
-                            }catch(err){
-                                console.log("err")
+                            }catch(err2){
+                                console.error('Error2 in page.goto:',err2)
                             }
                            
                         }
@@ -166,12 +166,11 @@ async function mgmgoin(page, config) {
                 if (scrape[h]["link_detail"] != '') {
                     console.log("entrando en: ",scrape[h]["link_detail"])
 
-                    await page.goto(scrape[h]["link_detail"])
-                    await timeout(2000)
-                    await page.waitForSelector("[class=\"OverviewHeaderSection__content\"]", { visible: true })
+                    await page.goto(scrape[h]["link_detail"])                    
+                    await page.waitForSelector("[class=\"OverviewHeaderSection__content\"]", { visible: true, timeout: 60000 })
                     
                     scrape[h]["description"]= await page.evaluate(() => {                        
-                        let description = document.querySelector("[class=\"CustomContent CustomContent--variant--large CustomContent--color--default\"]");
+                        let description = document.querySelector("[class=\"CustomContent\"]")? document.querySelector("[class=\"CustomContent\"]") : document.querySelector("[class=\"description-text\"]");
                         if (description) {
                             //console.log("innerText: ", description.innerText);
                             return `${description.innerText}`;                            
@@ -183,14 +182,25 @@ async function mgmgoin(page, config) {
                         let descriptions = document.querySelectorAll("[class=\"OverviewSidebarSection__item__label\"]");
                         let detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
                         if (descriptions.length>0) {
+                            temp_data["time"] = {}
                             for(let n=0; n<descriptions.length; n++){
-                                temp_data[descriptions[n].innerText]=detailed[n].innerText
+                                
+                                if(descriptions[n].innerText=="INFORMATION" || descriptions[n].innerText=="RESERVATIONS"){
+                                    temp_data["phone"]=detailed[n].innerText
+                                }
+                                else if(descriptions[n].innerText.includes("MON") || descriptions[n].innerText.includes("TUE") || descriptions[n].innerText.includes("WED") || descriptions[n].innerText.includes("THU") || descriptions[n].innerText.includes("FRI") || descriptions[n].innerText.includes("SUN") ){
+                                    temp_data["time"][descriptions[n].innerText]= detailed[n].innerText
+                                    //temp_data["time"]= {...temp_data["time"], temp_data["time"][descriptions[n].innerText]: detailed[n].innerText}
+                                }
+                                else{
+                                    temp_data[descriptions[n].innerText]=detailed[n].innerText
+                                }
                             }
                             return temp_data;                            
                         }                        
                     });
                     scrape[h] = {...scrape[h], ...other_details}
-                    console.log("scrape[h][desc]: ",scrape)
+                    //console.log("scrape[h][desc]: ",scrape)
                     
                 }
             }
@@ -212,7 +222,7 @@ async function mgmgoin(page, config) {
             //fs.writeFileSync('./raw/cookies.json', JSON.stringify(cookies, null, 2));
             //console.log("Logged in and saved cookies");
         } catch (err) {
-            console.log(err)
+            console.error('Error in page.goto:',err)
         }
     }
 

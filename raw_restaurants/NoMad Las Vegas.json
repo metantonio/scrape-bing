@@ -4,27 +4,28 @@
     "hotel": "NoMad Las Vegas",
     "gastronomy": "American",
     "price": "$$$",
-    "description": "The NoMad Library Restaurant is a soaring space, inspired by the iconic Library of NoMad New York. The robust menu celebrates American classics in a grand and continental way by striking a distinct balance between accessibility, theatricality, and luxury. Communal courses are served alongside a selection of salads, pastas, and entrees, complemented by large-format dishes for two.",
-    "phone": "",
+    "phone": "702.730.6788",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/nomad-las-vegas/nomad-library.html",
     "image": "",
-    "RESERVATIONS": "702.730.6788",
-    "MON - TUE": "Closed",
-    "WED - SUN": "5:00 PM - 10:00 PM"
+    "time": {
+      "MON - TUE": "Closed",
+      "WED - SUN": "5:00 PM - 10:00 PM"
+    }
   },
   {
     "name": "The NoMad Bar",
     "hotel": "NoMad Las Vegas",
     "gastronomy": "American",
     "price": "$$$",
-    "description": "The NoMad Bar serves dinner and late night bites, perfect for a cocktail and a snack. An eclectic menu of shareable plates, snacks, and more is available. The beverage program is created by award-winning Bar Director Leo Robitschek. Leo and his team received the honor of \"Best Bar in North America\" and the #3 ranking in the world at the 2017 World's 50 Best Bars.",
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/nomad-las-vegas/the-nomad-bar.html",
     "image": "",
-    "RESERVATION": "702.730.6789",
-    "MON - THU, SUN": "Closed",
-    "FRI - SAT": "5:00 PM - 1:00 AM"
+    "time": {
+      "MON - THU, SUN": "Closed",
+      "FRI - SAT": "5:00 PM - 1:00 AM"
+    },
+    "RESERVATION": "702.730.6789"
   }
 ]

@@ -4,29 +4,29 @@
     "hotel": "ARIA",
     "gastronomy": "French",
     "price": "$$$",
-    "description": "Prepare to be reintroduced to classic French cuisine with a twist only Chef Michael Mina could bring. The menu features iconic French comfort food and an array of both New World and Old World Wines.",
-    "phone": "",
+    "phone": "702.590.8610",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/bardot-brasserie.html",
     "image": "",
-    "RESERVATIONS": "702.590.8610",
-    "MON - TUE": "Closed",
-    "WED - SUN": "5:00 PM – 7:00 PM",
-    "FRI - SUN": "9:00 AM - 2:00 PM"
+    "time": {
+      "MON - TUE": "Closed",
+      "WED - SUN": "5:00 PM – 7:00 PM",
+      "FRI - SUN": "9:00 AM - 2:00 PM"
+    }
   },
   {
     "name": "Carbone",
     "hotel": "ARIA",
     "gastronomy": "Italian",
     "price": "$$$$",
-    "description": "This celebrated concept from Mario Carbone, Rich Torrisi and Jeff Zalaznick pays homage to the Italian-American restaurants of the mid-20th century – an era of glamour, showmanship and tableside service. The New York-inspired cuisine is influenced by that same time in history, but takes its culinary cues from the great talents and techniques of today showcasing elevated classics such as Lobster Fra Diavolo, Chicken Scarpariello, Veal Parmesan and Octopus Pizzaiolo.",
-    "phone": "",
+    "phone": "702.590.2663",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/carbone.html",
     "image": "",
-    "RESERVATIONS": "702.590.2663",
-    "MON - THU, SUN": "5:00 PM - 10:30 PM",
-    "FRI - SAT": "5:00 PM - 11:00 PM",
+    "time": {
+      "MON - THU, SUN": "5:00 PM - 10:30 PM",
+      "FRI - SAT": "5:00 PM - 11:00 PM"
+    },
     "MANAGING CHEF": "Mario Carbone"
   },
   {
@@ -34,146 +34,146 @@
     "hotel": "ARIA",
     "gastronomy": "Seafood",
     "price": "$$$",
-    "description": "The go-to dining destination for celebrities from Los Angeles to New York City, CATCH is the only location to bring epic renditions of Asian-influenced sushi, seafood and steak. So meet here, eat here and party here. At CATCH, you can come for dinner, and stay late night.",
-    "phone": "",
+    "phone": "702.590.5757",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/catch.html",
     "image": "",
-    "RESERVATIONS": "702.590.5757",
-    "MON - SUN": "5:00 PM - 10:30 PM",
-    "SAT - SUN": "10:00 AM - 2:00 PM",
-    "SAT & SUN": "10:00 AM - 2:00 PM",
+    "time": {
+      "MON - SUN": "5:00 PM - 10:30 PM",
+      "SAT - SUN": "10:00 AM - 2:00 PM",
+      "SAT & SUN": "10:00 AM - 2:00 PM"
+    },
     "DAILY": "5:00 PM - 10:30 PM"
   },
   {
     "name": "Javier's",
     "hotel": "ARIA",
-    "gastronomy": "Mexican ·",
+    "gastronomy": "Mexican",
     "price": "$$$",
-    "description": "Hand-shaken margaritas? Check. Ceviche, enchiladas and steak? Check. A selection of the world’s finest tequilas? Check. You’ll find all the makings for a memorable Mexican meal at Javier’s with unique architectural elements like a spectacularly detailed chainsaw wood carving with an Aztec motif.",
-    "phone": "",
+    "phone": "702.590.3637",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/javiers.html",
     "image": "",
-    "RESERVATIONS": "702.590.3637",
-    "MON - SUN": "11:30 AM - 12:00 AM"
+    "time": {
+      "MON - SUN": "11:30 AM - 12:00 AM"
+    }
   },
   {
     "name": "Jean Georges Steakhouse",
     "hotel": "ARIA",
     "gastronomy": "Steakhouse",
     "price": "$$$$",
-    "description": "If you are craving Kobe A5, arguably the best beef in the world, we have it. But, the offerings extend far beyond a simple steak. Three different types of beef from around the world, dozens of cuts and a selection of seafood and unique sides that would put any fish house to shame. Jean Georges Steakhouse has something for everyone, as long as everyone is looking for the best of the best.",
-    "phone": "",
+    "phone": "702.590.8660",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/jean-georges-steakhouse.html",
     "image": "",
-    "RESERVATIONS": "702.590.8660",
-    "MON - SUN": "5:00 PM - 10:30 PM"
+    "time": {
+      "MON - SUN": "5:00 PM - 10:30 PM"
+    }
   },
   {
     "name": "Blossom",
     "hotel": "ARIA",
     "gastronomy": "Chinese",
     "price": "$$$",
-    "description": "From classic to cutting edge, Blossom delivers the triumphs of Chinese cuisine through a 100-dish lineup that spans every preference. Live seafood is held in on-site tanks and table-side prep brings a touch of festivity to many gourmet selections. Whichever dish you choose, you’re in expert hands. Chef Chi Kwun Choi has earned the Epicurean Award for Best Chinese Restaurant in Las Vegas.",
-    "phone": "",
+    "phone": "702.590.8620",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/blossom.html",
     "image": "",
-    "RESERVATIONS": "702.590.8620",
-    "MON, THU - SUN": "5:00 PM - 10:30 PM",
-    "TUE - WED": "Closed"
+    "time": {
+      "MON, THU - SUN": "5:00 PM - 10:30 PM",
+      "TUE - WED": "Closed"
+    }
   },
   {
     "name": "Din Tai Fung",
     "hotel": "ARIA",
-    "gastronomy": "Pan-Asian ·",
+    "gastronomy": "Pan-Asian",
     "price": "$$",
-    "description": "The go-to dining destination for steamed dumplings and noodles has arrived on the Las Vegas Strip. From Taipei to Los Angeles, the esteemed Taiwanese dumpling and noodle house is renowned for their Xiao Long Bao including the famed Shanghai-style soup dumplings filled with Kurobuta pork. Discover this highly anticipated new dining experience featuring exquisite hand craftsmanship and artistry unlike anything else.",
-    "phone": "",
+    "phone": "702.590.8650",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/din-tai-fung.html",
     "image": "",
-    "INFORMATION": "702.590.8650",
+    "time": {
+      "MON - THU": "11:00 AM - 10:00 PM",
+      "FRI - SUN": "11:00 AM - 11:00 PM"
+    },
     "TAKE OUT LINE": "702.590.8654",
-    "RESERVATIONS FOR 14 OR MORE": "702.590.8544",
-    "MON - THU": "11:00 AM - 10:00 PM",
-    "FRI - SUN": "11:00 AM - 11:00 PM"
+    "RESERVATIONS FOR 14 OR MORE": "702.590.8544"
   },
   {
     "name": "Salt &amp; Ivy",
     "hotel": "ARIA",
     "gastronomy": "American ·",
     "price": "$$",
-    "description": "Salt & Ivy Café and Patio Bar provides a casual dining experience with indoor and outdoor seating. Guests can enjoy breakfast classics, light healthy fare and elevated American favorites in a relaxed setting. The patio overlooks the lush pool deck, serving as the ideal backdrop for breakfast or lunch. Or enjoy fresh flavors any time of day with a handcrafted cocktail comfortably seated bar side.",
-    "phone": "",
+    "phone": "702.590.9899",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/salt-and-ivy.html",
     "image": "",
-    "INFORMATION": "702.590.9899",
-    "MON - SUN": "6:00 AM - 2:00 PM",
-    "MON - FRI": "11:00 AM - 2:00 PM",
-    "SAT - SUN": "6:00 AM - 2:00 PM"
+    "time": {
+      "MON - SUN": "6:00 AM - 2:00 PM",
+      "MON - FRI": "11:00 AM - 2:00 PM",
+      "SAT - SUN": "6:00 AM - 2:00 PM"
+    }
   },
   {
     "name": "Lemongrass",
     "hotel": "ARIA",
     "gastronomy": "Thai",
     "price": "$$",
-    "description": "Take in the stunning silk factory-inspired installations, then begin your culinary tour of Thailand. Lemongrass serves a mix of authentic fare and more modern interpretations. Stick with a familiar spicy pad Thai or be adventurous with wok-tossed live Maine lobster infused with the flavor of green curry. Nigori Sake and Watermelon Smash make for refreshing sides to complement the spicy flavors.",
-    "phone": "",
+    "phone": "702.590.8670",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/lemongrass.html",
     "image": "",
-    "RESERVATIONS": "702.590.8670",
-    "MON - THU": "4:30 PM - 10:30 PM",
-    "FRI - SUN": "4:30 PM - 12:30 AM"
+    "time": {
+      "MON - THU": "4:30 PM - 10:30 PM",
+      "FRI - SUN": "4:30 PM - 12:30 AM"
+    }
   },
   {
     "name": "Julian Serrano Tapas",
     "hotel": "ARIA",
     "gastronomy": "Spanish",
     "price": "$$$",
-    "description": "You can practically taste the love that Chef Julian Serrano puts into creating delectable interpretations of his native Spanish fare. Relish the comfort of Serrano ham alongside a creamy cheese platter. Or be adventurous and sample savory white anchovy fillets and black pig pinxto topped with perfectly caramelized onions. Whatever your personality, there’s a little something to suit it.",
-    "phone": "",
+    "phone": "702.590.8520",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/julian-serrano.html",
     "image": "",
-    "RESERVATIONS": "702.590.8520",
-    "MON - THU, SUN": "5:00 PM - 10:00 PM",
-    "FRI - SAT": "5:00 PM - 9:00 PM",
-    "MON - WED": "11:30 AM - 3:00 PM",
+    "time": {
+      "MON - THU, SUN": "5:00 PM - 10:00 PM",
+      "FRI - SAT": "5:00 PM - 9:00 PM",
+      "MON - WED": "11:30 AM - 3:00 PM"
+    },
     "DAILY": "5:00 PM - 10:00 PM"
   },
   {
     "name": "Moneyline Pizza &amp; Bar",
     "hotel": "ARIA",
-    "gastronomy": "American ·",
+    "gastronomy": "American",
     "price": "$$",
-    "description": "Come on in, order a pie and pull up a chair for the best seats in the house to catch all the sports action. Whether it’s classic pepperoni or something signature at Moneyline, we’ve got the slice for you to cheer on your favorite rivalries with a round of ice cold craft beers. Take your game day excitement to the next level by making a wager on your favorite team at The BetMGM Race & Sports Book, conveniently located right next to Moneyline. Then sit back in primetime seating and enjoy all the mouthwatering sports bar bites. Stop in again for more of the good stuff at our slice counter and take one, or two, for the road.",
-    "phone": "",
+    "phone": "702.590.7550",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/moneyline-pizza-and-bar.html",
     "image": "",
-    "INFORMATION": "702.590.7550",
-    "MON - THU": "11:00 AM - 11:00 PM",
-    "FRI": "11:00 AM - 12:00 AM",
-    "SAT - SUN": "9:00 AM - 12:00 AM"
+    "time": {
+      "MON - THU": "11:00 AM - 11:00 PM",
+      "FRI": "11:00 AM - 12:00 AM",
+      "SAT - SUN": "9:00 AM - 12:00 AM"
+    }
   },
   {
     "name": "Cathédrale Las Vegas",
     "hotel": "ARIA",
     "gastronomy": "French",
     "price": "$$$",
-    "description": "Cathédrale by Tao Group Hospitality honors the legacy and DNA of the original restaurant located in New York City’s East Village. Rockwell Group’s remarkable interior design for the Las Vegas location extends the spirit of that layered urban decadence and grit while celebrating the architectural drama, grandeur, and decorative flourish inherent to the restaurant’s brand. Stunning views are served nightly alongside the exquisite cuisine at Cathédrale.",
-    "phone": "",
+    "phone": "702.590.8577",
     "hours": "",
     "link_detail": "https://aria.mgmresorts.com/en/restaurants/cathedrale-las-vegas.html",
     "image": "",
-    "RESERVATIONS": "702.590.8577",
-    "MON - THU, SUN": "5:00 PM - 10:30 PM",
-    "FRI - SAT": "5:00 PM - 11:00 PM",
+    "time": {
+      "MON - THU, SUN": "5:00 PM - 10:30 PM",
+      "FRI - SAT": "5:00 PM - 11:00 PM"
+    },
     "LINK": "www.cathedralerestaurant.com"
   },
   {
@@ -181,36 +181,38 @@
     "hotel": "ARIA",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "Starbucks offers handcrafted coffee beverages, premium teas and delectable treats.",
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/starbucks.html",
     "image": "",
-    "MON - SUN": "6:00 AM - 6:00 PM"
+    "time": {
+      "MON - SUN": "6:00 AM - 6:00 PM"
+    }
   },
   {
     "name": "ARIA Patisserie",
     "hotel": "ARIA",
     "gastronomy": "French ·",
     "price": "$",
-    "description": "At ARIA Patisserie, everything you crave is handcrafted daily with the freshest seasonal ingredients. Rise and shine with delectable pastries and perfectly brewed draft coffee. Enjoy wholesome sandwiches, salads and freshly squeezed juices. And sweeten any mood with an exquisite chocolate or gelato selection. Whether you’re seeking an early morning treat, a late-night snack or anything in between, ARIA Patisserie has something for you.",
-    "phone": "",
+    "phone": "702.590.8554",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/aria-patisserie.html",
     "image": "",
-    "INFORMATION": "702.590.8554",
-    "MON - SUN": "Open 24 Hours"
+    "time": {
+      "MON - SUN": "Open 24 Hours"
+    }
   },
   {
     "name": "Pressed Juicery",
     "hotel": "ARIA",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "Four—the pounds of fruit and vegetables you will find in one bottle of these specialty juices. Pressed Juicery was established in 2010 by founding partners Hayden Slater, Carly De Castro and Hedi Gores, and created with the goal of making high nutrition a realistic option for all people. Juices never contain additives and are cold-pressed using a custom hydraulic press to gently extract the maximum vitamins and minerals from fruits and vegetables. At Pressed Juicery, wellness is a right, not a luxury.",
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/aria/pressed-juicery.html",
     "image": "",
-    "MON - SUN": "7:00 AM - 7:00 PM"
+    "time": {
+      "MON - SUN": "7:00 AM - 7:00 PM"
+    }
   }
 ]

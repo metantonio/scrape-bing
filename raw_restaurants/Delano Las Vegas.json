@@ -1,45 +1,31 @@
 [
   {
-    "name": "Rivea",
-    "hotel": "Delano Las Vegas",
-    "gastronomy": "French",
-    "price": "$$$",
-    "description": "Rivea offers a renewed take on a French and Italian influenced cuisine from internationally celebrated Chef Alain Ducasse. Enjoy breathtaking views of the Las Vegas Strip in a laid back atmosphere. Inspired by the delectable food markets of Provence and Italy, the menu focus on simple, fresh plates and the best seasonal ingredients from the West Coast. The colors, flavors, and aromas of the south of France and Italy have arrived at Delano Las Vegas!",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/delano-las-vegas/rivea.html",
-    "image": "",
-    "RESERVATIONS": "877.632.5400",
-    "MON - SUN": "5:30 PM - 10:00 PM",
-    "FOR GROUPS AND BUYOUTS": "www.mandalaybay.com",
-    "CHEF": "Alain Ducasse"
-  },
-  {
     "name": "Della's Kitchen",
     "hotel": "Delano Las Vegas",
     "gastronomy": "American",
     "price": "$",
-    "description": "Creating an essence of \"historic farmhouse meets urban kitchen,\" Della's Kitchen serves breakfast and lunch with an elegant combination of classics, comfort food and seasonal specialties centered around fresh, locally sourced ingredients. Located just steps from the Delano lobby, Della’s Kitchen blends natural design elements with industrial materials to exude a warm, comfortable simplicity that quietly entices guests to savor each bite and treasure every encounter.",
-    "phone": "",
+    "phone": "702.632.9250",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/delano-las-vegas/dellas-kitchen.html",
     "image": "",
-    "RESERVATIONS": "702.632.9250",
-    "MON": "7:00 AM - 1:00 PM",
-    "TUE - THU": "Closed",
-    "FRI - SUN": "7:00 AM - 2:00 PM"
+    "time": {
+      "MON": "7:00 AM - 1:00 PM",
+      "TUE - THU": "Closed",
+      "FRI - SUN": "7:00 AM - 2:00 PM"
+    }
   },
   {
     "name": "3940 Coffee and Tea",
     "hotel": "Delano Las Vegas",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "Inspired by the shaded area of a sun-drenched desert, 3940 is a comfortable retreat featuring mid-century modern furniture, plush sofas and communal seating. The ceiling’s unique lighting features cast a patterned glow to the comfortable surroundings, where guests can lounge and unwind by the marble fireplace or in our alluring living room. The menu is perfect for a quick bite or refreshing beverage - guests can enjoy one of our many artisanal teas, freshly squeezed juices and signature coffees, or perhaps sample one of our signature menu items such as our Breakfast Burrito and Ham & Brie Paninis.",
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/delano-las-vegas/3940-coffee-and-tea.html",
     "image": "",
-    "MON - SUN": "6:00 AM - 1:00 PM",
+    "time": {
+      "MON - SUN": "6:00 AM - 1:00 PM"
+    },
     "MORE INFORMATION": ""
   }
 ]
