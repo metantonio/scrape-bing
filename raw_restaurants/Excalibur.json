@@ -8,7 +8,27 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/the-buffet.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "7:00 AM - 2:00 PM"
+    }
+  },
+  {
+    "name": "Dick's Last Resort",
+    "hotel": "Excalibur",
+    "gastronomy": "American ·",
+    "price": "$$",
+    "description": "A daringly different dining experience on the Las Vegas Strip, Dick's Last Resort at Excalibur! Famous for deliciously messy cuisine, oddly entertaining décor, rowdy and unpredictable service, live bands and let-loose atmosphere. Dick's Last Resort offers a casual, down-to-earth entertainment option for visitors of the \"Entertainment Capital of the World.\"",
+    "phone": "702.597.7991",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/dicks-last-resort.html",
+    "image": "",
+    "time": {
+      "MON - WED": "11:00 AM - 10:00 PM",
+      "THU": "11:00 AM - 11:00 PM",
+      "FRI - SAT": "10:00 AM - 12:00 AM",
+      "SUN": "10:00 AM - 11:00 PM"
+    }
   },
   {
     "name": "Starbucks",
@@ -19,7 +39,13 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://excalibur.mgmresorts.com/en/restaurants/starbucks.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU": "5:00 AM - 10:00 PM",
+      "FRI - SAT": "5:00 AM - 1:00 AM",
+      "SUN": "5:00 AM - 11:00 PM"
+    },
+    "DAILY": "6:00 AM - 8:00 PM"
   },
   {
     "name": "Buca di Beppo",
@@ -27,10 +53,16 @@
     "gastronomy": "Italian ·",
     "price": "$$",
     "description": "Join the \"familia\" and gather around the table for a traditional Italian meal in an atmosphere full of lively music, laughter and lots of fun at Buca di Beppo. Characterized by family-style portions, with high quality traditional Italian dishes, Buca di Beppo is sure to bring out your inner Italian. The menu is inspired by classic Italian dishes that have been enjoyed for decades. Buca di Beppo offers dozens of delicious entrees, pastas, salads, pizzas and desserts, all served family style, with portions that each feed two to six people. Buca di Beppo delivers an Italian feast that will satisfy even your deepest cravings. Buca di Beppo is great for friends and families alike. Gather around the “Pope’s Table” with 14 of your closest friends, or dine in one of several dining rooms packed with quirky decor. Excalibur is pleased to welcome the perfect place to celebrate your Las Vegas adventures and enjoy an authentic Italian meal at a great value.",
-    "phone": "",
+    "phone": "702.795.1010",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/buca-di-beppo.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "10:30 AM - 10:00 PM",
+      "FRI - SAT": "10:30 AM - 12:00 AM"
+    },
+    "": "",
+    "WWW.BUCADIBEPPO.COM": "www.bucadibeppo.com"
   },
   {
     "name": "Johnny Rockets",
@@ -38,10 +70,13 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "This restaurant features a modern twist on the classic diner – comfortable seats perfect for gathering, friendly approachable service and music that combines iconic classics with pop culture. The signature relaxed atmosphere is the perfect backdrop for great-tasting food from a menu of all-American favorites. Indulge in 100% fresh, never frozen all-natural beef hamburgers, crispy American Fries and premium ice cream shakes and malts.",
-    "phone": "",
+    "phone": "702.570.6011",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/johnny-rockets.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "Open 24 Hours"
+    }
   },
   {
     "name": "Baja Fresh",
@@ -52,7 +87,11 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/baja-fresh.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON, THU - SUN": "6:00 AM - 2:00 AM",
+      "TUE - WED": "10:30 AM - 2:00 AM"
+    }
   },
   {
     "name": "Food Court",
@@ -74,6 +113,10 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/excalibur/orange-julius-dairy-queen.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU": "12:00 PM - 10:00 PM",
+      "FRI - SUN": "12:00 PM - 11:00 PM"
+    }
   }
 ]

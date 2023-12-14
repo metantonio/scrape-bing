@@ -5,10 +5,15 @@
     "gastronomy": "American",
     "price": "$",
     "description": "Creating an essence of \"historic farmhouse meets urban kitchen,\" Della's Kitchen serves breakfast and lunch with an elegant combination of classics, comfort food and seasonal specialties centered around fresh, locally sourced ingredients. Located just steps from the Delano lobby, Della’s Kitchen blends natural design elements with industrial materials to exude a warm, comfortable simplicity that quietly entices guests to savor each bite and treasure every encounter.",
-    "phone": "",
+    "phone": "702.632.9250",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/delano-las-vegas/dellas-kitchen.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON": "7:00 AM - 1:00 PM",
+      "TUE - THU": "Closed",
+      "FRI - SUN": "7:00 AM - 2:00 PM"
+    }
   },
   {
     "name": "3940 Coffee and Tea",
@@ -19,6 +24,10 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/delano-las-vegas/3940-coffee-and-tea.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "6:00 AM - 1:00 PM"
+    },
+    "MORE INFORMATION": ""
   }
 ]

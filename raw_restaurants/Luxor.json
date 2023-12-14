@@ -5,10 +5,13 @@
     "gastronomy": "Mexican ·",
     "price": "$$",
     "description": "Diablo’s Cantina unleashes its unique brand of south-of-the-border dining, drinking (and a little decadence). Diablo’s features a wide variety of mouthwatering specialties including freshly made salsas and guacamoles, along with entrees like the Grilled Shrimp Burrito and the Vixen Chicken, all created by our own Chef Saul. With a selection of premium tequilas and signature cocktails, it’s the perfect place to celebrate with friends, or reserve our private dining room and party the night away with your whole group.",
-    "phone": "",
+    "phone": "702.262.5225",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/luxor/diablos-cantina.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "11:00 AM - 11:00 PM"
+    }
   },
   {
     "name": "TENDER steakhouse + lounge",
@@ -16,10 +19,15 @@
     "gastronomy": "Steakhouse",
     "price": "$$$",
     "description": "TENDER steakhouse + lounge offers one of the most impressive selections of dry- and wet-aged steaks you'll ever experience.",
-    "phone": "",
+    "phone": "702.262.4778",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/luxor/tender-steakhouse.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON, THU - SUN": "5:00 PM - 10:00 PM",
+      "TUE - WED": "Closed"
+    },
+    "EXECUTIVE CHEF": "Joseph Jacobsen"
   },
   {
     "name": "Public House",
@@ -27,21 +35,15 @@
     "gastronomy": "American",
     "price": "$",
     "description": "Public House serves tasty American and stadium comfortable food and ice cold draft beers. Root for your favorite teams while watching them play on our huge screens!",
-    "phone": "",
+    "phone": "702.262.4525",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/luxor/public-house.html",
-    "image": ""
-  },
-  {
-    "name": "Backstage Deli",
-    "hotel": "Luxor",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "If you gamble, use your GameSense. GameSense is a registered trademark of British Columbia Lottery Corporation, used under license by MGM Resorts International.\n\nDo Not Sell/Share My Personal Information Opt-out of Online Targeted Advertising",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/backstage-deli.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - FRI": "5:00 PM - 12:00 AM",
+      "SUN": "9:30 AM - 12:00 AM"
+    },
+    "SAT": "11:00 AM - 12:00 AM"
   },
   {
     "name": "Pyramid Café",
@@ -52,7 +54,27 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/luxor/pyramid-cafe.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "7:00 AM - 2:00 PM"
+    },
+    "PHONE": "702.262.4702"
+  },
+  {
+    "name": "Backstage Deli",
+    "hotel": "Luxor",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "If you gamble, use your GameSense. GameSense is a registered trademark of British Columbia Lottery Corporation, used under license by MGM Resorts International.\n\nDo Not Sell/Share My Personal Information Opt-out of Online Targeted Advertising",
+    "phone": "702.262.4852",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/backstage-deli.html",
+    "image": "",
+    "time": {
+      "MON - TUE": "Closed",
+      "WED - THU": "Open 24 Hours",
+      "FRI - SUN": "7:00 AM - 4:00 AM"
+    }
   },
   {
     "name": "The Buffet at Luxor",
@@ -60,10 +82,14 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "Visit The Buffet at Luxor for a casual Las Vegas dining experience that is sure to fill your hunger. No reservations required, and children under 4 eat free! Located in the lower level, it features a massive 30-foot salad bar, homemade pizza station, delectable carving station, a tasty omelet station, and specialties from around the world. The scrumptious dessert station features fresh baked pastries and sugar-free dessert. There's something for everyone at this Las Vegas buffet!",
-    "phone": "",
+    "phone": "702.262.4000",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/luxor/the-buffet-at-luxor.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - TUE": "Closed",
+      "WED - SUN": "8:00 AM - 3:00 PM"
+    }
   },
   {
     "name": "Starbucks Café",
@@ -71,10 +97,15 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "Starbucks offers handcrafted beverages, premium teas and delectable treats. Artfully roasted high-quality arabica coffee is brewed and served one cup at a time.",
-    "phone": "",
+    "phone": "702.262.4778",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/luxor/starbucks.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "4:00 AM - 10:00 PM",
+      "FRI - SAT": "4:00 AM - 11:00 PM"
+    },
+    "VISIT STARBUCKS WEBSITE": "www.starbucks.com"
   },
   {
     "name": "Luxor Food Court",
@@ -93,9 +124,13 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "Blizz offers a variety of non-fat frozen yogurt flavors with all your favorite toppings. Have it with granola or cereal for breakfast, fruits or nuts for a power-punched lunch, or mix and match for an all-day Blizzfully delicious dessert. Blizz also features yogurt smoothies blended with real fruit, creamy milkshakes, fresh-baked Belgian Waffles, and delectable crepes. No reservations required!",
-    "phone": "",
+    "phone": "702.203.9059",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/luxor/blizz.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "11:00 AM - 8:00 PM"
+    },
+    "VISIT BLIZZ WEBSITE": "blizzyogurt.com"
   }
 ]

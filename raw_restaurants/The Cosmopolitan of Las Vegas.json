@@ -8,7 +8,11 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/jaleo.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "5:00 PM - 10:00 PM",
+      "FRI - SAT": "5:00 PM - 11:00 PM"
+    }
   },
   {
     "name": "Wicked Spoon",
@@ -16,142 +20,44 @@
     "gastronomy": "American ·",
     "price": "$$$",
     "description": "We've taken a wicked twist on the traditional buffet, now offering a unique market dining experience unlike any other on The Las Vegas Strip. With its mix of top quality, familiar staples and imaginative seasonal dishes, this Las Vegas buffet satisfies cravings and invites discovery.",
-    "phone": "",
+    "phone": "702.698.7870",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/wicked-spoon.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - FRI": "8:00 AM - 3:00 PM",
+      "SAT - SUN": "9:00 AM - 4:00 PM"
+    }
   },
   {
     "name": "Bang Bar",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Pan-Asian",
+    "gastronomy": "Pan-Asian ·",
     "price": "$$",
     "description": "Bāng Bar by Momofuku, an original David Chang concept, is centered in bold, worldly flavors with a focus on two delicious staples: bāng bread and spit-roasted meats.",
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/bang-bar.html",
-    "image": ""
-  },
-  {
-    "name": "Milk Bar",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$$",
-    "description": "Established by award-winning chef and owner Christina Tosi in 2008, Milk Bar focuses on putting a playful, approachable spin on nostalgic home-style desserts. Milk Bar has 15 other stores in New York City, Los Angeles, Boston, Toronto and Washington, D.C.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/milk-bar.html",
-    "image": ""
-  },
-  {
-    "name": "Blue Ribbon",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Seafood",
-    "price": "$$$",
-    "description": "Blue Ribbon is built on a vision that originated 25 years ago with two brothers and one small restaurant in New York, which grew into a beloved city staple \"where chefs go to eat.\" The duo is famously known for introducing signature items such as oysters on the half shell, beef marrow and fried chicken to the forefront of the national culinary scene back in 1992. Now, at The Cosmopolitan, Blue Ribbon builds on that original vision and draws inspiration from the bustling energy of the Las Vegas Strip.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/blue-ribbon.html",
-    "image": ""
-  },
-  {
-    "name": "Eggslut",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "Eggslut is a chef-driven, gourmet food concept founded in 2011 by Alvin Cailan. The menu is a balance of comfort and innovation, celebrating food that appeals to both novice and extreme foodies through classic comfort fare with a twist, all-encompassing the key ingredient, eggs.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/eggslut.html",
-    "image": ""
-  },
-  {
-    "name": "Scarpetta",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Italian",
-    "price": "$$$",
-    "description": "The Italian expression, “fare la scarpetta” describes the gesture of taking the little boot-shaped piece of bread to soak up the remaining sauce left in the pot of one’s home kitchen. The restaurant’s name is derived from this familial gesture and represents the indulgent pleasure of savoring a meal down to its very last taste. The philosophy of Scarpetta’s kitchen is one of creating bold flavors by amplifying the essence of seasonal ingredients.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/scarpetta.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "11:00 AM - 10:00 PM",
+      "FRI - SAT": "11:00 AM - 12:00 AM"
+    }
   },
   {
     "name": "The Henry",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
-    "price": "$$",
-    "description": "A modern American eatery with casual upscale charm, The Henry is the round-the-clock spot for a unique twist on comfort food. A treat for all of your senses, colorful accents and eclectic presentations combine with savory aromas for an elevated neighborhood dining experience. Enjoy cuisine and cocktails served in fun and untraditional methods. Stop by and enjoy a satisfying late-night snack, lively lunch, or a first-class Sunday brunch.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/the-henry.html",
-    "image": ""
-  },
-  {
-    "name": "Beauty &amp; Essex",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
-    "price": "$$$$",
-    "description": "A partnership with TAO Group and acclaimed chef and restaurateur Chris Santos, Beauty & Essex offers unique sharing plates and new twists on classic cocktails in a speakeasy-like setting. After you walk through this lavish pawn shop inspired storefront, you’ll then find a stunning restaurant with your table in one of several jewelry box rooms.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/beauty-and-essex.html",
-    "image": ""
-  },
-  {
-    "name": "Superfrico",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Italian",
-    "price": "$$$",
-    "description": "Superfrico is an Italian American Psychedelic restaurant inside the ultimate Las Vegas house party. Beyond its enigmatic purple doors, world-class, rule-breaking creatives cut loose and do their thing—in the kitchen, behind the bars, inside the walls, under the bed—and you’re invited.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/superfrico.html",
-    "image": ""
-  },
-  {
-    "name": "Holsteins",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
-    "price": "$$",
-    "description": "Holsteins Shakes and Buns offers an incredible range of deliciously crafted burgers, riffs on traditional American snacks, a variety of plates perfect for sharing, a wide selection of craft and draft beers, and an impressive list of signature Bam-Boozled, alcohol-infused milkshakes—all with a funky, creative and decidedly homegrown approach.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/holsteins.html",
-    "image": ""
-  },
-  {
-    "name": "Hattie B's Hot Chicken",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
-    "price": "$$",
-    "description": "Famed for its emphasis on quality, flavor and true Southern hospitality, Nashville’s family-owned and operated Hattie B’s Hot Chicken showcases its first West Coast location at Block 16 Urban Food Hall, serving hot chicken, Southern sides and local brews in a casual, counter-service eatery.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/hattie-bs.html",
-    "image": ""
-  },
-  {
-    "name": "Momofuku",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Pan-Asian",
-    "price": "$$$",
-    "description": "Founded by chef David Chang in 2004 in New York City and, Momofuku is credited with \"the rise of contemporary Asian-American cuisine\" by the New York Times and named \"the most important restaurant in America\" by Bon Appetit magazine. Momofuku has gained worldwide recognition for changing the way we eat.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/momofuku.html",
-    "image": ""
-  },
-  {
-    "name": "Starbucks",
-    "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "American ·",
     "price": "$$",
-    "description": "A traditional Starbucks featuring non-traditional art and scenery. Sip on your favorite coffee drinks, Frappucinos and lattes while overlooking The Las Vegas Strip amidst the first-ever permanent public art installation by renowned French artist and photographer, Georges Rousse.",
-    "phone": "",
+    "description": "A modern American eatery with casual upscale charm, The Henry is the round-the-clock spot for a unique twist on comfort food. A treat for all of your senses, colorful accents and eclectic presentations combine with savory aromas for an elevated neighborhood dining experience. Enjoy cuisine and cocktails served in fun and untraditional methods. Stop by and enjoy a satisfying late-night snack, lively lunch, or a first-class Sunday brunch.",
+    "phone": "702.698.7980",
     "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/starbucks.html",
-    "image": ""
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/the-henry.html",
+    "image": "",
+    "time": {
+      "MON - WED": "10:00 AM - 2:00 PM",
+      "THU - SUN": "11:00 AM - 2:00 PM"
+    }
   },
   {
     "name": "Va Bene Caffe",
@@ -159,21 +65,180 @@
     "gastronomy": "Italian ·",
     "price": "$$",
     "description": "Va Bene Caffè is a polished, modern Las Vegas Italian coffee bar with the \"it's all good\" attitude reflected in its name. Conveniently located on the casino floor of The Chelsea Tower, Va Bene Caffè is a refreshing departure from the average coffee shop. It offers a variety of fresh-baked pastries and – of course – coffee and espresso beverages carefully prepared by master baristas.",
-    "phone": "",
+    "phone": "702.698.7000",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/va-bene-caffe.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "6:30 AM - 7:00 PM"
+    }
   },
   {
-    "name": "é by José Andrés",
+    "name": "Hattie B's Hot Chicken",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Spanish",
+    "gastronomy": "American ·",
+    "price": "$$",
+    "description": "Famed for its emphasis on quality, flavor and true Southern hospitality, Nashville’s family-owned and operated Hattie B’s Hot Chicken showcases its first West Coast location at Block 16 Urban Food Hall, serving hot chicken, Southern sides and local brews in a casual, counter-service eatery.",
+    "phone": "702.698.7000",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/hattie-bs.html",
+    "image": "",
+    "time": {
+      "MON - THU": "11:00 AM - 10:00 PM",
+      "FRI - SAT": "10:30 AM - 12:00 AM",
+      "SUN": "10:30 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "Beauty &amp; Essex",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American",
     "price": "$$$$",
-    "description": "Tucked away in a small private room adjacent to Jaleo’s bustling bar and paella grill, é by José Andrés offers a clever and creative tasting menu of Spanish avant-garde dishes. Accessed through a glass door emblazoned with the letter é, the room is dominated by a steel-topped bar with seating for nine. Set against a dramatic red glass wall and red velvet curtain, the space is a nod to the chef’s concept of cooking as performance.",
+    "description": "A partnership with TAO Group and acclaimed chef and restaurateur Chris Santos, Beauty & Essex offers unique sharing plates and new twists on classic cocktails in a speakeasy-like setting. After you walk through this lavish pawn shop inspired storefront, you’ll then find a stunning restaurant with your table in one of several jewelry box rooms.",
+    "phone": "702.737.0707",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/beauty-and-essex.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "5:00 PM - 10:30 PM",
+      "THU & FRI": "6:00 PM - 7:00 PM"
+    }
+  },
+  {
+    "name": "Milk Bar",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American ·",
+    "price": "$$",
+    "description": "Established by award-winning chef and owner Christina Tosi in 2008, Milk Bar focuses on putting a playful, approachable spin on nostalgic home-style desserts. Milk Bar has 15 other stores in New York City, Los Angeles, Boston, Toronto and Washington, D.C.",
+    "phone": "702.698.7000",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/milk-bar.html",
+    "image": "",
+    "time": {
+      "MON - WED": "10:00 AM - 12:00 AM",
+      "THU - FRI": "10:00 AM - 1:00 AM",
+      "SAT - SUN": "9:00 AM - 1:00 AM"
+    }
+  },
+  {
+    "name": "Starbucks",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American ·",
+    "price": "$$",
+    "description": "A traditional Starbucks featuring non-traditional art and scenery. Sip on your favorite coffee drinks, Frappucinos and lattes while overlooking The Las Vegas Strip amidst the first-ever permanent public art installation by renowned French artist and photographer, Georges Rousse.",
+    "phone": "702.698.7000",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/starbucks.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "5:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "Holsteins",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American ·",
+    "price": "$$",
+    "description": "Holsteins Shakes and Buns offers an incredible range of deliciously crafted burgers, riffs on traditional American snacks, a variety of plates perfect for sharing, a wide selection of craft and draft beers, and an impressive list of signature Bam-Boozled, alcohol-infused milkshakes—all with a funky, creative and decidedly homegrown approach.",
+    "phone": "702.698.7940",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/holsteins.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "11:00 AM - 10:00 PM"
+    }
+  },
+  {
+    "name": "Scarpetta",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Italian",
+    "price": "$$$",
+    "description": "The Italian expression, “fare la scarpetta” describes the gesture of taking the little boot-shaped piece of bread to soak up the remaining sauce left in the pot of one’s home kitchen. The restaurant’s name is derived from this familial gesture and represents the indulgent pleasure of savoring a meal down to its very last taste. The philosophy of Scarpetta’s kitchen is one of creating bold flavors by amplifying the essence of seasonal ingredients.",
+    "phone": "702.698.7960",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/scarpetta.html",
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "5:30 PM - 10:00 PM",
+      "FRI - SAT": "5:30 PM - 11:00 PM"
+    }
+  },
+  {
+    "name": "Eggslut",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "Eggslut is a chef-driven, gourmet food concept founded in 2011 by Alvin Cailan. The menu is a balance of comfort and innovation, celebrating food that appeals to both novice and extreme foodies through classic comfort fare with a twist, all-encompassing the key ingredient, eggs.",
+    "phone": "702.698.7000",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/eggslut.html",
+    "image": "",
+    "time": {
+      "MON - FRI": "7:00 AM - 2:00 PM",
+      "SAT - SUN": "7:00 AM - 3:00 PM"
+    }
+  },
+  {
+    "name": "Blue Ribbon",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Seafood",
+    "price": "$$$",
+    "description": "Blue Ribbon is built on a vision that originated 25 years ago with two brothers and one small restaurant in New York, which grew into a beloved city staple \"where chefs go to eat.\" The duo is famously known for introducing signature items such as oysters on the half shell, beef marrow and fried chicken to the forefront of the national culinary scene back in 1992. Now, at The Cosmopolitan, Blue Ribbon builds on that original vision and draws inspiration from the bustling energy of the Las Vegas Strip.",
+    "phone": "702.736.0808",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/blue-ribbon.html",
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "5:00 PM - 10:00 PM",
+      "FRI - SAT": "5:00 PM - 11:00 PM"
+    }
+  },
+  {
+    "name": "Momofuku",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Pan-Asian ·",
+    "price": "$$$",
+    "description": "Founded by chef David Chang in 2004 in New York City and, Momofuku is credited with \"the rise of contemporary Asian-American cuisine\" by the New York Times and named \"the most important restaurant in America\" by Bon Appetit magazine. Momofuku has gained worldwide recognition for changing the way we eat.",
     "phone": "",
     "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/e-by-jose-andres.html",
-    "image": ""
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/momofuku.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "11:00 AM - 3:00 PM",
+      "MON - WED, SUN": "5:00 PM - 10:00 PM",
+      "THU - SAT": "5:00 PM - 11:00 PM",
+      "SUN - THU": "5:00 PM - 10:00 PM",
+      "FRI - SAT": "5:00 PM - 11:00 PM"
+    }
+  },
+  {
+    "name": "Superfrico",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Italian",
+    "price": "$$$",
+    "description": "Superfrico is an Italian American Psychedelic restaurant inside the ultimate Las Vegas house party. Beyond its enigmatic purple doors, world-class, rule-breaking creatives cut loose and do their thing—in the kitchen, behind the bars, inside the walls, under the bed—and you’re invited.",
+    "phone": "702.534.3419",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/superfrico.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "5:00 PM - 2:00 AM"
+    }
+  },
+  {
+    "name": "China Poblano",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Fusion ·",
+    "price": "$$",
+    "description": "An innovative concept from chef José Andrés, China Poblano at The Cosmopolitan of Las Vegas combines the flavors of Mexico and China to create a breakthrough restaurant experience that encompasses both authentic dishes and inspired new favorites.",
+    "phone": "702.698.7900",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/china-poblano.html",
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "11:00 AM - 10:00 PM",
+      "FRI - SAT": "11:00 AM - 10:30 PM"
+    }
   },
   {
     "name": "The Juice Standard",
@@ -184,7 +249,10 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/the-juice-standard.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "7:00 AM - 7:00 PM"
+    }
   },
   {
     "name": "zuma",
@@ -192,21 +260,93 @@
     "gastronomy": "Japanese",
     "price": "$$$$",
     "description": "zuma features modern Japanese cuisine and award-winning world-class cocktails in an elegant and sophisticated environment. Inspired by the informal izakaya dining style, the international restaurant features a modern Japanese cuisine that is authentic but not traditional.",
-    "phone": "",
+    "phone": "702.698.2199",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/zuma.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "5:30 PM - 11:00 PM",
+      "FRI - SAT": "11:00 PM",
+      "SUN - THU": "5:30 PM - 7:00 PM"
+    }
   },
   {
-    "name": "District: Donuts. Sliders. Brew.",
+    "name": "Tekka Bar: Handroll &amp; Sake",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Japanese ·",
+    "price": "$$",
+    "description": "Tekka Bar: Handroll & Sake draws inspiration from the ancient gambling destination in Japan dating back more than 100 years ago, with \"Tekka Ba\" translating to \"old gambling place.\" Tekka Bar debuts a signature Tekka Tuna roll, featuring the restaurant’s notable spicy sauce, alongside an eclectic sake program. Handrolls are prepared counter-side and made to order for guests, highlighting the freshest seafood, including blue crab, yellowtail, salmon and more.",
+    "phone": "702.698.7000",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/tekka-bar.html",
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "11:00 AM - 10:00 PM",
+      "FRI - SAT": "11:00 AM - 12:00 AM"
+    }
+  },
+  {
+    "name": "é by José Andrés",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Spanish",
+    "price": "$$$$",
+    "description": "Tucked away in a small private room adjacent to Jaleo’s bustling bar and paella grill, é by José Andrés offers a clever and creative tasting menu of Spanish avant-garde dishes. Accessed through a glass door emblazoned with the letter é, the room is dominated by a steel-topped bar with seating for nine. Set against a dramatic red glass wall and red velvet curtain, the space is a nod to the chef’s concept of cooking as performance.",
+    "phone": "702.698.7950",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/e-by-jose-andres.html",
+    "image": "",
+    "time": {
+      "MON, SUN": "Closed",
+      "TUE - SAT": "5:30 PM - 8:30 PM"
+    }
+  },
+  {
+    "name": "Ghost Donkey: Mezcal &amp; Tequila Bar",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Mexican",
+    "price": "$$",
+    "description": "New York City’s Ghost Donkey: Mezcal & Tequila Lounge is a true fiesta experience. Featuring an extensive selection of mezcal, Ghost Donkey serves expertly selected tasting flights alongside specially crafted cocktails made with traditional Mexican spirits and artisanal brands.",
+    "phone": "702.698.7000",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/ghost-donkey.html",
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "4:00 PM - 12:00 AM",
+      "FRI - SAT": "4:00 PM - 2:00 AM"
+    }
+  },
+  {
+    "name": "STK",
+    "hotel": "The Cosmopolitan of Las Vegas",
+    "gastronomy": "Steakhouse ·",
+    "price": "$$$$",
+    "description": "STK is a new-style Las Vegas steakhouse from The One Group and Executive Chef Stephen Hopcraft. STK features a bustling bar scene, an inspired menu, and a relaxed dining atmosphere with a sexy vibe created by the in-house DJ. With locations in New York City, Miami and Los Angeles, STK is a Las Vegas celebrity hotspot that breaks with tradition, offering a flirty take on the classic American steakhouse.",
+    "phone": "702.698.7990",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/stk.html",
+    "image": "",
+    "time": {
+      "MON - FRI": "11:00 AM - 2:30 PM",
+      "MON - FRI, SUN": "3:00 PM - 11:00 PM",
+      "SAT - SUN": "9:00 AM - 2:30 PM"
+    },
+    "SAT": "3:00 PM - 12:30 AM",
+    "DAILY": "3:00 PM - 6:00 PM"
+  },
+  {
+    "name": "Lardo",
     "hotel": "The Cosmopolitan of Las Vegas",
     "gastronomy": "American ·",
     "price": "$$",
-    "description": "Recognized as a leading craft donut purveyor, District’s rich, homemade confections feature more than 100 consistently rotating flavors, including Chocolate Blackout and Bananas Foster. No matter what you want, these are some of the best donuts in Las Vegas. Plus, the boundless donut collection complements a more extensive menu highlighting both lunch and dinner options.",
-    "phone": "",
+    "description": "Portland Chef Rick Gencarelli brings Lardo’s ruthlessly bold and flavorful approach to The Cosmopolitan of Las Vegas as an over-the-top sandwich eatery. Primarily a pork sandwich shop that uses authentic ingredients made into carefully crafted standouts, Lardo’s menu features such favorites as the Korean Pork Shoulder sandwich, and Lardo’s signature dirty fries, coupled with a selection of Chef Gencarelli’s favorite beers on tap, sourced directly from Portland.",
+    "phone": "702.698.7000",
     "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/district-donuts-sliders-brew.html",
-    "image": ""
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/lardo.html",
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "11:00 AM - 10:00 PM",
+      "FRI - SAT": "11:00 AM - 12:00 AM"
+    }
   },
   {
     "name": "Red Plate",
@@ -214,21 +354,28 @@
     "gastronomy": "Chinese",
     "price": "$$$$",
     "description": "Traditional Chinese technique and preparations present an authentic Cantonese menu with hints of modern inspiration. Menu highlights include an array of carefully selected, signature roasted meats, Chinese hot pot and handmade dim sum.",
-    "phone": "",
+    "phone": "702.698.7789",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/red-plate.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - WED": "Closed",
+      "THU - SUN": "5:30 PM - 10:00 PM"
+    }
   },
   {
-    "name": "China Poblano",
+    "name": "District: Donuts. Sliders. Brew.",
     "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Fusion",
+    "gastronomy": "American ·",
     "price": "$$",
-    "description": "An innovative concept from chef José Andrés, China Poblano at The Cosmopolitan of Las Vegas combines the flavors of Mexico and China to create a breakthrough restaurant experience that encompasses both authentic dishes and inspired new favorites.",
-    "phone": "",
+    "description": "Recognized as a leading craft donut purveyor, District’s rich, homemade confections feature more than 100 consistently rotating flavors, including Chocolate Blackout and Bananas Foster. No matter what you want, these are some of the best donuts in Las Vegas. Plus, the boundless donut collection complements a more extensive menu highlighting both lunch and dinner options.",
+    "phone": "702.698.7000",
     "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/china-poblano.html",
-    "image": ""
+    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/district-donuts-sliders-brew.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "7:00 AM - 7:00 PM"
+    }
   },
   {
     "name": "Overlook Grill",
@@ -239,50 +386,9 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/overlook-grill.html",
-    "image": ""
-  },
-  {
-    "name": "Ghost Donkey: Mezcal &amp; Tequila Bar",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Mexican",
-    "price": "$$",
-    "description": "New York City’s Ghost Donkey: Mezcal & Tequila Lounge is a true fiesta experience. Featuring an extensive selection of mezcal, Ghost Donkey serves expertly selected tasting flights alongside specially crafted cocktails made with traditional Mexican spirits and artisanal brands.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/ghost-donkey.html",
-    "image": ""
-  },
-  {
-    "name": "Lardo",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "American",
-    "price": "$$",
-    "description": "Portland Chef Rick Gencarelli brings Lardo’s ruthlessly bold and flavorful approach to The Cosmopolitan of Las Vegas as an over-the-top sandwich eatery. Primarily a pork sandwich shop that uses authentic ingredients made into carefully crafted standouts, Lardo’s menu features such favorites as the Korean Pork Shoulder sandwich, and Lardo’s signature dirty fries, coupled with a selection of Chef Gencarelli’s favorite beers on tap, sourced directly from Portland.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/lardo.html",
-    "image": ""
-  },
-  {
-    "name": "STK",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Steakhouse",
-    "price": "$$$$",
-    "description": "STK is a new-style Las Vegas steakhouse from The One Group and Executive Chef Stephen Hopcraft. STK features a bustling bar scene, an inspired menu, and a relaxed dining atmosphere with a sexy vibe created by the in-house DJ. With locations in New York City, Miami and Los Angeles, STK is a Las Vegas celebrity hotspot that breaks with tradition, offering a flirty take on the classic American steakhouse.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/stk.html",
-    "image": ""
-  },
-  {
-    "name": "Tekka Bar: Handroll &amp; Sake",
-    "hotel": "The Cosmopolitan of Las Vegas",
-    "gastronomy": "Japanese",
-    "price": "$$",
-    "description": "Tekka Bar: Handroll & Sake draws inspiration from the ancient gambling destination in Japan dating back more than 100 years ago, with \"Tekka Ba\" translating to \"old gambling place.\" Tekka Bar debuts a signature Tekka Tuna roll, featuring the restaurant’s notable spicy sauce, alongside an eclectic sake program. Handrolls are prepared counter-side and made to order for guests, highlighting the freshest seafood, including blue crab, yellowtail, salmon and more.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/the-cosmopolitan-of-las-vegas/tekka-bar.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "8:00 AM - 3:00 PM"
+    }
   }
 ]

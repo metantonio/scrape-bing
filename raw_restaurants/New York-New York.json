@@ -5,10 +5,19 @@
     "gastronomy": "Irish",
     "price": "$$",
     "description": "Inspired by a group of extraordinary Irishmen who led lives of great adventure, this is a pub of epic proportions that was built in Ireland and shipped to the heart of Las Vegas! As for food and drink, our signature dishes are made of only the freshest, natural Irish ingredients that pair perfectly with the finest stouts, ales, lagers, and spirits.",
-    "phone": "",
+    "phone": "702.740.3311",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/nine-fine-irishmen.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU": "5:00 PM - 10:00 PM",
+      "FRI - SAT": "11:00 AM - 2:00 AM",
+      "SUN": "11:00 AM - 12:00 AM",
+      "SAT - SUN": "11:00 AM - 2:00 PM"
+    },
+    "GROUP DINING": "702.891.1133",
+    "DAILY": "11:00 AM - 11:00 PM",
+    "WEBSITE": "www.ninefineirishmen.com"
   },
   {
     "name": "Gallagher's Steakhouse",
@@ -16,21 +25,15 @@
     "gastronomy": "Steakhouse",
     "price": "$$$",
     "description": "With its dark wood décor and bustling atmosphere, this classic steakhouse is the sister restaurant to Gallagher’s, the great New York City landmark steakhouse. Our menu features traditional dry-aged steaks and seafood favorites. Come and meet friends or relax with a martini at our bar.",
-    "phone": "",
+    "phone": "702.740.6450",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/gallaghers-steakhouse.html",
-    "image": ""
-  },
-  {
-    "name": "Shake Shack",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "NYC's famous burger stand is so close to The Park, you can taste it. This critically acclaimed, modern day “roadside” burger stand known for its 100 percent all-natural Angus beef burgers, hot dogs, crinkle cut fries, frozen custard, shakes, beer, wine and more!",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/shake-shack.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "4:00 PM - 10:00 PM",
+      "FRI - SAT": "4:00 PM - 11:00 PM"
+    },
+    "GROUP DINING": "702.740.6433"
   },
   {
     "name": "Beerhaus",
@@ -38,10 +41,47 @@
     "gastronomy": "American ·",
     "price": "$$",
     "description": "A fresh take on the classic beer hall, where an artfully curated menu ensures both beer nerds and casual drinkers will find their favorites. The kitchen rounds out the experience with savory sausages, sandwiches and snacks all made with hormone-free meat and locally sourced produce. Grab a cold brew, play some bar games and make some friends on the outdoor patio.",
-    "phone": "",
+    "phone": "702.692.2337",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/beerhaus.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON, WED - THU": "11:00 AM - 10:00 PM",
+      "TUE": "11:00 AM - 11:00 PM",
+      "FRI - SAT": "11:00 AM - 12:00 AM",
+      "SUN": "9:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "Shake Shack",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "NYC's famous burger stand is so close to The Park, you can taste it. This critically acclaimed, modern day “roadside” burger stand known for its 100 percent all-natural Angus beef burgers, hot dogs, crinkle cut fries, frozen custard, shakes, beer, wine and more!",
+    "phone": "702.740.3311",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/shake-shack.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "11:00 AM - 2:00 AM"
+    },
+    "WEBSITE": "www.shakeshack.com"
+  },
+  {
+    "name": "Tom's Watch Bar",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "Tom's Watch Bar defines the ultimate sports watching entertainment experience! We promise All The Sports, All The Time. With our highly curated sports programming, we are the best place to watch NFL, NBA, NHL, WNBA, MLB, NCAA, MLS, World Sporting Events, and much more! Our central oversized \"stadium\" screen, surrounded by hundreds of high-definition screens, provides 360° viewing, making every seat at Tom's the best seat in the house. Tom's is the perfect place for fans to cheer with other fans, follow their fantasy players and follow any sports bet. We can't wait to see you soon!",
+    "phone": "702.740.6766",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/toms-watch-bar.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "8:00 AM - 2:00 AM"
+    },
+    "GROUP DINING": "702.740.6183",
+    "WEBSITE": "tomswatchbar.com"
   },
   {
     "name": "Chin Chin - Asian Restaurant and Sushi Bar",
@@ -49,10 +89,15 @@
     "gastronomy": "Chinese ·",
     "price": "$$",
     "description": "Chin Chin offers contemporary Asian dining and chef-driven sushi, with a focus on fresh, quality ingredients. Ranked in the top 1% of all restaurants on the Las Vegas Strip by Trip Advisor, Chin Chin is a must-visit for tourists seeking exceptional cuisine and service. For breakfast, join us for our American Breakfast Buffet and bottomless Mimosas.",
-    "phone": "",
+    "phone": "702.740.6300",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/chin-chin-cafe-and-sushi-bar.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU": "9:00 AM - 11:00 PM",
+      "FRI - SAT": "8:00 AM - 12:00 AM",
+      "SUN": "8:00 AM - 11:00 PM"
+    }
   },
   {
     "name": "Hello Kitty Cafe",
@@ -71,21 +116,27 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "Go on a culinary journey with food, wine and beer from coast to coast, all in one American setting. America also features a massive 90 x 20 foot map of the United States, highlighting America’s most iconic landmarks. America Donuts It doesn't get more American than a delicious good old fashioned donut with a fresh cup of coffee. Baked fresh daily, the donuts, pastries and desserts at America Donuts will send your taste buds on a journey of deliciousness.",
-    "phone": "",
+    "phone": "702.740.6451",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/america.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "Open 24 Hours"
+    }
   },
   {
-    "name": "Gonzalez y Gonzalez",
+    "name": "48th And Crepe",
     "hotel": "New York-New York",
-    "gastronomy": "Mexican",
+    "gastronomy": "French ·",
     "price": "$",
-    "description": "Spicy Southwestern fare can be yours at Gonzalez Y Gonzalez, featuring an authentic tequila bar.",
-    "phone": "",
+    "description": "48th and Crepe is the perfect stop for a quick and delicious bite. Enjoy sweet and savory crepes that are sure to satisfy any craving.",
+    "phone": "702.740.6131",
     "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/gonzalez-y-gonzalez.html",
-    "image": ""
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/48th-and-crepe.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "8:00 AM - 2:00 PM"
+    }
   },
   {
     "name": "Broadway Burger Bar and Grill",
@@ -93,10 +144,14 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "Enjoy a juicy and delicious 1855 Swift Black Angus beef burgers along with on of our 12 specialty craft beers in draught. Our patio setting allows you to people watch indoors along the Village Street Eateries.",
-    "phone": "",
+    "phone": "702.740.6540",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/broadway-burger-bar-and-grill.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "11:00 AM - 11:00 PM",
+      "FRI - SAT": "11:00 AM - 12:00 AM"
+    }
   },
   {
     "name": "Nusr-Et",
@@ -107,51 +162,31 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/nusr-et.html",
-    "image": ""
-  },
-  {
-    "name": "Top Round",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "Top Round is the first and only \"better roast beef\" restaurant in the country. Whole USDA Choice, natural top rounds are roasted in house daily and sliced fresh, hot and to order for amazing gourmet and chef-inspired sandwiches featuring regional favorites such as Beef on Weck, Philly Cheesesteaks, Crispy Onion BBQ and our Classic Beef n' Cheese. Top Round also features hand-breaded crispy chicken sandwiches, gourmet dogs from all over the US, and an incredible selection of chicken wings. While you're eating enjoy the game on any of over 20 screens, watch the world go by on the Las Vegas Strip and down it all with a cold beer from our craft selection.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/top-round.html",
-    "image": ""
-  },
-  {
-    "name": "Luke's Lobster",
-    "hotel": "New York-New York",
-    "gastronomy": "Seafood ·",
-    "price": "$$",
-    "description": "Come get a taste of Maine just steps off the strip at the first Luke’s Lobster of its kind! Enjoy our famous Maine-style lobster, crab, and shrimp rolls alongside New England clam chowder and lobster bisque and wash it all down with a Maine blueberry lemonade! The 160 square foot lobster “shack” is takeout window-style that will transport you to the coast of Maine with its hand painted exteriors, white cedar wood shingle roof, and signature colorful buoy wall just like on Maine lobster docks. So stop in today, because what happens in Vegas should be followed up with a lobster roll.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/lukes-lobster.html",
-    "image": ""
-  },
-  {
-    "name": "48th And Crepe",
-    "hotel": "New York-New York",
-    "gastronomy": "French ·",
-    "price": "$",
-    "description": "48th and Crepe is the perfect stop for a quick and delicious bite. Enjoy sweet and savory crepes that are sure to satisfy any craving.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/48th-and-crepe.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "12:00 PM - 10:30 PM",
+      "FRI - SAT": "12:00 PM - 11:00 PM"
+    },
+    "DAILY": "5:30 - 12:00 AM",
+    "NUSR-ET": "www.nusr-et.com.tr"
   },
   {
     "name": "Il Fornaio",
     "hotel": "New York-New York",
-    "gastronomy": "Italian",
+    "gastronomy": "Italian ·",
     "price": "$$",
     "description": "Travel to romantic Italy and indulge in housemade and imported pasta; wood-fired pizza, rotisserie chicken and duck; hearty steaks and chops; mesquite grilled fish; and the season's picks for salads and soups at our purveyor of award-winning Italian cuisine: Il Fornaio. Complete this Old World culinary getaway with a delightful dessert and robust Italian coffee.",
-    "phone": "",
+    "phone": "702.650.6500",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/il-fornaio.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "11:30 AM - 10:00 PM",
+      "FRI - SAT": "11:30 AM - 11:00 PM",
+      "SUN - THU": "11:30 AM - 9:00 PM",
+      "FRI & SAT": "11:30 AM - 10:00 PM"
+    },
+    "DAILY": "7:00 AM - 3:00 PM"
   },
   {
     "name": "NYNY Food Hall",
@@ -162,7 +197,72 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://newyorknewyork.mgmresorts.com/en/restaurants/nyny-food-hall.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU": "10:00 AM - 2:00 AM",
+      "FRI - SUN": "10:00 AM - 4:00 AM"
+    }
+  },
+  {
+    "name": "Top Round",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "Top Round is the first and only \"better roast beef\" restaurant in the country. Whole USDA Choice, natural top rounds are roasted in house daily and sliced fresh, hot and to order for amazing gourmet and chef-inspired sandwiches featuring regional favorites such as Beef on Weck, Philly Cheesesteaks, Crispy Onion BBQ and our Classic Beef n' Cheese. Top Round also features hand-breaded crispy chicken sandwiches, gourmet dogs from all over the US, and an incredible selection of chicken wings. While you're eating enjoy the game on any of over 20 screens, watch the world go by on the Las Vegas Strip and down it all with a cold beer from our craft selection.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/top-round.html",
+    "image": "",
+    "time": {
+      "MON - THU": "11:00 AM - 11:00 PM",
+      "FRI - SUN": "11:00 AM - 12:00 AM"
+    },
+    "WEBSITE": "eattopround.com"
+  },
+  {
+    "name": "Luke's Lobster",
+    "hotel": "New York-New York",
+    "gastronomy": "Seafood ·",
+    "price": "$$",
+    "description": "Come get a taste of Maine just steps off the strip at the first Luke’s Lobster of its kind! Enjoy our famous Maine-style lobster, crab, and shrimp rolls alongside New England clam chowder and lobster bisque and wash it all down with a Maine blueberry lemonade! The 160 square foot lobster “shack” is takeout window-style that will transport you to the coast of Maine with its hand painted exteriors, white cedar wood shingle roof, and signature colorful buoy wall just like on Maine lobster docks. So stop in today, because what happens in Vegas should be followed up with a lobster roll.",
+    "phone": "702-936-4440",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/lukes-lobster.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "11:00 AM - 9:00 PM"
+    },
+    "FACEBOOK": "www.facebook.com"
+  },
+  {
+    "name": "Gonzalez y Gonzalez",
+    "hotel": "New York-New York",
+    "gastronomy": "Mexican",
+    "price": "$",
+    "description": "Spicy Southwestern fare can be yours at Gonzalez Y Gonzalez, featuring an authentic tequila bar.",
+    "phone": "702.740.6455",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/gonzalez-y-gonzalez.html",
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "12:00 PM - 10:00 PM",
+      "FRI - SAT": "11:00 AM - 11:00 PM"
+    }
+  },
+  {
+    "name": "Village Street Eateries",
+    "hotel": "New York-New York",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "Stroll through the brownstone and tree-lined Greenwich Village and experience sidewalk dining and all its charm. The Village Eateries offer Sirrico’s New York pizza, famous neighborhood sandwiches at Greenberg's Deli, fish, chips, and more at Fulton’s Fish Frye, fresh baked pastries at the Village Bakery and the best hot dogs on the strip at Times Square to Go.",
+    "phone": "702.740.6944",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/village-street-eateries.html",
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "7:00 AM - 2:00 AM",
+      "FRI - SAT": "7:00 AM - 3:00 AM"
+    }
   },
   {
     "name": "Starbucks",
@@ -173,18 +273,11 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/starbucks.html",
-    "image": ""
-  },
-  {
-    "name": "Village Street Eateries",
-    "hotel": "New York-New York",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "Stroll through the brownstone and tree-lined Greenwich Village and experience sidewalk dining and all its charm. The Village Eateries offer Sirrico’s New York pizza, famous neighborhood sandwiches at Greenberg's Deli, fish, chips, and more at Fulton’s Fish Frye, fresh baked pastries at the Village Bakery and the best hot dogs on the strip at Times Square to Go.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/village-street-eateries.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "6:00 AM - 9:00 PM"
+    },
+    "DAILY": "Temporarily Closed"
   },
   {
     "name": "Nathan’s",
@@ -192,9 +285,14 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "Since 1916, Nathan’s Famous Hot Dogs has been serving up some of the best quality hot dogs in the world. Grab one at one of our two locations on the Arcade and Mezzanine levels.",
-    "phone": "",
+    "phone": "702.233.2228",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/new-york-new-york/nathans-hot-dogs.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU": "11:00 AM - 1:00 AM",
+      "FRI - SAT": "10:00 AM - 2:00 AM",
+      "SUN": "10:00 AM - 1:00 AM"
+    }
   }
 ]

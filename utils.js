@@ -84,11 +84,11 @@ async function twitterLogin(page, config) {
 async function mgmgoin(page, config) {
     const ruta = './raw_restaurants';
     const url = [
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Bellagio',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Delano_Las_Vegas',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,Luxor_Hotel_Casino',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,ARIA',
-        'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Cosmopolitan_of_Las_Vegas',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,Bellagio',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,Delano_Las_Vegas',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,Luxor_Hotel_Casino',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,ARIA',
+        //'https://www.mgmresorts.com/en/restaurants.html?filter=property,The_Cosmopolitan_of_Las_Vegas',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Excalibur_Hotel_Casino',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Mandalay_Bay',
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,MGM_Grand_Las_Vegas',
@@ -99,10 +99,11 @@ async function mgmgoin(page, config) {
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Vdara_Hotel_Spa_at_ARIA'
     ]
     for (let k = 0; k < url.length; k++) {
+        console.log(`Casino Hotel nummber ${k+1}/${url.length}`)
         try {
-            console.log("MGMgoIn function");
+            //console.log("MGMgoIn function");
             await page.goto(url[k]);
-            await page.waitForSelector("[class=\"css-1eatf5e\"]", { visible: true, timeout: 6000 });
+            await page.waitForSelector("[class=\"css-1eatf5e\"]", { visible: true, timeout: 5000 });
 
             const scrape = await page.evaluate(() => {
                 const restaurants = [];
@@ -158,7 +159,9 @@ async function mgmgoin(page, config) {
                 return restaurants;
             });
 
+            let contador = 0 
             for (const restaurant of scrape) {
+                console.log(`subprocess ${contador+1}/${scrape.length}`)
                 if (restaurant["link_detail"] !== '') {
                     console.log("entrando en: ", restaurant["link_detail"]);
                     let viewportHeight = 800;
@@ -171,7 +174,7 @@ async function mgmgoin(page, config) {
                     try {
                         await newPage.goto(restaurant["link_detail"]);
 
-                        await newPage.waitForSelector("[class=\"OverviewHeaderSection__content\"]", { visible: true, timeout: 6000 });
+                        await newPage.waitForSelector("[class=\"OverviewHeaderSection__content\"]", { visible: true, timeout: 5000 });
 
                         restaurant["description"] = await newPage.evaluate(() => {
                             let description = document.querySelector("[class=\"CustomContent CustomContent--variant--large CustomContent--color--default\"]");
@@ -209,13 +212,14 @@ async function mgmgoin(page, config) {
                             return {};
                         });
 
-                        restaurant = { ...restaurant, ...other_details };
+                        scrape[contador] = { ...restaurant, ...other_details };
                         await newPage.close();
                     } catch (err4) {
                         await browser.close();
                     }
-
+                    await browser.close();
                 }
+                contador = contador+1;
             }
 
             //console.log('scrape: ', scrape);

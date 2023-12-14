@@ -5,10 +5,14 @@
     "gastronomy": "Steakhouse",
     "price": "$$$$",
     "description": "\"I think the role of a chef, is not just to cook, but to create cravings.\", Chef Jean-Georges Vongerichten – Relish every rich detail. Award-winning, four-star celebrity chef and restaurateur Jean-Georges Vongerichten invites you to experience steakhouse dining at its finest. Savor prime steak, seafood and lamb accompanied by fabulous sauces, sides and meticulously selected wines. The setting for this most memorable culinary experience is a handsomely designed dining room by Michael DeSantis, dressed in deep chocolate brown and delicate Tiffany blue. Commissioned artwork by Carlo Maria Mariani, George Deem and Michael Gregory, as well as a water-themed canvas screen created by Joseph Raffael, adorn the walls and a garden patio provides the perfect outdoor setting for a serene dining experience.",
-    "phone": "",
+    "phone": "702.693.8484",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/prime-steakhouse.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "5:00 PM - 11:00 PM"
+    },
+    "EXECUTIVE CHEF": "Sean Griffin"
   },
   {
     "name": "Sadelle’s Café",
@@ -16,10 +20,17 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "Sadelle's Café is your go-to destination for breakfast, brunch and lunch. Enjoy amazing views of Bellagio's Conservatory & Botanical Gardens as you savor signature dishes like Eggs Benedict, Sticky Buns and Chopped Salads.",
-    "phone": "",
+    "phone": "702.693.7356",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/sadelles.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "6:00 AM - 3:00 PM",
+      "FRI - SAT": "3:00 PM - 11:00 PM",
+      "THU": "3:00 PM - 9:00 PM"
+    },
+    "DAILY": "6:00 AM - 3:00 PM",
+    "EXECUTIVE CHEF": "Eugene Staples"
   },
   {
     "name": "Le Cirque",
@@ -27,10 +38,14 @@
     "gastronomy": "French",
     "price": "$$$$",
     "description": "The name is legendary. The experience unforgettable. Immerse yourself in the brilliant colors of this lakeside destination and prepare for a meal as bold and transcendent as your surroundings. Le Cirque's opulent dining room, designed by Adam D. Tihany, exudes celebration, setting the stage for an inimitable French menu that has drawn raves and accolades—including a perennial AAA Five Diamond Award rating and Forbes Travel Guide 5 Star Rating —since the restaurant’s creation by Sirio Maccioni . A coveted wine list and attentive service complete an evening at Le Cirque—one that will remain in your memory for years to come.",
-    "phone": "",
+    "phone": "702.693.8100",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/le-cirque.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON, THU - SUN": "5:00 PM - 10:00 PM",
+      "TUE - WED": "Closed"
+    }
   },
   {
     "name": "The Mayfair Supper Club",
@@ -38,10 +53,15 @@
     "gastronomy": "American",
     "price": "$$$",
     "description": "You're invited to so much more than dinner. The Mayfair Supper Club is inspired by top supper clubs around the world. It promises not only a feast for the senses with impeccable presentations, flavor profiles and spirit selections, but a return to the glamorous eras of Las Vegas and old New York set against the Fountains of Bellagio™. In all the best ways, The Mayfair is anything but the usual. Step into a captivating night of our late-hour performances during Mayfair After Dark, live on Friday and Saturday nights beginning at 11:00 PM",
-    "phone": "",
+    "phone": "702.693.8876",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/the-mayfair-supperclub.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "5:00 PM - 10:00 PM",
+      "FRI - SAT": "11:00 PM - 1:00 AM"
+    },
+    "EXECUTIVE CHEF": "Matthew Alba"
   },
   {
     "name": "The Buffet at Bellagio",
@@ -49,43 +69,68 @@
     "gastronomy": "American ·",
     "price": "$",
     "description": "Leave your misconceptions of buffet dining at the door – The Buffet at Bellagio is an experience like no other in Las Vegas. Our Chefs bring together the freshest ingredients and the best dishes from around the world, including Italian, Japanese, Chinese and American cuisines plus a whole lot more. Be wowed by the talent on display at our live-action cooking stations and take your taste buds on a journey of discovery as you sample favorite dishes and new temptations. To cap off the feast, discerning dessert fanatics will be able to lose themselves in fresh pastries and a personalized gelato stand.",
-    "phone": "",
+    "phone": "702.693.8112",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/the-buffet.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "8:00 AM - 3:00 PM",
+      "FRI - SAT": "5:00 PM - 9:00 PM"
+    },
+    "DAILY": "8:00 AM - 3:00 PM",
+    "EXECUTIVE CHEF": "Paolo Yballe"
   },
   {
     "name": "Spago",
     "hotel": "Bellagio",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$$$",
     "description": "Wolfgang Puck’s legendary flagship fine dining restaurant Spago is recognized for igniting Las Vegas’s dining scene into a culinary epicenter. Puck’s revolutionary Las Vegas Strip restaurant debuts with an entirely new look and menu and the exceptional level of service for which the restaurant is best known. The restaurant is beautifully situated for al fresco dining in front of the Bellagio Fountains. Spago’s re-imagined menu features Puck’s signature California fare paired with modern technique and inspiration from his chef’s weekly trips to the Santa Monica Farmer’s Market. At lunch and dinner, the market-driven menus feature handmade pastas, wood-oven pizzas, fresh seafood, all-natural meats and prime steaks, alongside handcrafted cocktails and a robust wine list. To complete the meal, dessert complements the menu with an array of seasonal delights sure to make your experience the Best Las Vegas Restaurant. Design and collaboration by Gelila Puck and Italian architects Massimiliano Locatelli and Annamaria Scevola of CLS Architetti, and inspired by Spago’s original flagship location in Beverly Hills, the new venue has a sleek look and warm feel. In the main dining room, beautiful floor-to-ceiling floating glass windows surround the space, imparting picturesque views of Bellagio’s famed lake. Two exquisite chandeliers highlight the room’s modern art pieces, while bold accents featuring rich hues of black iron, velvet walnut and polished grey express a contemporary aesthetic. The next era of Vegas dining begins here.",
-    "phone": "",
+    "phone": "702.693.8181",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/spago-by-wolfgang-puck.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU": "5:00 PM - 10:00 PM",
+      "FRI - SUN": "5:00 PM - 11:00 PM",
+      "MON - THUR": "11:00 AM - 2:30 PM"
+    }
   },
   {
     "name": "Noodles",
     "hotel": "Bellagio",
-    "gastronomy": "Pan-Asian",
+    "gastronomy": "Pan-Asian ·",
     "price": "$",
     "description": "With authentic regional noodle dishes from all over Asia, Noodles offers a lunch or dinner experience featuring as much fun as flavor. Executive Chef Patrick Lee looks to the traditional dishes of Thailand, Japan, China and Vietnam, offering an impressive selection that includes Pad Thai, Laksa, Udon, soba, Singapore noodles, vermicelli and Pho. Old-time favorites—beef, chicken and fish plus vegetables—are also offered, served over steamed rice. The extensive menu extends even further to include barbecued and roasted dishes, seafood specialties, soups, congee and traditional Asian desserts.",
-    "phone": "",
+    "phone": "702.693.8131",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/noodles.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "11:00 AM - 11:00 PM",
+      "FRI - SAT": "11:00 AM - 1:00 AM",
+      "FRI - SUN": "11:00 AM - 3:00 PM"
+    },
+    "EXECUTIVE CHEF": "Patrick Lee",
+    "GENERAL MANAGER": "Marcus Woon"
   },
   {
     "name": "LAGO by Julian Serrano",
     "hotel": "Bellagio",
-    "gastronomy": "Italian",
+    "gastronomy": "Italian ·",
     "price": "$$$$",
     "description": "Inspired by centuries of colorful culinary traditions, LAGO by Chef Julian Serrano is a gastronomic mecca made for sharing. Newly reimagined lunch and dinner menus offer distinctive à la carte selections. Take a personalized epicurean journey with an array of pastas made fresh daily; superbly prepared fare from the land, sea and garden; and creatively decadent desserts. Refresh along the way with our coastal-inspired cocktails and expansive selection of Italian wines. LAGO’s preeminent view of the iconic Fountains of Bellagio is the crown jewel of an unparalleled experience that sends all your senses soaring.",
-    "phone": "",
+    "phone": "702 693 8888",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/lago.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU": "5:00 PM - 10:00 PM",
+      "FRI - SUN": "5:00 PM - 11:00 PM",
+      "FRI - SAT": "11:00 PM - 1:00 AM"
+    },
+    "": "",
+    "EXECUTIVE CHEF": "Nico Chessa"
   },
   {
     "name": "Harvest",
@@ -93,10 +138,16 @@
     "gastronomy": "American",
     "price": "$$$",
     "description": "Let Harvest take you on a culinary journey into a bounty of fresh flavors for every season and taste. Feel your palate soar as you savor our signature roasted half chicken marinated in local ale brine and then rotisserie hay smoked; our stone oven roasted whole Maine lobster with creamy garlic and rosemary butter; or our rich, perfectly grilled marbled ribeye steak. Our ever-evolving menu features specially crafted seasonal dishes, complemented by a thoughtfully curated craft cocktail program that evolves with the changing seasons. See it all come to life as our chefs craft each flavorful dish in a stunning glass show kitchen surrounded by granite-framed beauty. Located around the corner from the Bellagio Conservatory, Harvest offers relaxed fine dining that’s artfully envisioned and refreshingly approachable.",
-    "phone": "",
+    "phone": "702.693.8800",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/harvest.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON, SUN": "Closed",
+      "TUE - SAT": "5:00 PM - 9:30 PM"
+    },
+    "EXECUTIVE CHEF": "Isaiah Torres",
+    "GENERAL MANAGER": "Manuel Nieves"
   },
   {
     "name": "Jasmine",
@@ -104,10 +155,15 @@
     "gastronomy": "Cantonese",
     "price": "$$$",
     "description": "Enter this exquisite garden and lake-view destination and breathe in the exotic aroma of Cantonese, Szechwan and Hunan cuisine. Welcome to a Chinese restaurant that exceeds all expectations. At Jasmine, Nouvelle Hong Kong cuisine is accompanied by authentic and replicated Chinese art to create a transcendent dining experience that will arouse all senses.",
-    "phone": "",
+    "phone": "702.693.8166",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/jasmine.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - TUE": "Closed",
+      "WED - SUN": "5:00 PM - 10:00 PM"
+    },
+    "EXECUTIVE CHEF": "Kang Chi Lam"
   },
   {
     "name": "Picasso",
@@ -115,10 +171,16 @@
     "gastronomy": "French",
     "price": "$$$$",
     "description": "\"I've seen guests, they have four-courses of the quail, even for dessert! This is a true story..\" –Chef Julian Serrano What could be more delightful for a pre-theatre meal or a decadent degustation menu experience than to dine in a AAA Five Diamond and Forbes Travel Guide 5-Star rated restaurant celebrating two beloved sons of Spain? Pablo Picasso’s renowned paintings and charming ceramic pieces grace the walls of Picasso, while the tables are laid with incredible dishes from Executive Chef Julian Serrano, inspired by the regional cuisine of Spain as well as France. Picasso also boasts a wine cellar stocked with more than 1,500 selections from the finest European vineyards. For a signature Bellagio experience, guests may dine outdoors, where the patio overlooks the romantic artistry of the Fountains of Bellagio. The outdoor patio is open seasonally with 16 tables, accommodating 56 guests. Based on seasonal changes, cool misters or heat lamps are available for guest comfort.",
-    "phone": "",
+    "phone": "702-693-8105",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/picasso.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - TUE": "Closed",
+      "WED, SUN": "5:30 PM - 9:30 PM",
+      "THU - SAT": "9:30 PM - 9:30 PM"
+    },
+    "EXECUTIVE CHEF": "Julian Serrano"
   },
   {
     "name": "Snacks",
@@ -129,7 +191,10 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://bellagio.mgmresorts.com/en/restaurants/snacks.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "Open 24 Hours"
+    }
   },
   {
     "name": "Bellagio Patisserie",
@@ -137,10 +202,16 @@
     "gastronomy": "French ·",
     "price": "$",
     "description": "There’s always time for tasty treats at Bellagio Patisserie. Rise and shine with breakfast pastries, omelets and freshly brewed coffee. Enjoy a refreshing midday sandwich paired with crepes for dessert. Give in to your late-night cravings with a rich and creamy gelato. Or sweeten your journey home with a box of macarons, chocolates and other savory souvenirs to go. Our pastry chefs are always crafting something wonderful.",
-    "phone": "",
+    "phone": "702.693.8865",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/bellagio-patisserie.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "6:00 AM - 10:00 PM",
+      "SUN - WED": "7:00 AM - 5:00 PM",
+      "THU - SAT": "7:00 AM - 9:00 PM"
+    },
+    "PASTRY CHEF": "Philippe Angibeau"
   },
   {
     "name": "Michael Mina",
@@ -148,21 +219,16 @@
     "gastronomy": "Seafood",
     "price": "$$$$",
     "description": "Internationally acclaimed Chef Michael Mina invites you to experience the artistry of the seven seas at his award-winning eponymous restaurant. For those obsessed with flavor, freshness and precision, MICHAEL MINA Bellagio offers an unsurpassed variety of the finest seafood selections – expertly curated – and flown in by private plane daily. The chef-driven menu features innovative seafood preparation along with a range of fresh raw bar shellfish. Guests will be treated to five-star service, genuine hospitality, bold, and craveable cuisine that makes for an unforgettable and authentic experience. Enjoy unparalleled tableside preparation and engaging service every step of the way, along with expert wine pairings and craft cocktails that create a stunning culinary journey. Creatively prepared seafood. Globally inspired ingredients. Experience the extraordinary at MICHAEL MINA Bellagio.",
-    "phone": "",
+    "phone": "702.693.7223",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/michael-mina.html",
-    "image": ""
-  },
-  {
-    "name": "Starbucks",
-    "hotel": "Bellagio",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "Starbucks offers handcrafted beverages, premium teas and delectable treats.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/starbucks.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - TUE": "Closed",
+      "WED - SUN": "5:00 PM - 9:30 PM"
+    },
+    "CREATOR / MANAGING CHEF": "Michael Mina",
+    "EXECUTIVE CHEF": "Raj Dixit"
   },
   {
     "name": "Quick Eats",
@@ -176,15 +242,32 @@
     "image": ""
   },
   {
+    "name": "Starbucks",
+    "hotel": "Bellagio",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "Starbucks offers handcrafted beverages, premium teas and delectable treats.",
+    "phone": "702.693.8162",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/starbucks.html",
+    "image": "",
+    "time": {
+      "MON - SUN": "6:00 AM - 10:00 PM"
+    }
+  },
+  {
     "name": "Juice Press",
     "hotel": "Bellagio",
     "gastronomy": "American ·",
     "price": "$",
     "description": "Enjoy a wide variety of unprocessed, delicious organic food and drink options. Juice Press is recognized as the premiere organic \"grab and go\" health food provider. We offer an unparalleled selection of organic, plant-based products and combine them with a short shelf-life to deliver a variety of fresh, nutrient dense products.",
-    "phone": "",
+    "phone": "702.693.8602",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/juice-press.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - SUN": "6:30 AM - 9:00 PM"
+    }
   },
   {
     "name": "Yellowtail Japanese Restaurant &amp; Lounge",
@@ -192,9 +275,15 @@
     "gastronomy": "Japanese",
     "price": "$$$",
     "description": "Yellowtail Japanese Restaurant & Lounge showcases innovative dishes from traditional and contemporary Japanese cuisine that includes a flare of Korean essence, culminating in an eclectic and uniquely modern dining experience. The menu pairs exquisitely with an abundant selection of specialty sakes and panoramic views of Bellagio's iconic Fountains. Michelin Star award-winning Chef Akira Back is the centerpiece of this multi-sensory dining experience. His menu, traversing authentic traditional and modern Japanese, includes seasonal fish and ingredients flown in daily from the finest markets and purveyors around the world. These products are brought to your plate in an array of preparation ranging from raw, off the knife seafood to 48 hour braised Wagyu beef. Yellowtail Japanese Restaurant & Lounge's expansive space and elegant wood and stone décor foster a vibrant atmosphere for a memorable Las Vegas evening. A 25-by-13-foot bronze wall-mounted installation of the dorsal side of the yellowtail fish greets you at the entrance, as a hint of what’s to come. In addition to traditional raw fish preparations, Chef Back creates a selection of innovative dishes inspired by his global travels. The restaurant’s hand-selected sake, beer and whisky collection is extensive, encompassing the classic to the avant-garde and representing many prefectures from across Japan.",
-    "phone": "",
+    "phone": "702-730-3900",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/bellagio/yellowtail-japanese-restaurant-lounge.html",
-    "image": ""
+    "image": "",
+    "time": {
+      "MON - THU, SUN": "5:00 PM - 10:00 PM",
+      "FRI - SAT": "8:30 PM - 12:30 AM"
+    },
+    "EXECUTIVE CHEF": "Jesse Jovenal",
+    "GENERAL MANAGER": "Irene Khoriaty"
   }
 ]
