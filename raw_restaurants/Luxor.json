@@ -2,79 +2,79 @@
   {
     "name": "Diablo's Cantina",
     "hotel": "Luxor",
-    "gastronomy": "Mexican",
+    "gastronomy": "Mexican ·",
     "price": "$$",
-    "description": "",
+    "description": "Diablo’s Cantina unleashes its unique brand of south-of-the-border dining, drinking (and a little decadence). Diablo’s features a wide variety of mouthwatering specialties including freshly made salsas and guacamoles, along with entrees like the Grilled Shrimp Burrito and the Vixen Chicken, all created by our own Chef Saul. With a selection of premium tequilas and signature cocktails, it’s the perfect place to celebrate with friends, or reserve our private dining room and party the night away with your whole group.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/diablos-cantina/food-and-drink/luxor-dining-diablos-enchiladas-top-view.jpg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/diablos-cantina.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/diablos-cantina.html",
+    "image": ""
   },
   {
     "name": "TENDER steakhouse + lounge",
     "hotel": "Luxor",
     "gastronomy": "Steakhouse",
     "price": "$$$",
-    "description": "",
+    "description": "TENDER steakhouse + lounge offers one of the most impressive selections of dry- and wet-aged steaks you'll ever experience.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/tender-steak-and-seafood/food-and-drink/luxor-dining-tender-menu-assortment.jpg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/tender-steakhouse.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/tender-steakhouse.html",
+    "image": ""
   },
   {
     "name": "Public House",
     "hotel": "Luxor",
     "gastronomy": "American",
     "price": "$",
-    "description": "",
+    "description": "Public House serves tasty American and stadium comfortable food and ice cold draft beers. Root for your favorite teams while watching them play on our huge screens!",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/public-house/lifestyle/luxor-dining-public-house-group-lifestyle.jpg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/public-house.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/public-house.html",
+    "image": ""
   },
   {
     "name": "Backstage Deli",
     "hotel": "Luxor",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "If you gamble, use your GameSense. GameSense is a registered trademark of British Columbia Lottery Corporation, used under license by MGM Resorts International.\n\nDo Not Sell/Share My Personal Information Opt-out of Online Targeted Advertising",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/backstage-deli/food-and-drink/luxor-dining-restaurant-backstage-ahh-pluck-it.tif.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/backstage-deli.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/backstage-deli.html",
+    "image": ""
   },
   {
     "name": "Pyramid Café",
     "hotel": "Luxor",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "For a great start to your day, try our Chicken & Waffles or Pyramid Stacks! Or, if you want something a little faster, try our Breakfast Parfait. In a lunch mood? We've got you covered. Try a mouth-watering Nashville Chicken Sandwich or if you are feeling adventurous, have the Double BBQ Bacon Cheeseburger.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/pyramid-cafe/food-and-beverage/luxor-dining-pyramid-cafe-western-omelette-orange-juice.jpeg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/pyramid-cafe.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/pyramid-cafe.html",
+    "image": ""
   },
   {
     "name": "The Buffet at Luxor",
     "hotel": "Luxor",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "Visit The Buffet at Luxor for a casual Las Vegas dining experience that is sure to fill your hunger. No reservations required, and children under 4 eat free! Located in the lower level, it features a massive 30-foot salad bar, homemade pizza station, delectable carving station, a tasty omelet station, and specialties from around the world. The scrumptious dessert station features fresh baked pastries and sugar-free dessert. There's something for everyone at this Las Vegas buffet!",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/luxor/dining/more-buffet/food-and-drink/luxor-dining-thebuffet-breakfast.tif.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/the-buffet-at-luxor.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/the-buffet-at-luxor.html",
+    "image": ""
   },
   {
     "name": "Starbucks Café",
     "hotel": "Luxor",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "Starbucks offers handcrafted beverages, premium teas and delectable treats. Artfully roasted high-quality arabica coffee is brewed and served one cup at a time.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/starbucks.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/starbucks.html",
+    "image": ""
   },
   {
     "name": "Luxor Food Court",
@@ -84,18 +84,18 @@
     "description": "",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/food-court.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/food-court.html",
+    "image": ""
   },
   {
     "name": "Blizz",
     "hotel": "Luxor",
-    "gastronomy": "American",
+    "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "Blizz offers a variety of non-fat frozen yogurt flavors with all your favorite toppings. Have it with granola or cereal for breakfast, fruits or nuts for a power-punched lunch, or mix and match for an all-day Blizzfully delicious dessert. Blizz also features yogurt smoothies blended with real fruit, creamy milkshakes, fresh-baked Belgian Waffles, and delectable crepes. No reservations required!",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/blizz.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/luxor/blizz.html",
+    "image": ""
   }
 ]

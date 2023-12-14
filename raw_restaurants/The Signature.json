@@ -4,12 +4,10 @@
     "hotel": "The Signature",
     "gastronomy": "American ·",
     "price": "$",
-    "phone": "702.797.6223",
+    "description": "All your breakfast and lunch favorites, served with a Vegas-appropriate twist. Perfect for grabbing a bite or enjoying a sit-down meal out on our patio.",
+    "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/signature/delights-delicatessen.html",
-    "image": "",
-    "time": {
-      "MON - SUN": "7:00 AM - 6:00 PM"
-    }
+    "image": ""
   }
 ]

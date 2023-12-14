@@ -1,25 +1,47 @@
 [
   {
+    "name": "Bavette's Steakhouse &amp; Bar",
+    "hotel": "Park MGM",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$",
+    "description": "An acclaimed Chicago classic has arrived in Las Vegas. A stylish departure from a traditional steakhouse, Bavette’s embraces French flair without the formality, blending fine dining with unabashed fun. Indulge in timeless steakhouse fare, including richly flavorful ribeyes, fresh seafood, traditional side dishes, and house made desserts. Strong cocktails and a well-curated international wine list enhance the gilded space which features red leather banquettes and glowing chandeliers.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/bavettes.html",
+    "image": ""
+  },
+  {
     "name": "Best Friend",
     "hotel": "Park MGM",
     "gastronomy": "Korean",
     "price": "$",
-    "description": "",
+    "description": "Roy Choi’s Best Friend is an indelible mash-up of bodega, bar and restaurant, serving Chef Roy’s greatest hits and more from his famous LA food truck, Kogi to his restaurants and other ventures. All of this is remixed and remastered in a new way for Las Vegas. Pair that with a cocktail and our incredible resident DJs spinning their favorite vinyl here well into the night and you have the only place on the Strip to sink your teeth into all the flavors, music, and culture of Koreatown and beyond.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/best-friend/food-and-beverage/park-mgm-dining-best-friend-shared-group-plates.jpg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/best-friend.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/best-friend.html",
+    "image": ""
   },
   {
     "name": "BetMGM Sportsbook &amp; Bar",
     "hotel": "Park MGM",
     "gastronomy": "American",
     "price": "$",
-    "description": "",
+    "description": "Big screens, comfy seats, fellow fans and your favorite food and drinks… Let’s face it, catching the game at a bar is often way more fun than being there. With plenty of local brews, wines by the glass and can’t-say-no-to-them snacks, BetMGM Sportsbook & Bar takes game-day viewing to the next level. And, because nothing should compete with your concentration on the competition, you can now cheer on your team and enjoy wings, burgers and more.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/betmgm-sportsbook-and-bar/park-mgm-dining-betmgm-sportsbook-bar-view.jpeg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/betmgm-sportsbook-and-bar.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/betmgm-sportsbook-and-bar.html",
+    "image": ""
+  },
+  {
+    "name": "La Pizza e La Pasta",
+    "hotel": "Park MGM",
+    "gastronomy": "Italian ·",
+    "price": "$",
+    "description": "While pizza and pasta are just the tip of the Italian iceberg, there is a reason these two culinary staples are the most beloved exports from Italy. Enjoy Eataly Las Vegas's seasonal selection of pasta from Gragnano, Napoli and Neapolitan style pizza just steps away from where their expert pasta chefs and dough-slinging pizzaioli (pizza makers) create dishes before your eyes.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/la-pizza-e-la-pasta.html",
+    "image": ""
   },
   {
     "name": "Mobile Takeout",
@@ -29,7 +51,29 @@
     "description": "",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/park-mgm/dining/side-betty-grill/food-and-beverage/park-mgm-dining-side-betty-grill-multiple-plates-of-food.jpeg.image.248.248.high.jpg",
-    "link_detail": "https://parkmgm.mgmresorts.com/en/restaurants/dining-options.html"
+    "link_detail": "https://parkmgm.mgmresorts.com/en/restaurants/dining-options.html",
+    "image": ""
+  },
+  {
+    "name": "La La Noodle",
+    "hotel": "Park MGM",
+    "gastronomy": "Pan-Asian",
+    "price": "$",
+    "description": "Keeping things casual has never been this fun—or satisfying. La La Noodle serves Pan-Asian cuisine where our mouthwatering noodles are the star of the show, from Lo Mein and Singapore Style to delicious Dan Dan noodles. La La has plenty of love for other tastes too. Appetizers like pot stickers, spring rolls and honey-glazed chicken wings are just the start of a hit-list menu of classic dishes and regional specialties. Take a table on the patio, jam to the electric eighties soundtrack inside, or pull up to the bar for a front-row view of all the action. Come hungry—and get ready for full-force flavor.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/la-la-noodle.html",
+    "image": ""
+  },
+  {
+    "name": "Primrose",
+    "hotel": "Park MGM",
+    "gastronomy": "American ·",
+    "price": "$$",
+    "description": "We believe that breakfast is better without a deadline and garden parties with bubbles are the best way to brunch. Which is why at Primrose, you can enjoy all-you-can-drink sparkling rosé and brunch every day until 2pm. Whether you’re settling in with your crew for an all-day affair or just grabbing your morning coffee or a pressed juice to go, Primrose has what you need. Every dish is fresh and full of flavor, from oatmeal and omelettes to grilled plates and Mediterranean-style salads. Being good? We’ve got you. Feel like fries? We have that, too.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/park-mgm/primrose.html",
+    "image": ""
   }
 ]

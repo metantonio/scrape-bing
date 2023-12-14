@@ -8,5 +8,5 @@
 	"proxies": [],
 	"send_dm":false,
 	"create_post":true,
-	"interval_min":5
+	"interval_min":0.5
 }

@@ -100,114 +100,128 @@ async function mgmgoin(page, config) {
     ]
     for (let k = 0; k < url.length; k++) {
         try {
-            console.log("MGMgoIn function")
-            await page.goto(url[k])
-            //await timeout(1000)
-            await page.waitForSelector("[class=\"css-1eatf5e\"]", { visible: true, timeout: 60000 })
-            //await page.focus("[class=\"css-1eatf5e\"]")
-            //console.log(page)
+            console.log("MGMgoIn function");
+            await page.goto(url[k]);
 
+            await page.waitForSelector("[class=\"css-1eatf5e\"]", { visible: true, timeout: 6000 });
 
-            var scrape = await page.evaluate(async () => {
-                let restaurants = []
-                console.log("evaluation")
-                //let cards = document.querySelectorAll(".b_recCardData")
-                let cards = Array.from(document.querySelectorAll(".css-1eatf5e"))
-                console.log("length cards: ", cards.length)
-                for (let i = 0; i < cards.length; i++) {
-                    let restaurant = { name: '', hotel: '', gastronomy: '', price: '', description: '', phone: '', hours: '', link_detail: '' }
+            const scrape = await page.evaluate(() => {
+                const restaurants = [];
+                const cards = Array.from(document.querySelectorAll(".css-1eatf5e"));
 
-                    let title = cards[i].querySelector("[data-testid=\"discovery-result-card-title\"]")
+                for (const card of cards) {
+                    const restaurant = {
+                        name: '',
+                        hotel: '',
+                        gastronomy: '',
+                        price: '',
+                        description: '',
+                        phone: '',
+                        hours: '',
+                        link_detail: '',
+                    };
+
+                    const title = card.querySelector("[data-testid=\"discovery-result-card-title\"]");
                     if (title) {
-                        restaurant["name"] = title.innerHTML
-                        let detail_a = cards[i].querySelector("[data-testid=\"discovery-result-card-detail-a\"]")
-                        if (detail_a) {
-                            restaurant["hotel"] = detail_a.innerHTML
-                        }
-                        let detail_b = cards[i].querySelector("[data-testid=\"discovery-result-card-detail-b\"]")
-                        if (detail_b) {
-                            restaurant["gastronomy"] = detail_b.innerText
-                        }
-                        let detail_c = cards[i].querySelector("[data-testid=\"discovery-result-card-detail-c\"]")
-                        if (detail_c) {
-                            restaurant["price"] = detail_c.innerHTML
-                        }
-                        let detail_img = cards[i].querySelector("[data-testid=\"discovery-result-card-image\"]")
+                        restaurant["name"] = title.innerHTML;
+
+                        const detail_a = card.querySelector("[data-testid=\"discovery-result-card-detail-a\"]");
+                        if (detail_a) restaurant["hotel"] = detail_a.innerHTML;
+
+                        const detail_b = card.querySelector("[data-testid=\"discovery-result-card-detail-b\"]");
+                        if (detail_b) restaurant["gastronomy"] = detail_b.innerText;
+
+                        const detail_c = card.querySelector("[data-testid=\"discovery-result-card-detail-c\"]");
+                        if (detail_c) restaurant["price"] = detail_c.innerHTML;
+
+                        const detail_img = card.querySelector("[data-testid=\"discovery-result-card-image\"]");
                         if (detail_img) {
-                            //console.log(detail_img.getAttribute("src"))
-                            try{
-                                restaurant["image"] = detail_img.getAttribute("src") || ""
-                            }catch(err2){
-                                console.error('Error2 in page.goto:',err2)
+                            try {
+                                restaurant["image"] = detail_img.getAttribute("src") || "";
+                            } catch (err2) {
+                                console.error('Error2 in page.goto:', err2);
                             }
-                           
                         }
 
-                        let detail_link = cards[i].querySelector("[data-testid=\"discovery-result-card-image-link\"]")
+                        const detail_link = card.querySelector("[data-testid=\"discovery-result-card-image-link\"]");
                         if (detail_link) {
-                            //console.log(detail_link.getAttribute("href"))
-                            try{
-                                restaurant["link_detail"] = detail_link.getAttribute("href")
-                            }catch(err){
-                                console.log("err2")
+                            try {
+                                restaurant["link_detail"] = detail_link.getAttribute("href");
+                            } catch (err) {
+                                console.error('Error in page.goto:', err);
                             }
-                            
                         }
-                        restaurants.push(restaurant)
-                        //console.log("restaurant:", restaurant)
+
+                        restaurants.push(restaurant);
+                    }
+                }
+
+                return restaurants;
+            });
+
+            for (const restaurant of scrape) {
+                if (restaurant["link_detail"] !== '') {
+                    console.log("entrando en: ", restaurant["link_detail"]);
+                    let viewportHeight = 800;
+                    let viewportWidth = 800;
+                    var browser = await puppeteer.launch({ headless: false, executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe' });
+
+                    let newPage = await browser.newPage();
+                    await newPage.setDefaultNavigationTimeout(0);
+                    await newPage.setViewport({ width: viewportWidth, height: viewportHeight }); 
+                    try{
+                        await newPage.goto(restaurant["link_detail"]);
+
+                    await newPage.waitForSelector("[class=\"OverviewHeaderSection__content\"]", { visible: true, timeout: 6000 });
+
+                    restaurant["description"] = await newPage.evaluate(() => {
+                        const description = document.querySelector("[class=\"CustomContent CustomContent--variant--large CustomContent--color--default\"]");
+                        if (description) return `${description.innerText}`;
+
+                        const description2 = document.querySelector("[class=\"description-text\"]");
+                        if (description2) return `${description2.innerText}`;
+
+                        return "";
+                    });
+
+                    if (restaurant["description"] === undefined) {
+                        restaurant["description"] = "";
                     }
 
+                    const other_details = await newPage.evaluate(() => {
+                        const temp_data = {};
+                        const descriptions = document.querySelectorAll("[class=\"OverviewSidebarSection__item__label\"]");
+                        const detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
 
-                }
-                //console.log(restaurants)
-                return restaurants;
-            })
-            for (let h = 0; h < scrape.length; h++) {
-                if (scrape[h]["link_detail"] != '') {
-                    console.log("entrando en: ",scrape[h]["link_detail"])
-
-                    await page.goto(scrape[h]["link_detail"])                    
-                    await page.waitForSelector("[class=\"OverviewHeaderSection__content\"]", { visible: true, timeout: 60000 })
-                    
-                    scrape[h]["description"]= await page.evaluate(() => {                        
-                        let description = document.querySelector("[class=\"CustomContent\"]")? document.querySelector("[class=\"CustomContent\"]") : document.querySelector("[class=\"description-text\"]");
-                        if (description) {
-                            //console.log("innerText: ", description.innerText);
-                            return `${description.innerText}`;                            
-                        }                        
-                    });
-
-                    let other_details= await page.evaluate(() => {  
-                        let temp_data={}                      
-                        let descriptions = document.querySelectorAll("[class=\"OverviewSidebarSection__item__label\"]");
-                        let detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
-                        if (descriptions.length>0) {
-                            temp_data["time"] = {}
-                            for(let n=0; n<descriptions.length; n++){
-                                
-                                if(descriptions[n].innerText=="INFORMATION" || descriptions[n].innerText=="RESERVATIONS"){
-                                    temp_data["phone"]=detailed[n].innerText
-                                }
-                                else if(descriptions[n].innerText.includes("MON") || descriptions[n].innerText.includes("TUE") || descriptions[n].innerText.includes("WED") || descriptions[n].innerText.includes("THU") || descriptions[n].innerText.includes("FRI") || descriptions[n].innerText.includes("SUN") ){
-                                    temp_data["time"][descriptions[n].innerText]= detailed[n].innerText
-                                    //temp_data["time"]= {...temp_data["time"], temp_data["time"][descriptions[n].innerText]: detailed[n].innerText}
-                                }
-                                else{
-                                    temp_data[descriptions[n].innerText]=detailed[n].innerText
+                        if (descriptions.length > 0) {
+                            temp_data["time"] = {};
+                            for (let n = 0; n < descriptions.length; n++) {
+                                if (descriptions[n].innerText === "INFORMATION" || descriptions[n].innerText === "RESERVATIONS") {
+                                    temp_data["phone"] = detailed[n].innerText;
+                                } else if (descriptions[n].innerText.includes("MON") || descriptions[n].innerText.includes("TUE") || descriptions[n].innerText.includes("WED") || descriptions[n].innerText.includes("THU") || descriptions[n].innerText.includes("FRI") || descriptions[n].innerText.includes("SUN")) {
+                                    temp_data["time"][descriptions[n].innerText] = detailed[n].innerText;
+                                } else {
+                                    temp_data[descriptions[n].innerText] = detailed[n].innerText;
                                 }
                             }
-                            return temp_data;                            
-                        }                        
+
+                            return temp_data;
+                        }
+                        return {};
                     });
-                    scrape[h] = {...scrape[h], ...other_details}
-                    //console.log("scrape[h][desc]: ",scrape)
+
+                    restaurant = { ...restaurant, ...other_details };
+                    await newPage.close();
+                }catch(err4){
+                    await browser.close();
+                }                   
                     
                 }
             }
 
-            console.log('scrape: ', scrape)
+            console.log('scrape: ', scrape);
             const dataJSON = JSON.stringify(scrape, null, 2);
-            // Escribe el archivo JSON en el sistema de archivos
+
             fs.writeFile(`${ruta}/${scrape[0]["hotel"]}.json`, dataJSON, 'utf8', (err) => {
                 if (err) {
                     console.error('Error al escribir el archivo JSON:', err);
@@ -216,13 +230,8 @@ async function mgmgoin(page, config) {
                 }
             });
 
-
-            //return scrape
-            //const cookies = await page.cookies();
-            //fs.writeFileSync('./raw/cookies.json', JSON.stringify(cookies, null, 2));
-            //console.log("Logged in and saved cookies");
         } catch (err) {
-            console.error('Error in page.goto:',err)
+            console.error('Error in page.goto:', err);
         }
     }
 

@@ -4,66 +4,66 @@
     "hotel": "MGM Grand",
     "gastronomy": "French",
     "price": "$$$$",
-    "description": "",
+    "description": "When only the best will do for dinner, visit Joël Robuchon’s unparalleled French restaurant. This unforgettable Three Michelin Star restaurant caters to a sophisticated palate and was designed to resemble a luxurious Art Deco townhouse complete with a lush garden terrace and marble floors. Winner of Forbes Five Star, AAA Five Diamond and Wine Spectator’s Grand Award, Joël Robuchon has redefined Vegas dining. Quiet and intimate, this experience promises to be one of the finest meals of your life.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/joel-robuchon-french-restaurant.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/joel-robuchon-french-restaurant.html",
+    "image": ""
   },
   {
     "name": "Wolfgang Puck Bar &amp; Grill",
     "hotel": "MGM Grand",
     "gastronomy": "American ·",
     "price": "$$",
-    "description": "",
+    "description": "One of the most recognized names in the culinary world, Wolfgang Puck, reinvents American bar and grill food with approachable, California-inspired cuisine in a casual and lively setting. Puck’s Bar & Grill serves up his signature comfort food favorites like wood-fired pizzas, choice cuts from the grill and a small bites menu that’s as delicious as it is expansive. As in all his restaurants, Puck lends his personal touch to ensure this bar and grill has plenty of energy and a festive, welcoming vibe.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/wolfgang-grill-bar-restaurant.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/wolfgang-grill-bar-restaurant.html",
+    "image": ""
   },
   {
     "name": "MGM Grand Buffet",
     "hotel": "MGM Grand",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "The MGM Grand Buffet’s enormous array of cuisine is sure to grant your culinary wishes.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/mgm-grand-buffet.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/mgm-grand-buffet.html",
+    "image": ""
   },
   {
     "name": "Grand Wok Noodle Bar",
     "hotel": "MGM Grand",
     "gastronomy": "Pan-Asian",
     "price": "$$",
-    "description": "",
+    "description": "Casual in atmosphere and authentic in flavor, grand wok features traditional asian cuisine that stays true to the style of yesterday. From wok-tossed noodles and black pepper beef to fresh seafood, tofu, and pot stickers, every dish is a reminder of just how flavorful life can be.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmgrand.mgmresorts.com/en/restaurants/grand-wok-noodle-bar.html"
+    "link_detail": "https://mgmgrand.mgmresorts.com/en/restaurants/grand-wok-noodle-bar.html",
+    "image": ""
   },
   {
     "name": "L'Atelier de Joël Robuchon",
     "hotel": "MGM Grand",
     "gastronomy": "French",
     "price": "$$$$",
-    "description": "",
+    "description": "From France’s “Chef of the Century” Joël Robuchon comes this unique restaurant concept where every meal is prepared right before your eyes. Known for its friendly, interactive ambiance, take a seat at the service counter for an unobstructed view into the kitchen where award-winning dishes are sliced, diced and sautéed to perfection.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/latelier-joel-robuchon-french-restaurant.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/latelier-joel-robuchon-french-restaurant.html",
+    "image": ""
   },
   {
     "name": "Hakkasan Restaurant",
     "hotel": "MGM Grand",
     "gastronomy": "Chinese",
     "price": "$$$$",
-    "description": "",
+    "description": "It’s time to rediscover Hakkasan Las Vegas Restaurant. With our reimagined contemporary Chinese cuisine and a revitalized stylish interior, the space is truly reborn. With a focus on innovative Cantonese cuisine, cocktails, and an extensive wine selection, Hakkasan is one of the best fine dining experiences in Las Vegas. The restaurant is separated by intricately carved wooden screens and latticing that echoes the rich and glamorous interiors of the London flagship restaurant. Signature dishes include Peking Duck served with caviar as an option, Chilean Sea Bass cooked in champagne and honey and the famous Crispy Duck Salad made with pomelo, pine nuts and shallots. The kitchen is helmed by Chef de Cuisine Pinyo Saewu, who embraces a personal passion for Cantonese cuisine.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/hakkasan.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/hakkasan.html",
+    "image": ""
   },
   {
     "name": "TAP Sports Bar",
@@ -73,118 +73,107 @@
     "description": "",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/things-to-do/clubs/mgm-grand-las-vegas/tap-sports-bar.html"
-  },
-  {
-    "name": "Luchini Italian Restaurant",
-    "hotel": "MGM Grand",
-    "gastronomy": "Italian",
-    "price": "$$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/luchini-italian-restaurant.html"
-  },
-  {
-    "name": "Avenue Café",
-    "hotel": "MGM Grand",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/avenue-24.html"
-  },
-  {
-    "name": "Emeril's New Orleans Fish House",
-    "hotel": "MGM Grand",
-    "gastronomy": "Creole",
-    "price": "$$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/emerils-creole-cajun-restaurant.html"
+    "link_detail": "https://mgmresorts.com/en/things-to-do/clubs/mgm-grand-las-vegas/tap-sports-bar.html",
+    "image": ""
   },
   {
     "name": "CRUSH American Grill",
     "hotel": "MGM Grand",
     "gastronomy": "American",
     "price": "$$",
-    "description": "",
+    "description": "Created by celebrated restaurateur, Michael Morton, CRUSH presents American classics from steaks and seafood to woodfired pizzas and pasta paired with playful handcrafted cocktails and a diverse wine list. Setting the stage for an unforgettable dining experience, CRUSH brings the natural beauty of the outdoors inside to a dining room and bar abuzz with energy. Oversized booths invite long dinners and the bar is an ideal meeting spot ahead of concerts, shows and unforgettable nights on the Las Vegas Strip.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/crush.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/crush.html",
+    "image": ""
+  },
+  {
+    "name": "Emeril's New Orleans Fish House",
+    "hotel": "MGM Grand",
+    "gastronomy": "Creole",
+    "price": "$$",
+    "description": "Chef Emeril Lagasse brings his love of fresh seafood and signature \"New New Orleans\" style of cooking -- a twist on Louisiana's classic Creole dishes -- to his New Orleans Fish House. On the menu, you'll find Chef Emeril's kicked-up versions of market-fresh fish and shellfish creations alongside flavorful steaks and inspired pork and chicken dishes. Paired with a wine list that received Wine Spectator magazine's \"Best of Award of Excellence,\" and an imaginative sea-inspired design by New York's Rockwell Group, the restaurant will make you feel closer to the coast than the Las Vegas Strip. Enjoy an unforgettable meal at the Chef's Table with an ever-changing tasting menu.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/emerils-creole-cajun-restaurant.html",
+    "image": ""
   },
   {
     "name": "Greek Sneek Mediterranean Grill",
     "hotel": "MGM Grand",
     "gastronomy": "Mediterranean",
     "price": "$$",
-    "description": "",
+    "description": "Imagined by celebrated restaurateur, Michael Morton, Greek Sneek captures the essence of the Mediterranean with an enticing array of fresh dishes and flavors. A hidden gem next to CRUSH American Grill, Greek Sneek’s menu invites guests to savor fresh Greek cuisine, including charred octopus, savory souvlaki skewers and vibrant Mykonos salads. Handcrafted cocktails, a collection of Greek wines and craft beers embody the spirit of Mykonos. The restaurant's spacious dining room reflects the beauty and warmth of the Mediterranean. Framed by rounded brick walls, coastal elements and a welcoming bar, Greek Sneek’s setting serves as the ideal gathering place for pre-show drinks, conversations and the start of an unforgettable night on the Las Vegas Strip.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/greek-sneek.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/greek-sneek.html",
+    "image": ""
   },
   {
-    "name": "Morimoto Las Vegas",
+    "name": "Avenue Café",
     "hotel": "MGM Grand",
-    "gastronomy": "Japanese",
-    "price": "$$$",
-    "description": "",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "With its vibrant retro design, Avenue Café puts a glamorous twist on old school Vegas. Slide into a high-backed booth for a hearty breakfast of a made-to-order omelet and a signature mimosa. Or linger a little longer over a sandwich or burger at lunch.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/morimoto.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/avenue-24.html",
+    "image": ""
   },
   {
     "name": "Pieology",
     "hotel": "MGM Grand",
     "gastronomy": "Italian ·",
     "price": "$",
-    "description": "",
+    "description": "Pieology is a gourmet eatery where you can design your own artisan pizza. Pick your choice of fresh dough, sauces, cheeses and toppings and voila! You’ve got a piping hot, custom pizza baked in a stone hearth in two minutes or less.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/pieology.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/pieology.html",
+    "image": ""
+  },
+  {
+    "name": "Morimoto Las Vegas",
+    "hotel": "MGM Grand",
+    "gastronomy": "Japanese",
+    "price": "$$$",
+    "description": "The contemporary Japanese design of Morimoto Las Vegas combines delicate Japanese beauty and elegance, with exotic photographs by Yasumichi Morita, to create a stunning restaurant with a signature Morimoto touch. From the moment guests arrive, they will begin to experience Las Vegas in a new way; The Morimoto way.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/morimoto.html",
+    "image": ""
   },
   {
     "name": "Starbucks",
     "hotel": "MGM Grand",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "Starbucks offers handcrafted beverages, premium teas and delectable treats. Artfully roasted and brewed, high-quality arabica coffee is served one cup at a time.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/starbucks.html"
-  },
-  {
-    "name": "Tom Colicchio's Craftsteak",
-    "hotel": "MGM Grand",
-    "gastronomy": "Steakhouse",
-    "price": "$$$$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/craftsteak-steak-house.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/starbucks.html",
+    "image": ""
   },
   {
     "name": "Blizz Frozen Yogurt &amp; Desserts",
     "hotel": "MGM Grand",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "Blizz goes beyond the self-serve frozen yogurt concept by offering a wide selection of frozen yogurt creations and other delights like such smoothies and crepes. All dished out in a fun, casual environment.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/blizz.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/blizz.html",
+    "image": ""
+  },
+  {
+    "name": "Tom Colicchio's Craftsteak",
+    "hotel": "MGM Grand",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$",
+    "description": "Top Chef personality and James Beard Award-winning chef Tom Colicchio uses only the finest ingredients to create dishes bursting with flavor. The menu features ingredients from small family farms, artisanal producers and day-boat fisherman, prepared to capture the true flavor and essence of each dish. And while steak is front-and-center, guests can also find specialties like fresh salmon, veal and lobster to pair with Craftsteak’s award-winning wine, bourbon and scotch list.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/craftsteak-steak-house.html",
+    "image": ""
   },
   {
     "name": "Food Court",
@@ -194,18 +183,18 @@
     "description": "",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/foodcourt.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/foodcourt.html",
+    "image": ""
   },
   {
     "name": "Bonanno's New York Pizzeria",
     "hotel": "MGM Grand",
     "gastronomy": "Italian",
     "price": "$",
-    "description": "",
+    "description": "Bonanno’s New York Pizzeria is a casual urban pizzeria offering Authentic New York Pizza by the slice or pie. Can’t handle a slice of pizza the size of your head? Try the Stromboli, Pasta, Salads or Entrée offerings with an ice-cold Draft Beer. And it even gets better! Bonanno’s located at food court is open for breakfast while The Central location serves decadent Gelato!",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/bonannos.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mgm-grand-las-vegas/bonannos.html",
+    "image": ""
   }
 ]

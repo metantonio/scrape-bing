@@ -1,25 +1,14 @@
 [
   {
-    "name": "Libertine Social",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American",
-    "price": "$$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/libertine-social/interior/mandalay-bay-dining-libertine-social-main-bar-ceiling.jpeg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/libertine-social.html"
-  },
-  {
     "name": "Border Grill",
     "hotel": "Mandalay Bay",
-    "gastronomy": "Mexican",
+    "gastronomy": "Mexican ·",
     "price": "$$",
-    "description": "",
+    "description": "Welcome to Border Grill, the vibrant, modern Mexican restaurant from award-winning Chefs Mary Sue Milliken and Susan Feniger. With two floors of al fresco patio dining and a beautiful outdoor bar, it’s the perfect setting for sipping margaritas and savoring the bold flavors of Mexico while enjoying views of Mandalay Bay Beach. The chefs combine fresh, flavorful and organic ingredients with handmade tortillas, crafted cocktails, lively murals, and friendly service to create an unforgettable dining experience. At lunch and dinner the menu includes signature dishes such as Tortilla Soup, Green Corn Tamales, Baja Ceviche, Chicken Poblano Enchiladas, and Yucatan Pork. Don’t miss the best weekend brunch in Las Vegas, offering unlimited small plates and bottomless mimosas, micheladas and bloody marys.",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/border-grill/food-and-drink/mandalay-bay-restaurant-border-grill-tablescape.jpg.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/border-grill.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/border-grill.html",
+    "image": ""
   },
   {
     "name": "House of Blues Restaurant &amp; Bar",
@@ -29,173 +18,107 @@
     "description": "",
     "phone": "",
     "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/house-of-blues-restaurant-and-bar/food-and-drink/mandalay-bay-dining-house-of-blues-nashville-hot-wings.tif.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/things-to-do/clubs/mandalay-bay/house-of-blues-restaurant-and-bar.html"
-  },
-  {
-    "name": "Hussong's Cantina",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Mexican",
-    "price": "$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/hussongs-cantina/food-and-drink/mandalay-bay-dining-hussongs-fish-tacos.tif.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/hussongs-cantina.html"
-  },
-  {
-    "name": "BBQ Mexicana",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Mexican",
-    "price": "$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/bbq-mexicana/mandalay-bay-restaurant-bbq-mexicana-burnt-end-burrito.tif.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/bbq-mexicana.html"
-  },
-  {
-    "name": "Hazel Coffee &amp; Cocktails",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "//static.mgmresorts.com/content/dam/MGM/mandalay-bay/dining/hazel-coffee-&-cocktails/architecture/mandalay-bay-dining-hazel-coffee-front-view-interior.tif.image.248.248.high.jpg",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/hazel-coffee-and-cocktails.html"
-  },
-  {
-    "name": "Flanker Kitchen + Sports Bar",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American",
-    "price": "$$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/flanker-las-vegas.html"
-  },
-  {
-    "name": "Wahlburgers",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American",
-    "price": "$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/wahlburgers.html"
+    "link_detail": "https://mgmresorts.com/en/things-to-do/clubs/mandalay-bay/house-of-blues-restaurant-and-bar.html",
+    "image": ""
   },
   {
     "name": "Rí Rá Irish Pub",
     "hotel": "Mandalay Bay",
     "gastronomy": "Irish ·",
     "price": "$",
-    "description": "",
+    "description": "Constructed from a pub meticulously restored in Ireland then shipped to Mandalay Place, Rí Rá epitomizes the true Irish pub experience with its comfortable neighborhood environment where conversation flows as smoothly as Guinness ebbs in the glass. Offering an impressive lineup of live music, a comprehensive drink list and fare that defies pub standards, the latest endeavor from Irish natives and longtime friends David Kelly & Ciaran Sheehan and their American partner, Jay Luther, also delivers live entertainment seven nights a week, including traditional Irish Sessions and visiting bands direct from Ireland.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/ri-ra-irish-pub.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/ri-ra-irish-pub.html",
+    "image": ""
   },
   {
     "name": "Retro by Voltaggio",
     "hotel": "Mandalay Bay",
     "gastronomy": "American",
     "price": "$$",
-    "description": "",
+    "description": "Inspired by the best of the 80s, 90s and now, Retro by Voltaggio is the bomdiggity of dining experiences unlike any other in Vegas. Taste the rad with a remix of America's favorite dishes with an electrifying throwback spirit. But you better call dibs before it's gone because chefs Bryan and Michael Voltaggio are only here for a limited time.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/retro-by-voltaggio.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/retro-by-voltaggio.html",
+    "image": ""
   },
   {
-    "name": "Seabreeze Café",
+    "name": "BBQ Mexicana",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Mexican ·",
+    "price": "$",
+    "description": "BBQ Mexicana, a fast-casual eatery from award-winning Chefs Mary Sue Milliken and Susan Feniger, is conveniently located across from Border Grill, our sister restaurant, and adjacent to the Mandalay Bay Convention Center. Open weekdays, plus select mornings and weekends, BBQ Mexicana is ideal for convention attendees and those seeking a delicious meal on the go before continuing on to the casino floor, pool, Shark Reef, or a show.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/bbq-mexicana.html",
+    "image": ""
+  },
+  {
+    "name": "Hazel Coffee &amp; Cocktails",
     "hotel": "Mandalay Bay",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "It’s the place where glasses clink and eyes meet. A twinkle in the eye of an old friend. A glimmer of something special when strangers cross paths. Start the day with a selection of award-winning premium coffees and curated breakfast or lunch fare. When the sun goes down, peruse Hazel’s distinctive cocktail menu for a range of time-honored classics as well as adventurous new creations.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/seabreeze-cafe.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/hazel-coffee-and-cocktails.html",
+    "image": ""
+  },
+  {
+    "name": "Wahlburgers",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "When Chef Paul set out to create a family restaurant, things quickly got interesting. See, Paul’s a Wahlberg — and the Wahlbergs are no ordinary family. While brothers Mark and Donnie spent childhood day-dreaming of their inevitable rise to fame, Paul passed time in the family kitchen with his mother, Alma. The restaurant’s menu is based on the same recipes Paul and his 8 siblings devoured as kids, taken to another level.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/wahlburgers.html",
+    "image": ""
+  },
+  {
+    "name": "Flanker Kitchen + Sports Bar",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American",
+    "price": "$$",
+    "description": "Situated in The Shoppes at Mandalay Place, Flanker Kitchen + Sports Bar is the Las Vegas Strip’s new premier destination for sports fans and foodies. Just steps from the walkway to Allegiant Stadium, Flanker is the go-to spot for pre- and post-game eats and drinks, to settle in to watch sporting events in an elevated environment, or just a great meal. Flanker's menu of American favorites features knockout steaks from artisan producers, premium seafood and poultry dishes, scratch burgers, salads, fan-favorite starters, and over-the-top sweet treats, among other mouthwatering offerings. A full beverage program includes boozy milkshakes, signature craft cocktails, large-format cocktails, and an enviable selection of 50-plus draft and bottled beers.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/flanker-las-vegas.html",
+    "image": ""
   },
   {
     "name": "Noodle Shop",
     "hotel": "Mandalay Bay",
-    "gastronomy": "Pan-Asian",
+    "gastronomy": "Pan-Asian ·",
     "price": "$",
-    "description": "",
+    "description": "Seated under dozens of massive Chinese lanterns, this traditional Chinese restaurant experience features authentic Cantonese and Mandarin dishes. The menu features Oriental favorites such as Hong Kong Style Wonton Soup, Pad Thai Noodles, and Singapore Curried Rice Noodle.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/noodle-shop.html"
-  },
-  {
-    "name": "KUMI",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Japanese",
-    "price": "$$$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/kumi-by-akira-back.html"
-  },
-  {
-    "name": "Citizens Kitchen &amp; Bar",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/citizens.html"
-  },
-  {
-    "name": "StripSteak",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Steakhouse",
-    "price": "$$$$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/stripsteak.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/noodle-shop.html",
+    "image": ""
   },
   {
     "name": "Foundation Room",
     "hotel": "Mandalay Bay",
     "gastronomy": "American",
     "price": "$$$",
-    "description": "",
+    "description": "Elevate Your Dining at this luxurious den and taste their International Fine Dining and Lounge fare transcending the global palette with a seasonal cuisine that is as rich in flavor as it is eclectic; boasting dishes like the Skuna Bay Salmon, Korean Fried Chicken and Bao Buns, and Fresh Market fish specialties. Sip a mouth-watering classic libation from the vast Specialty Cocktails Menu focused on new and original creations, like the Cucumber Zen, Perfect Gin & Tonic or the Ginza Fashioned. Dining Guests receive complimentary admission to the Lounge after dinner to enjoy Foundation Room’s nightlife.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/foundation-room.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/foundation-room.html",
+    "image": ""
   },
   {
-    "name": "Veranda",
+    "name": "KUMI",
     "hotel": "Mandalay Bay",
-    "gastronomy": "",
-    "price": "",
-    "description": "",
+    "gastronomy": "Japanese",
+    "price": "$$$",
+    "description": "Kumi Restaurant + Lounge combines East-Asian ingredients with Korean flavors, creating a modern approach to Japanese Cuisine. Utilizing sustainably sourced ingredients, guests are welcome to indulge in a variety of shared plates, seasonal fish selections ranging from raw to seared, as well as an array of bold dishes including Steak Tartare, Kombu Steamed Chilean Sea Bass, and the Wagyu Ribeye. Kumi’s dining experience is complemented with a list of fine wines, Japanese whiskeys, ultra-premium sakes, and specialty libations. The architectural design of natural woods, cherry blossom hues, and hammered steel accents paired with ambient beats, provide an upscale atmosphere for an exceptional evening in Las Vegas. Kumi Restaurant + Lounge is Japanese cuisine, redefined.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://www.fourseasons.com/lasvegas/dining/restaurants/veranda/?source=rra0005"
-  },
-  {
-    "name": "Slice of Vegas",
-    "hotel": "Mandalay Bay",
-    "gastronomy": "Italian",
-    "price": "$",
-    "description": "",
-    "phone": "",
-    "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/slice-of-vegas.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/kumi-by-akira-back.html",
+    "image": ""
   },
   {
     "name": "PRESS",
@@ -205,19 +128,52 @@
     "description": "",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://www.fourseasons.com/lasvegas/dining/lounges/press/?source=rra0005"
+    "link_detail": "https://www.fourseasons.com/lasvegas/dining/lounges/press/?source=rra0005",
+    "image": ""
+  },
+  {
+    "name": "Veranda",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "",
+    "price": "",
+    "description": "",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://www.fourseasons.com/lasvegas/dining/restaurants/veranda/?source=rra0005",
+    "image": ""
+  },
+  {
+    "name": "Citizens Kitchen &amp; Bar",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "In the mood for comfort food? You're in luck. Citizens Kitchen & Bar is located in the heart of Mandalay Bay! The carefully-crafted menu features American comfort food at its best. Offering everything from continental breakfast to classic salads, hearty sandwiches and signature entrees, Citizens Kitchen & Bar has a dish to satisfy any guest's craving. Citizens offers a vast selection of beers as well a full-service bar to complement the decadent fare. The approachable menu, lively music and comfortable atmosphere are poised to satisfy the tastes of any and all restaurant guests.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/citizens.html",
+    "image": ""
+  },
+  {
+    "name": "StripSteak",
+    "hotel": "Mandalay Bay",
+    "gastronomy": "Steakhouse",
+    "price": "$$$$",
+    "description": "StripSteak Las Vegas is a modern American steakhouse combined with an inventive and highly curated menu offering guests the best seafood and signature cuts of premium beef, as well as classic favorites. When the finest cuts of aged beef are wood-fired and butter-poached to perfection with award-winning Chef Michael Mina’s signature flair, that’s fire-born flavor. Savor the extraordinary.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/stripsteak.html",
+    "image": ""
   },
   {
     "name": "Starbucks",
     "hotel": "Mandalay Bay",
     "gastronomy": "American ·",
     "price": "$",
-    "description": "",
+    "description": "Starbucks offers handcrafted beverages, premium teas and delectable treats. High-quality arabica coffee is artfully roasted and brewed to unlock distinctive flavors, served one cup at a time.",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/starbucks.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/starbucks.html",
+    "image": ""
   },
   {
     "name": "Mandalay Bay Food Court",
@@ -227,7 +183,7 @@
     "description": "",
     "phone": "",
     "hours": "",
-    "image": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/mandalay-bay-food-court.html"
+    "link_detail": "https://mgmresorts.com/en/restaurants/mandalay-bay/mandalay-bay-food-court.html",
+    "image": ""
   }
 ]

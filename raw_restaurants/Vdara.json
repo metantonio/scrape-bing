@@ -1,18 +1,5 @@
 [
   {
-    "name": "Market Café Vdara",
-    "hotel": "Vdara",
-    "gastronomy": "American ·",
-    "price": "$",
-    "description": "This modern café features a menu of freshly prepared breakfast (available all day), lunch and dinner options. Drop by this cozy eatery for a quick bite, sweet treats, gourmet groceries and a variety of healthy snacks. Market Café Vdara also offers patrons the added convenience of a boutique grocery store. The grocery store features items that create a luxurious home away from home, including fresh items, meats, wines, and cheeses.",
-    "phone": "",
-    "hours": "",
-    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/market-cafe-vdara.html",
-    "image": "",
-    "INFORMATION": "702.590.2424",
-    "MON - SUN": "Open 24 Hours"
-  },
-  {
     "name": "VICE VERSA Patio &amp; Lounge",
     "hotel": "Vdara",
     "gastronomy": "American ·",
@@ -21,10 +8,18 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/vdara/vice-versa.html",
-    "image": "",
-    "INFORMATION": "702.590.2030",
-    "MON - SUN": "8:00 AM - 12:00 AM",
-    "DAILY": "12:00 PM - 10:00 PM"
+    "image": ""
+  },
+  {
+    "name": "Market Café Vdara",
+    "hotel": "Vdara",
+    "gastronomy": "American ·",
+    "price": "$",
+    "description": "This modern café features a menu of freshly prepared breakfast (available all day), lunch and dinner options. Drop by this cozy eatery for a quick bite, sweet treats, gourmet groceries and a variety of healthy snacks. Market Café Vdara also offers patrons the added convenience of a boutique grocery store. The grocery store features items that create a luxurious home away from home, including fresh items, meats, wines, and cheeses.",
+    "phone": "",
+    "hours": "",
+    "link_detail": "https://mgmresorts.com/en/restaurants/vdara/market-cafe-vdara.html",
+    "image": ""
   },
   {
     "name": "Starbucks",
@@ -35,7 +30,6 @@
     "phone": "",
     "hours": "",
     "link_detail": "https://mgmresorts.com/en/restaurants/vdara/starbucks.html",
-    "image": "",
-    "MON - SUN": "6:00 AM - 8:00 PM"
+    "image": ""
   }
 ]
