@@ -241,6 +241,165 @@ async function mgmgoin(page, config) {
 
 }
 
+async function tracks(page, config) {
+    const ruta = './raw_tracks';
+    const url = [
+        'https://www.twinspires.com/edge/racing/tracks/'
+    ]
+    for (let k = 0; k < url.length; k++) {
+        console.log(`Track Base ${k+1}/${url.length}`)
+        try {
+            //console.log("MGMgoIn function");
+            await page.goto(url[k]);
+            await page.waitForSelector("[class=\"content-columns columns-3\"]", { visible: true, timeout: 5000 });
+
+            const scrape = await page.evaluate(() => {
+                const restaurants = [];
+                const cards = Array.from(document.querySelectorAll("li"));
+
+                for (const card of cards) {
+                    const restaurant = {
+                        link_detail: '',
+                        Title:'',
+                        Address:'',
+                        img:''
+                    };
+
+                    const title = card.querySelector("a");
+                    if (title) {
+                        const detail_link = card.querySelector("a");
+                        if (detail_link) {
+                            try {
+                                restaurant["link_detail"] = detail_link.getAttribute("href");
+                            } catch (err) {
+                                console.error('Error in page.goto:', err);
+                            }
+                        }
+
+                        restaurants.push(restaurant);
+                    }
+                }
+
+                return restaurants;
+            });
+
+            let contador = 0 
+            console.log(scrape)
+            for (const restaurant of scrape) {
+                console.log(`subprocess ${contador+1}/${scrape.length}`)
+                if (restaurant["link_detail"] !== '') {
+                    //console.log("entrando en: ", restaurant["link_detail"]);
+                    let viewportHeight = 800;
+                    let viewportWidth = 800;
+                    var browser = await puppeteer.launch({ headless: false, executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe' });
+
+                    let newPage = await browser.newPage();
+                    await newPage.setDefaultNavigationTimeout(0);
+                    await newPage.setViewport({ width: viewportWidth, height: viewportHeight });
+                    try {
+                        await newPage.goto(restaurant["link_detail"]);
+
+                        await newPage.waitForSelector("[class=\"dynamic-content-container\"]", { visible: true, timeout: 5000 });
+
+                        restaurant["Title"] = await newPage.evaluate(() => {
+                            let description = document.querySelector("h1");
+                            console.log("Title: ", description.innerText);
+                            if (description) return `${description.innerText}`;
+                            return "";
+                        });
+
+                        if (restaurant["Title"] === undefined) {
+                            restaurant["Title"] = "";
+                        }
+                        
+                        restaurant["Address"] = await newPage.evaluate(() => {
+                            let description = document.querySelector(".content-columns.columns-2");
+                            if (description){ 
+                                console.log("encontró content-column columns-2")
+                                let nivel2 = description.querySelector(".content-text")
+                                if(nivel2){
+                                    let paragraph = nivel2.querySelector("p")
+                                    console.log("found paragraph")
+                                    console.log("paragraph: ",paragraph.textContent)
+                                    return `${paragraph.textContent}`
+                                }
+                                
+                            };
+                            
+                            return "";
+                        });
+
+                        if (restaurant["Address"] === undefined) {
+                            restaurant["Address"] = "";
+                        }
+
+                        restaurant["img"] = await newPage.evaluate(() => {
+                            let description = document.querySelector(".content-columns columns-2");
+                            if (description){ 
+                                let imgTag = description.querySelector("img")
+                                if(imgTag){
+                                    return `${imgTag.getAttribute("src")}`;
+                                }
+                            };
+                            
+                            return "";
+                        });
+
+                        if (restaurant["img"] === undefined) {
+                            restaurant["img"] = "";
+                        }
+
+                        /* const other_details = await newPage.evaluate(() => {
+                            let temp_data = {};
+                            let descriptions = document.querySelectorAll("[class=\"OverviewSidebarSection__item__label\"]");
+                            let detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
+
+                            if (descriptions.length > 0) {
+                                temp_data["time"] = {};
+                                for (let n = 0; n < descriptions.length; n++) {
+                                    if (descriptions[n].innerText === "INFORMATION" || descriptions[n].innerText === "RESERVATIONS") {
+                                        temp_data["phone"] = detailed[n].innerText;
+                                    } else if (descriptions[n].innerText.includes("MON") || descriptions[n].innerText.includes("TUE") || descriptions[n].innerText.includes("WED") || descriptions[n].innerText.includes("THU") || descriptions[n].innerText.includes("FRI") || descriptions[n].innerText.includes("SUN")) {
+                                        temp_data["time"][descriptions[n].innerText] = detailed[n].innerText;
+                                    } else {
+                                        temp_data[descriptions[n].innerText] = detailed[n].innerText;
+                                    }
+                                }
+
+                                return temp_data;
+                            }
+                            return {};
+                        }); */
+
+                        scrape[contador] = { ...restaurant, ...other_details };
+                        await newPage.close();
+                    } catch (err4) {
+                        await browser.close();
+                    }
+                    await browser.close();
+                }
+                contador = contador+1;
+            }
+
+            //console.log('scrape: ', scrape);
+            const dataJSON = JSON.stringify(scrape, null, 2);
+
+            fs.writeFile(`${ruta}/Tracks.json`, dataJSON, 'utf8', (err) => {
+                if (err) {
+                    console.error('Error al escribir el archivo JSON:', err);
+                } else {
+                    console.log('Archivo JSON creado exitosamente:', ruta);
+                }
+            });
+
+        } catch (err) {
+            console.error('Error in page.goto:', err);
+        }
+    }
+
+
+}
+
 async function loadCookies(page) {
     const cookiesString = fs.readFileSync('./cookies.json');
     const cookies = JSON.parse(cookiesString);
@@ -324,5 +483,6 @@ module.exports = {
     getBotAccount,
     sendTwitterPost,
     limitarLongitud,
-    mgmgoin
+    mgmgoin,
+    tracks
 }
