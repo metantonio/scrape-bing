@@ -334,12 +334,17 @@ async function tracks(page, config) {
                         }
 
                         restaurant["img"] = await newPage.evaluate(() => {
-                            let description = document.querySelector(".content-columns columns-2");
+                            let description = document.querySelector(".content-columns.columns-2");
                             if (description){ 
-                                let imgTag = description.querySelector("img")
-                                if(imgTag){
-                                    return `${imgTag.getAttribute("src")}`;
+                                console.log("encontró content-column columns-2")
+                                let nivel2 = description.querySelector(".content-text")
+                                if(nivel2){
+                                    let imgLink = nivel2.querySelector("img")
+                                    console.log("found img")
+                                    console.log("img: ", imgLink.getAttribute("src"))
+                                    return `${imgLink.getAttribute("src")}`
                                 }
+                                
                             };
                             
                             return "";
