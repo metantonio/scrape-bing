@@ -9,7 +9,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/pokeratlas-tour-houston-2024-texas-card-house-houston-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/series/images/PT-BJFA_alI9uRCpIEnh1w"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/series/images/PT-BJFA_alI9uRCpIEnh1w",
+    "event_name": "PokerAtlas Title Event - Final Table",
+    "event_number": "Event #10",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "40,000 chips 40 min levels $500K Gtd"
   },
   {
     "name": "LCS",
@@ -21,7 +26,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/lcs-the-lodge-poker-club-round-rock-2023",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/YxQecADvgLuwM55xfwDoHg"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/YxQecADvgLuwM55xfwDoHg",
+    "event_name": "LCS E13 DEALERS CHOICE",
+    "event_number": "Event #E13",
+    "buy_in": "",
+    "type": "ML 10-Game",
+    "structure": "30,000 chips 30 min levels $20K Gtd"
   },
   {
     "name": "WSOP-C Playground 2024",
@@ -33,7 +43,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wsop-c-playground-2024-playground-poker-kahnawake-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/QQwv0KS0-WjwkMA"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/QQwv0KS0-WjwkMA",
+    "event_name": "#15: $600 Mystery Bounty",
+    "event_number": "Event #15",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "25,000 chips 30 min levels $50K Gtd"
   },
   {
     "name": "DeepStack Extravaganza II 2024",
@@ -45,7 +60,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/deepstack-extravaganza-ii-2024-venetian-las-vegas-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/Gb9rAr8snywKSDOPaJrokw"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/Gb9rAr8snywKSDOPaJrokw",
+    "event_name": "No Limit Hold'em Bounty",
+    "event_number": "Event #85",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "25,000 chips 30 min levels $5K Gtd"
   },
   {
     "name": "Poker Showdown 2024",
@@ -57,7 +77,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/poker-showdown-2024-hard-rock-hollywood-ft-lauderdale-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/AyLd5iUIu3EqNak"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/AyLd5iUIu3EqNak",
+    "event_name": "Quad Stack Black Chip Bounty",
+    "event_number": "Event #75",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "40,000 chips 15 min levels"
   },
   {
     "name": "2024 Columbus Poker Open",
@@ -69,7 +94,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-columbus-poker-open-hollywood-columbus-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/vQWu2xrnJlcxb5M"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/vQWu2xrnJlcxb5M",
+    "event_name": "CPO Main Event NLH",
+    "event_number": "Event #10 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "Wynn Signature - April '24",
@@ -81,7 +111,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wynn-signature-april-24-wynn-las-vegas-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/y8YzkAed-seaDik"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/y8YzkAed-seaDik",
+    "event_name": "$10,000 GTD NLH Turbo",
+    "event_number": "Series Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "25,000 chips 20 min levels $10K Gtd"
   },
   {
     "name": "Ameristar Poker Open 2024",
@@ -93,7 +128,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/ameristar-poker-open-2024-ameristar-st-charles-st-charles-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/Xv0hZsGw72H69wU"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/Xv0hZsGw72H69wU",
+    "event_name": "Progressive Bounty NLH",
+    "event_number": "Event #17",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "25,000 chips 30 min levels"
   },
   {
     "name": "2023-24 WSOPC International-Cannes",
@@ -105,7 +145,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2023-24-wsopc-international-cannes-casino-barriere-cannes-le-croisette-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/EZ3qXUkWkggs9C4"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/EZ3qXUkWkggs9C4",
+    "event_name": "NLH (Online Only Event)",
+    "event_number": "Event #10 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": ""
   },
   {
     "name": "Hard Rock $200K Guaranteed Multi-Flight - April '24",
@@ -117,7 +162,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/hard-rock-200k-guaranteed-multi-flight-april-24-hard-rock-cincinnati-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/JXlLdDEb15E-rQ9XOXoZog"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/JXlLdDEb15E-rQ9XOXoZog",
+    "event_name": "$200K Multi-Flight",
+    "event_number": "Restart ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "April 2024 Little Slick",
@@ -129,7 +179,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/april-2024-little-slick-hard-rock-tampa-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/GHIcxarF9zn5o5g"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/GHIcxarF9zn5o5g",
+    "event_name": "No Limit Hold'em",
+    "event_number": "Restart ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "2024 Battle of the Bay",
@@ -141,7 +196,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-battle-of-the-bay-lucky-chances-colma-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/LFve5H0iZ20m7kQ"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/LFve5H0iZ20m7kQ",
+    "event_name": "Main Event",
+    "event_number": "Restart ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "WPT Choctaw Championship",
@@ -153,7 +213,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wpt-choctaw-championship-choctaw-durant-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/g9g7hUwpPkbKJzo"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/g9g7hUwpPkbKJzo",
+    "event_name": "WPT $2 Million Championship",
+    "event_number": "Event #63 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "$200K Road to Riches - April '24",
@@ -165,7 +230,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/200k-road-to-riches-april-24-live-casino-philadelphia-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9NrcfvA_P3LTJH6wX2yYiQ"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9NrcfvA_P3LTJH6wX2yYiQ",
+    "event_name": "$200K Road to Riches",
+    "event_number": "Restart ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "So Cal Spring Special 2024",
@@ -177,7 +247,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/so-cal-spring-special-2024-the-gardens-hawaiian-gardens-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/-nmlgf15U4VU0Bw"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/-nmlgf15U4VU0Bw",
+    "event_name": "Encore Main Event NLH",
+    "event_number": "Event #8 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "Moneymaker Poker Tour Daytona Beach",
@@ -189,7 +264,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/moneymaker-poker-tour-daytona-beach-daytona-beach-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/VLD_AbAz3kYByLPGv24saw"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/VLD_AbAz3kYByLPGv24saw",
+    "event_name": "No Limit Hold'em Main Event",
+    "event_number": "Event #10 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "$200K Guaranteed Multi-Flight - April '24",
@@ -201,7 +281,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/200k-guaranteed-multi-flight-april-24-mgm-national-oxon-hill-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/G4HkO5JCZZ65uAk"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/G4HkO5JCZZ65uAk",
+    "event_name": "$200K Multi-Flight",
+    "event_number": "Restart ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "WPT Prime Gold Coast Championship",
@@ -213,7 +298,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wpt-prime-gold-coast-championship-star-casino-gold-coast-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/BF3cf_x_rQSJy_s"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/BF3cf_x_rQSJy_s",
+    "event_name": "WPT Prime Main Event",
+    "event_number": "Restart ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "MSPT '24 Showdown Series - Minneapolis",
@@ -225,7 +315,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/mspt-24-showdown-series-minneapolis-running-aces-forest-lake-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/XhrsJbdPYrtYGsnBgrb0dQ"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/XhrsJbdPYrtYGsnBgrb0dQ",
+    "event_name": "Last Dance NLH",
+    "event_number": "Event #16",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "12,000 chips 20 min levels"
   },
   {
     "name": "2023-24 WSOP Circuit Event (Tunica-Spring)",
@@ -237,7 +332,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2023-24-wsop-circuit-event-tunica-spring-horseshoe-tunica-robinsonville-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/pzoiUrOeiqdM6wg"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/pzoiUrOeiqdM6wg",
+    "event_name": "Double Stack Closer",
+    "event_number": "Event #17",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "$25K Gtd"
   },
   {
     "name": "Bounty Series - April '24",
@@ -249,7 +349,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/bounty-series-april-24-rivers-philadelphia-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9XNMb5PFutTpfcU"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9XNMb5PFutTpfcU",
+    "event_name": "Mystery Bounty NLH",
+    "event_number": "Event #3",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "30,000 chips 20 min levels $15K Gtd"
   },
   {
     "name": "2024 Getaway Classic",
@@ -261,7 +366,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-getaway-classic-talking-stick-resort-scottsdale-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/H2ge2sgcpotc-nw"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/H2ge2sgcpotc-nw",
+    "event_name": "No Limit Hold'em Bounty",
+    "event_number": "Series Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "20,000 chips 30 min levels"
   },
   {
     "name": "2024 Destination RunGood Iowa",
@@ -273,7 +383,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-destination-rungood-iowa-horseshoe-casino-council-bluffs-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/w12SpmcHMXoFbGk"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/w12SpmcHMXoFbGk",
+    "event_name": "Last Chance NLH Ring Event",
+    "event_number": "Series Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "20,000 chips 30 min levels"
   },
   {
     "name": "2024 Destination RunGood Reno",
@@ -285,7 +400,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-destination-rungood-reno-atlantis-casino-reno-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/xFsmYUSMbIfNNsE"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/xFsmYUSMbIfNNsE",
+    "event_name": "NLH Tag Team",
+    "event_number": "Series Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "20,000 chips 20 min levels"
   },
   {
     "name": "2024 April Big Stack Special",
@@ -297,7 +417,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-april-big-stack-special-hard-rock-hollywood-ft-lauderdale-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/AyLd5iUIu3EqNak"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/AyLd5iUIu3EqNak",
+    "event_name": "No Limit Hold'em Big Stack",
+    "event_number": "Restart ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "$200K Live! Megastacks - April '24",
@@ -309,7 +434,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/200k-live-megastacks-april-24-live-casino-philadelphia-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9NrcfvA_P3LTJH6wX2yYiQ"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9NrcfvA_P3LTJH6wX2yYiQ",
+    "event_name": "$200K Live! Megastacks",
+    "event_number": "Series Event ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "40,000 chips 30/40 min levels $200K Gtd"
   },
   {
     "name": "2024 PGT Texas Poker Open",
@@ -321,7 +451,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-pgt-texas-poker-open-champions-club-houston-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/yIe-kP8lglKhNXNLXpUXng"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/yIe-kP8lglKhNXNLXpUXng",
+    "event_name": "150K GTD Multi-Flight Day 2",
+    "event_number": "Side Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "30,000 chips 30 min levels $150K Gtd"
   },
   {
     "name": "$100K GTD GutShot Poker Open",
@@ -333,7 +468,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/100k-gtd-gutshot-poker-open-ocalabets-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/uJNSZrL76q8Pilcz8dI_Hg"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/uJNSZrL76q8Pilcz8dI_Hg",
+    "event_name": "100K GutShot Poker Open DAY 2",
+    "event_number": "Event #1 DAY 2",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "Emerald Valley Poker Classic 2024",
@@ -345,7 +485,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/emerald-valley-poker-classic-2024-high-mountain-eugene-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/sAOizvVqOYfUWWo"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/sAOizvVqOYfUWWo",
+    "event_name": "The Main Event",
+    "event_number": "Restart ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "April 10K GTD Ring Event",
@@ -357,7 +502,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/april-10k-gtd-ring-event-tri-state-social-henderson-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/3KlMcDNRNxbdW7G-bf6jEw"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/3KlMcDNRNxbdW7G-bf6jEw",
+    "event_name": "April 10K GTD Ring Event Day 2",
+    "event_number": "Event #4",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "30,000 chips 30 min levels $10K Gtd"
   },
   {
     "name": "MSPT Spring Showdown Series 2024",
@@ -369,7 +519,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/mspt-spring-showdown-series-2024-sycuan-casino-el-cajon-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/_r4BaG0GO_-IqiQ"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/_r4BaG0GO_-IqiQ",
+    "event_name": "Last Chance NLH",
+    "event_number": "Event #18",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "12,000 chips 20 min levels"
   },
   {
     "name": "Queen City Bounty Series '24",
@@ -381,7 +536,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/queen-city-bounty-series-24-hard-rock-cincinnati-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/JXlLdDEb15E-rQ9XOXoZog"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/JXlLdDEb15E-rQ9XOXoZog",
+    "event_name": "All-In Or Fold Progressive Black Chip Bounty",
+    "event_number": "Event #12",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "30,000 chips 20 min levels $10K Gtd"
   },
   {
     "name": "The Live! Cup 3 (Pittsburgh Day 1s)",
@@ -393,7 +553,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/the-live-cup-3-pittsburgh-day-1s-live-casino-pittsburgh-greensburg-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/XQn2YIAFBw4cpE1KOoPi8A"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/XQn2YIAFBw4cpE1KOoPi8A",
+    "event_name": "Live! Cup 3 (Pittsburgh Day 1s)",
+    "event_number": "Series Event ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "30,000 chips 25/40 min levels $1MM Gtd"
   },
   {
     "name": "Borgata Spring Poker Open '24",
@@ -405,7 +570,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/borgata-spring-poker-open-24-borgata-atlantic-city-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/KGQBrSf5dluDciw"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/KGQBrSf5dluDciw",
+    "event_name": "Borgata Spring Poker Open Main Event",
+    "event_number": "Event #19 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "Seminole Spring Series",
@@ -417,7 +587,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/seminole-spring-series-seminole-coconut-crk-coconut-creek-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/OyHVGUBl4Ab-DxM"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/OyHVGUBl4Ab-DxM",
+    "event_name": "No Limit Hold'em",
+    "event_number": "Series Event ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "20,000 chips 20 min levels $100K Gtd"
   },
   {
     "name": "2024 Destination RunGood St. Louis",
@@ -429,7 +604,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-destination-rungood-st-louis-hollywood-st-louis-maryland-heights-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/wftAhNEr-2rdKlg"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/wftAhNEr-2rdKlg",
+    "event_name": "Closer NLH Ring Event",
+    "event_number": "Series Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "20,000 chips 20 min levels"
   },
   {
     "name": "WSOP Circuit Calgary 2024",
@@ -441,19 +621,29 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wsop-circuit-calgary-2024-deerfoot-casino-calgary-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/_1LJ_pDcGH9AwdYosuLEow"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/_1LJ_pDcGH9AwdYosuLEow",
+    "event_name": "Big 30 Stack NLH",
+    "event_number": "Event #16",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "30,000 chips 20 min levels"
   },
   {
     "name": "2024 Colorado Spring Poker Championship",
     "place": "Bally's Black Hawk Casino",
     "date": "May 1, 2024 - May 25, 2024",
-    "count": "58 Events",
+    "count": "62 Events",
     "location": "Black Hawk, CO",
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-colorado-spring-poker-championship-ballys-black-hawk-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/sk2gSsQGfZHoT79yhVKM-w"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/sk2gSsQGfZHoT79yhVKM-w",
+    "event_name": "High Roller",
+    "event_number": "Series Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "40,000 chips 40 min levels"
   },
   {
     "name": "2023-24 WSOP Circuit Event (North Carolina-Spring)",
@@ -465,7 +655,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2023-24-wsop-circuit-event-north-carolina-spring-harrahs-cherokee-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/NDoMwjRfYDVty1o"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/NDoMwjRfYDVty1o",
+    "event_name": "Last Chance NLH",
+    "event_number": "Side Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "50,000 chips 20 min levels"
   },
   {
     "name": "2024 Destination RunGood Bay Area",
@@ -477,7 +672,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-destination-rungood-bay-area-graton-casino-rohnert-park-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/3mV-CHVTajuMCQE"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/3mV-CHVTajuMCQE",
+    "event_name": "Super Satellite into WSOP Main Event",
+    "event_number": "Satellite",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "10,000 chips 20 min levels"
   },
   {
     "name": "Moneymaker Poker Tour Palm Beach May 2024",
@@ -489,7 +689,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/moneymaker-poker-tour-palm-beach-may-2024-palm-beach-kc-west-palm-beach-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/hSdRTNoox7nOhA26-P7smA"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/hSdRTNoox7nOhA26-P7smA",
+    "event_name": "Deep Stack",
+    "event_number": "Event #26 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "MSPT '24 Cleveland-Spring",
@@ -501,7 +706,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/mspt-24-cleveland-spring-jack-cleveland-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/kTBWN_9a578LwqA"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/kTBWN_9a578LwqA",
+    "event_name": "PLO 8-Max",
+    "event_number": "Event #4",
+    "buy_in": "",
+    "type": "PL Omaha",
+    "structure": "30,000 chips 30 min levels $50K Gtd"
   },
   {
     "name": "2023-24 WSOPC International-Netherlands",
@@ -513,7 +723,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2023-24-wsopc-international-netherlands-holland-casino-venlo-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/S8hWiapPCzKGOU0"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/S8hWiapPCzKGOU0",
+    "event_name": "WSOPC Main Event",
+    "event_number": "Event #3 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "Portland Meadows Spring Classic",
@@ -525,7 +740,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/portland-meadows-spring-classic-portland-meadows-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/2nl7aJUG-SF6DUQ"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/2nl7aJUG-SF6DUQ",
+    "event_name": "NLH Turbo The Closer",
+    "event_number": "Series Event",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "20,000 chips 15 min levels"
   },
   {
     "name": "2024 Spring Championship Series",
@@ -537,7 +757,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-spring-championship-series-canterbury-park-shakopee-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/6N7rHqdGXhtTjH0"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/6N7rHqdGXhtTjH0",
+    "event_name": "Double Stack NLH",
+    "event_number": "Event #8",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "20,000 chips 20 min levels"
   },
   {
     "name": "2023-24 WSOP Circuit Event (Louisville)",
@@ -549,7 +774,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2023-24-wsop-circuit-event-louisville-caesars-s-indiana-elizabeth-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/k0zsSRpnYNN0LFk"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/k0zsSRpnYNN0LFk",
+    "event_name": "WSOPC Main Event NLH",
+    "event_number": "Event #11 ",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "Re-start"
   },
   {
     "name": "WPT Montreal May 2024",
@@ -561,7 +791,12 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wpt-montreal-may-2024-playground-poker-kahnawake-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/QQwv0KS0-WjwkMA"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/QQwv0KS0-WjwkMA",
+    "event_name": "#14 $400 Mystery Bounty",
+    "event_number": "Event #14",
+    "buy_in": "",
+    "type": "NL Holdem",
+    "structure": "20,000 chips 30 min levels $40K Gtd"
   },
   {
     "name": "2023-24 WSOP Circuit Event (Los Angeles)",

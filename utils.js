@@ -99,7 +99,7 @@ async function mgmgoin(page, config) {
         'https://www.mgmresorts.com/en/restaurants.html?filter=property,Vdara_Hotel_Spa_at_ARIA'
     ]
     for (let k = 0; k < url.length; k++) {
-        console.log(`Casino Hotel nummber ${k+1}/${url.length}`)
+        console.log(`Casino Hotel nummber ${k + 1}/${url.length}`)
         try {
             //console.log("MGMgoIn function");
             await page.goto(url[k]);
@@ -159,9 +159,9 @@ async function mgmgoin(page, config) {
                 return restaurants;
             });
 
-            let contador = 0 
+            let contador = 0
             for (const restaurant of scrape) {
-                console.log(`subprocess ${contador+1}/${scrape.length}`)
+                console.log(`subprocess ${contador + 1}/${scrape.length}`)
                 if (restaurant["link_detail"] !== '') {
                     console.log("entrando en: ", restaurant["link_detail"]);
                     let viewportHeight = 800;
@@ -219,7 +219,7 @@ async function mgmgoin(page, config) {
                     }
                     await browser.close();
                 }
-                contador = contador+1;
+                contador = contador + 1;
             }
 
             //console.log('scrape: ', scrape);
@@ -247,7 +247,7 @@ async function tracks(page, config) {
         'https://www.twinspires.com/edge/racing/tracks/'
     ]
     for (let k = 0; k < url.length; k++) {
-        console.log(`Track Base ${k+1}/${url.length}`)
+        console.log(`Track Base ${k + 1}/${url.length}`)
         try {
             //console.log("MGMgoIn function");
             await page.goto(url[k]);
@@ -260,9 +260,9 @@ async function tracks(page, config) {
                 for (const card of cards) {
                     const restaurant = {
                         link_detail: '',
-                        Title:'',
-                        Address:'',
-                        img:''
+                        Title: '',
+                        Address: '',
+                        img: ''
                     };
 
                     const title = card.querySelector("a");
@@ -283,10 +283,10 @@ async function tracks(page, config) {
                 return restaurants;
             });
 
-            let contador = 0 
+            let contador = 0
             console.log(scrape)
             for (const restaurant of scrape) {
-                console.log(`subprocess ${contador+1}/${scrape.length}`)
+                console.log(`subprocess ${contador + 1}/${scrape.length}`)
                 if (restaurant["link_detail"] !== '') {
                     //console.log("entrando en: ", restaurant["link_detail"]);
                     let viewportHeight = 800;
@@ -311,21 +311,21 @@ async function tracks(page, config) {
                         if (restaurant["Title"] === undefined) {
                             restaurant["Title"] = "";
                         }
-                        
+
                         restaurant["Address"] = await newPage.evaluate(() => {
                             let description = document.querySelector(".content-columns.columns-2");
-                            if (description){ 
+                            if (description) {
                                 console.log("encontró content-column columns-2")
                                 let nivel2 = description.querySelector(".content-text")
-                                if(nivel2){
+                                if (nivel2) {
                                     let paragraph = nivel2.querySelector("p")
                                     console.log("found paragraph")
-                                    console.log("paragraph: ",paragraph.textContent)
+                                    console.log("paragraph: ", paragraph.textContent)
                                     return `${paragraph.textContent}`
                                 }
-                                
+
                             };
-                            
+
                             return "";
                         });
 
@@ -335,18 +335,18 @@ async function tracks(page, config) {
 
                         restaurant["img"] = await newPage.evaluate(() => {
                             let description = document.querySelector(".content-columns.columns-2");
-                            if (description){ 
+                            if (description) {
                                 console.log("encontró content-column columns-2")
                                 let nivel2 = description.querySelector(".content-text")
-                                if(nivel2){
+                                if (nivel2) {
                                     let imgLink = nivel2.querySelector("img")
                                     console.log("found img")
                                     console.log("img: ", imgLink.getAttribute("src"))
                                     return `${imgLink.getAttribute("src")}`
                                 }
-                                
+
                             };
-                            
+
                             return "";
                         });
 
@@ -383,7 +383,7 @@ async function tracks(page, config) {
                     }
                     await browser.close();
                 }
-                contador = contador+1;
+                contador = contador + 1;
             }
 
             //console.log('scrape: ', scrape);
@@ -410,10 +410,10 @@ async function pokeratlasInfo(page, config) {
     const url = [
         'https://www.pokeratlas.com/poker-tournament-series',
         'https://www.pokeratlas.com/poker-tournament-series?page=2'
-        
+
     ]
     for (let k = 0; k < url.length; k++) {
-        console.log(`Poker event ${k+1}/${url.length}`)
+        console.log(`Poker event ${k + 1}/${url.length}`)
         try {
             //console.log("MGMgoIn function");
             await page.goto(url[k]);
@@ -436,7 +436,7 @@ async function pokeratlasInfo(page, config) {
                         phone: '',
                         hours: '',
                         link_detail: '',
-                        events:[]
+                        events: []
                     };
 
                     const title = card.querySelector("[class=\"series-meta\"]");
@@ -481,65 +481,161 @@ async function pokeratlasInfo(page, config) {
                 return restaurants;
             });
 
-            let contador = 0 
+            let contador = 0
             for (const restaurant of scrape) {
-                console.log(`subprocess ${contador+1}/${scrape.length}`)
+                console.log(`subprocess ${contador + 1}/${scrape.length}`)
                 if (restaurant["link_detail"] !== '') {
                     console.log("entrando en: ", restaurant["link_detail"]);
                     let viewportHeight = 800;
                     let viewportWidth = 800;
-                    var browser = await puppeteer.launch({ headless: false, executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe' });
+                    let browser2 = await puppeteer.launch({ headless: false, executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe' });
 
-                    let newPage = await browser.newPage();
+                    let newPage = await browser2.newPage();
                     await newPage.setDefaultNavigationTimeout(0);
                     await newPage.setViewport({ width: viewportWidth, height: viewportHeight });
                     try {
-                        await newPage.goto(restaurant["link_detail"]);
+                        await newPage.goto("https://www.pokeratlas.com" + restaurant["link_detail"]);
+                        let dmButton2 = await page.$("[class=\"modal-close\"]")
+                        await dmButton2.click();
 
-                        await newPage.waitForSelector(".panel-stripe", { visible: true, timeout: 5000 });
+                        await newPage.waitForSelector(".tournaments-list", { visible: true, timeout: 5000 });
+                        /* let tempData = {
+                            event_name: "",
+                            event_number: "",
+                            buy_in: "",
+                            type: "",
+                            structure: ""
+                        }; */
+                        /* tempData["event_name"] = await newPage.evaluate(() => {
+                            let description = document.querySelector("[class=\"detail name\"]");
+                            //console.log("event_name: ", description.innerText);
+                            if (description) return `${description.innerText}`;
+                            return "";
+                        });
 
-                        const other_details = await newPage.evaluate(() => {
-                            let tempData = {};
-                            let descriptions = document.querySelectorAll(".panel-stripe");
+                        if (tempData["event_name"] === undefined) {
+                            tempData["event_name"] = "";
+                        }
+
+                        tempData["event_number"] = await newPage.evaluate(() => {
+                            let description = document.querySelector("[class=\"detail event-number\"]");
+                            //console.log("event_number: ", description.innerText);
+                            if (description) return `${description.innerText}`;
+                            return "";
+                        });
+
+                        if (tempData["event_number"] === undefined) {
+                            tempData["event_number"] = "";
+                        }
+
+                        tempData["buy_in"] = await newPage.evaluate(() => {
+                            let description = document.querySelector("[class=\"buy_in\"]");
+                            //console.log("buy_in: ", description.innerText);
+                            if (description) return `${description.innerText}`;
+                            return "";
+                        });
+
+                        if (tempData["buy_in"] === undefined) {
+                            tempData["buy_in"] = "";
+                        }
+
+                        tempData["type"] = await newPage.evaluate(() => {
+                            let description = document.querySelector("[class=\"type\"]");
+                            //console.log("type: ", description.innerText);
+                            if (description) return `${description.innerText}`;
+                            return "";
+                        });
+
+                        if (tempData["type"] === undefined) {
+                            tempData["type"] = "";
+                        }
+
+                        tempData["structure"] = await newPage.evaluate(() => {
+                            let description = document.querySelector("[class=\"structure-info\"]");
+                            //console.log("structure ", description.innerText);
+                            if (description) return `${description.innerText}`;
+                            return "";
+                        });
+
+                        if (tempData["structure"] === undefined) {
+                            tempData["structure"] = "";
+                        }
+ */
+                        //restaurant["events"].push(tempData)
+
+                        const other_details = await newPage.evaluate(async () => {
+                            let tempData = {
+                                event_name: "",
+                                event_number: "",
+                                buy_in: "",
+                                type: "",
+                                structure: ""
+                            };
+                            let descriptions = Array.from(document.querySelectorAll(".panel-stripe"));
+                            console.log("array: ", descriptions)
                             //let detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
 
-                            if (descriptions.length > 0) {                                
+                            /* tempData["event_name"] = await newPage.evaluate(() => {
+                                let description = document.querySelector("[class=\"detail name\"]");
+                                console.log("event_name: ", description.innerText);
+                                if (description) return `${description.innerText}`;
+                                return "";
+                            });
+
+                            if (tempData["event_name"] === undefined) {
+                                tempData["event_name"] = "";
+                            }
+
+                            tempData["event_number"] = await newPage.evaluate(() => {
+                                let description = document.querySelector("[class=\"detail event-number\"]");
+                                console.log("event_number: ", description.innerText);
+                                if (description) return `${description.innerText}`;
+                                return "";
+                            });
+
+                            if (tempData["event_number"] === undefined) {
+                                tempData["event_number"] = "";
+                            }
+ */
+                            if (descriptions.length > 0) {
                                 for (let n = 0; n < descriptions.length; n++) {
                                     tempData = {
-                                        event_name:"",
-                                        event_number:"",
-                                        buy_in:"",
-                                        type:"",
-                                        structure:""
+                                        event_name: "",
+                                        event_number: "",
+                                        buy_in: "",
+                                        type: "",
+                                        structure: ""
                                     }
-                                    tempData["event_name"] = descriptions[n].querySelector("[class=\"detail name\"]").innerHTML;
-                                    tempData["event_number"] = descriptions[n].querySelector("[class=\"detail event-number\"]").innerHTML;
-                                    tempData["buy_in"] = descriptions[n].querySelector("[class=\"buy_in\"]").innerHTML;
-                                    tempData["type"] = descriptions[n].querySelector("[class=\"type\"]").innerHTML;
-                                    tempData["structure"] = descriptions[n].querySelector("[class=\"structure-info\"]").innerText;
+                                    tempData["event_name"] = descriptions[n].querySelector("[class=\"detail name\"]") ? descriptions[n].querySelector("[class=\"detail name\"]").innerText : "";
+                                    tempData["event_number"] = descriptions[n].querySelector("[class=\"detail event-number\"]") ? descriptions[n].querySelector("[class=\"detail event-number\"]").innerText : "";
+                                    tempData["buy_in"] = descriptions[n].querySelector("[class=\"buy_in\"]") ? descriptions[n].querySelector("[class=\"buy_in\"]").innerText : "";
+                                    tempData["type"] = descriptions[n].querySelector("[class=\"type\"]") ? descriptions[n].querySelector("[class=\"type\"]").innerText : "";
+                                    tempData["structure"] = descriptions[n].querySelector("[class=\"structure-info\"]") ? descriptions[n].querySelector("[class=\"structure-info\"]").innerText : "";
+                                    tempData["date"] = descriptions[n].querySelector("[class=\"date\"]") ? descriptions[n].querySelector("[class=\"month\"]").innerText + "/" + descriptions[n].querySelector("[class=\"day\"]").innerText+" - "+  descriptions[n].querySelector("[class=\"hour\"]").innerText : "";
 
                                     restaurant["events"].push(tempData)
                                 }
-                                print(tempData)
+                                console.log(tempData)
                                 return tempData;
                             }
-                            return;
+                            //return;
                         });
 
-                        scrape[contador] = { ...restaurant, ...other_details };
+                        scrape[contador] = { ...restaurant };
                         await newPage.close();
                     } catch (err4) {
-                        await browser.close();
+                        console.log("error: ", err4)
+                        await browser2.close();
                     }
-                    await browser.close();
+                    await browser2.close();
                 }
-                contador = contador+1;
+                contador = contador + 1;
             }
 
             //console.log('scrape: ', scrape);
             let dataJSON = JSON.stringify(scrape, null, 2);
-            console.log("file name: ",`page${k+1}.json`)
-            fs.writeFile(`${ruta}/page${k+1}.json`, dataJSON, 'utf8', (err) => {
+            console.log("file name: ", `page${k + 1}.json`)
+            fs.writeFile(`${ruta}/page${k + 1}.json`, dataJSON, 'utf8', (err) => {
                 if (err) {
                     console.error('Error al escribir el archivo JSON:', err);
                 } else {
