@@ -409,6 +409,7 @@ async function pokeratlasInfo(page, config) {
     const ruta = './raw_poker_events';
     const url = [
         'https://www.pokeratlas.com/poker-tournament-series',
+        'https://www.pokeratlas.com/poker-tournament-series?page=2'
         
     ]
     for (let k = 0; k < url.length; k++) {
@@ -495,32 +496,32 @@ async function pokeratlasInfo(page, config) {
                     try {
                         await newPage.goto(restaurant["link_detail"]);
 
-                        await newPage.waitForSelector("[class=\"panel_stripe\"]", { visible: true, timeout: 5000 });
+                        await newPage.waitForSelector(".panel_stripe", { visible: true, timeout: 5000 });
 
                         const other_details = await newPage.evaluate(() => {
-                            let temp_data = {};
-                            let descriptions = document.querySelectorAll("[class=\"panel_stripe\"]");
+                            let tempData = {};
+                            let descriptions = document.querySelectorAll(".panel_stripe");
                             //let detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
 
                             if (descriptions.length > 0) {                                
                                 for (let n = 0; n < descriptions.length; n++) {
-                                    let tempData = {
+                                    tempData = {
                                         event_name:"",
                                         event_number:"",
                                         buy_in:"",
                                         type:"",
                                         structure:""
                                     }
-                                    tempData["event_name"] = card.querySelector("[class=\"detail name\"]").innerHTML;
-                                    tempData["event_number"] = card.querySelector("[class=\"detail event-number\"]").innerHTML;
-                                    tempData["buy_in"] = card.querySelector("[class=\"buy_in\"]").innerHTML;
-                                    tempData["type"] = card.querySelector("[class=\"type\"]").innerHTML;
-                                    tempData["structure"] = card.querySelector("[class=\"structure-info\"]").innerText;
+                                    tempData["event_name"] = descriptions[n].querySelector("[class=\"detail name\"]").innerHTML;
+                                    tempData["event_number"] = descriptions[n].querySelector("[class=\"detail event-number\"]").innerHTML;
+                                    tempData["buy_in"] = descriptions[n].querySelector("[class=\"buy_in\"]").innerHTML;
+                                    tempData["type"] = descriptions[n].querySelector("[class=\"type\"]").innerHTML;
+                                    tempData["structure"] = descriptions[n].querySelector("[class=\"structure-info\"]").innerText;
 
                                     restaurant["events"].push(tempData)
                                 }
                                 print(tempData)
-                                return temp_data;
+                                return tempData;
                             }
                             return;
                         });
