@@ -496,11 +496,11 @@ async function pokeratlasInfo(page, config) {
                     try {
                         await newPage.goto(restaurant["link_detail"]);
 
-                        await newPage.waitForSelector(".panel_stripe", { visible: true, timeout: 5000 });
+                        await newPage.waitForSelector(".panel-stripe", { visible: true, timeout: 5000 });
 
                         const other_details = await newPage.evaluate(() => {
                             let tempData = {};
-                            let descriptions = document.querySelectorAll(".panel_stripe");
+                            let descriptions = document.querySelectorAll(".panel-stripe");
                             //let detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
 
                             if (descriptions.length > 0) {                                
@@ -538,8 +538,8 @@ async function pokeratlasInfo(page, config) {
 
             //console.log('scrape: ', scrape);
             let dataJSON = JSON.stringify(scrape, null, 2);
-            console.log("file name: ",`${scrape[0]["name"].trim()}.json`)
-            fs.writeFile(`${ruta}/${scrape[0]["name"].trim()}.json`, dataJSON, 'utf8', (err) => {
+            console.log("file name: ",`page${k+1}.json`)
+            fs.writeFile(`${ruta}/page${k+1}.json`, dataJSON, 'utf8', (err) => {
                 if (err) {
                     console.error('Error al escribir el archivo JSON:', err);
                 } else {
