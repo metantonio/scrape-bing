@@ -485,7 +485,7 @@ async function pokeratlasInfo(page, config) {
             for (const restaurant of scrape) {
                 console.log(`subprocess ${contador + 1}/${scrape.length}`)
                 if (restaurant["link_detail"] !== '') {
-                    console.log("entrando en: ", restaurant["link_detail"]);
+                    
                     let viewportHeight = 800;
                     let viewportWidth = 800;
                     let browser2 = await puppeteer.launch({ headless: false, executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe' });
@@ -499,70 +499,7 @@ async function pokeratlasInfo(page, config) {
                         await dmButton2.click();
 
                         await newPage.waitForSelector(".tournaments-list", { visible: true, timeout: 5000 });
-                        /* let tempData = {
-                            event_name: "",
-                            event_number: "",
-                            buy_in: "",
-                            type: "",
-                            structure: ""
-                        }; */
-                        /* tempData["event_name"] = await newPage.evaluate(() => {
-                            let description = document.querySelector("[class=\"detail name\"]");
-                            //console.log("event_name: ", description.innerText);
-                            if (description) return `${description.innerText}`;
-                            return "";
-                        });
-
-                        if (tempData["event_name"] === undefined) {
-                            tempData["event_name"] = "";
-                        }
-
-                        tempData["event_number"] = await newPage.evaluate(() => {
-                            let description = document.querySelector("[class=\"detail event-number\"]");
-                            //console.log("event_number: ", description.innerText);
-                            if (description) return `${description.innerText}`;
-                            return "";
-                        });
-
-                        if (tempData["event_number"] === undefined) {
-                            tempData["event_number"] = "";
-                        }
-
-                        tempData["buy_in"] = await newPage.evaluate(() => {
-                            let description = document.querySelector("[class=\"buy_in\"]");
-                            //console.log("buy_in: ", description.innerText);
-                            if (description) return `${description.innerText}`;
-                            return "";
-                        });
-
-                        if (tempData["buy_in"] === undefined) {
-                            tempData["buy_in"] = "";
-                        }
-
-                        tempData["type"] = await newPage.evaluate(() => {
-                            let description = document.querySelector("[class=\"type\"]");
-                            //console.log("type: ", description.innerText);
-                            if (description) return `${description.innerText}`;
-                            return "";
-                        });
-
-                        if (tempData["type"] === undefined) {
-                            tempData["type"] = "";
-                        }
-
-                        tempData["structure"] = await newPage.evaluate(() => {
-                            let description = document.querySelector("[class=\"structure-info\"]");
-                            //console.log("structure ", description.innerText);
-                            if (description) return `${description.innerText}`;
-                            return "";
-                        });
-
-                        if (tempData["structure"] === undefined) {
-                            tempData["structure"] = "";
-                        }
- */
-                        //restaurant["events"].push(tempData)
-
+                        
                         const other_details = await newPage.evaluate(async () => {
                             let listEvents = []
                             let tempData = {
@@ -574,30 +511,7 @@ async function pokeratlasInfo(page, config) {
                             };
                             let descriptions = Array.from(document.querySelectorAll(".panel-stripe"));
                             console.log("array: ", descriptions)
-                            //let detailed = document.querySelectorAll("[class=\"OverviewSidebarSection__item__content\"]");
-
-                            /* tempData["event_name"] = await newPage.evaluate(() => {
-                                let description = document.querySelector("[class=\"detail name\"]");
-                                console.log("event_name: ", description.innerText);
-                                if (description) return `${description.innerText}`;
-                                return "";
-                            });
-
-                            if (tempData["event_name"] === undefined) {
-                                tempData["event_name"] = "";
-                            }
-
-                            tempData["event_number"] = await newPage.evaluate(() => {
-                                let description = document.querySelector("[class=\"detail event-number\"]");
-                                console.log("event_number: ", description.innerText);
-                                if (description) return `${description.innerText}`;
-                                return "";
-                            });
-
-                            if (tempData["event_number"] === undefined) {
-                                tempData["event_number"] = "";
-                            }
- */
+                            
                             if (descriptions.length > 0) {
                                 for (let n = 0; n < descriptions.length; n++) {
                                     tempData = {
@@ -616,8 +530,7 @@ async function pokeratlasInfo(page, config) {
 
                                     listEvents.push(tempData)
                                 }
-                                console.log(tempData)
-                                //return tempData;
+                                console.log(tempData)                                
                             }
                             return listEvents;
                         });
@@ -625,7 +538,7 @@ async function pokeratlasInfo(page, config) {
                         scrape[contador] = { ...restaurant, events: other_details };
                         await newPage.close();
                     } catch (err4) {
-                        console.log("error: ", err4)
+                        console.log("error on subprocess: ", contador + 1)
                         await browser2.close();
                     }
                     await browser2.close();
@@ -633,7 +546,6 @@ async function pokeratlasInfo(page, config) {
                 contador = contador + 1;
             }
 
-            //console.log('scrape: ', scrape);
             let dataJSON = JSON.stringify(scrape, null, 2);
             console.log("file name: ", `page${k + 1}.json`)
             fs.writeFile(`${ruta}/page${k + 1}.json`, dataJSON, 'utf8', (err) => {
@@ -643,7 +555,6 @@ async function pokeratlasInfo(page, config) {
                     console.log('Archivo JSON creado exitosamente:', ruta);
                 }
             });
-
         } catch (err) {
             console.error('Error in page.goto:', err);
         }
