@@ -8,13 +8,177 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/pokeratlas-tour-houston-2024-texas-card-house-houston-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/series/images/PT-BJFA_alI9uRCpIEnh1w",
-    "event_name": "PokerAtlas Title Event - Final Table",
-    "event_number": "Event #10",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "40,000 chips 40 min levels $500K Gtd"
+    "events": [
+      {
+        "event_name": "NLH Main Event Mega Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $3.3K Gtd",
+        "date": "APR/16 - 12:00pm"
+      },
+      {
+        "event_name": "Triple Triple Draw",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "M",
+        "structure": "30,000 chips 30 min levels $5K Gtd",
+        "date": "APR/16 - 2:00pm"
+      },
+      {
+        "event_name": "NLH Main Event Milestone Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $5.5K Gtd",
+        "date": "APR/16 - 5:00pm"
+      },
+      {
+        "event_name": "NLH Main Event Mega Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $5.5K Gtd",
+        "date": "APR/16 - 9:00pm"
+      },
+      {
+        "event_name": "PokerAtlas Title Event 1A",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $500K Gtd",
+        "date": "APR/17 - 12:00pm"
+      },
+      {
+        "event_name": "Dealer's Choice",
+        "event_number": "Event #11",
+        "buy_in": "",
+        "type": "ML Dlr Choice",
+        "structure": "30,000 chips 30 min levels $5K Gtd",
+        "date": "APR/17 - 2:00pm"
+      },
+      {
+        "event_name": "Black Chip Bounty",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $20K Gtd",
+        "date": "APR/17 - 5:00pm"
+      },
+      {
+        "event_name": "NLH Main Event Mega Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $3.3K Gtd",
+        "date": "APR/17 - 9:00pm"
+      },
+      {
+        "event_name": "PokerAtlas Title Event 1B",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $500K Gtd",
+        "date": "APR/18 - 12:00pm"
+      },
+      {
+        "event_name": "PLO $10K To First",
+        "event_number": "Event #13",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "30,000 chips 30 min levels $10K Gtd",
+        "date": "APR/18 - 2:00pm"
+      },
+      {
+        "event_name": "NLH Main Event Milestone Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $3.3K Gtd",
+        "date": "APR/18 - 5:00pm"
+      },
+      {
+        "event_name": "NLH Main Event Mega Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $3.3K Gtd",
+        "date": "APR/18 - 9:00pm"
+      },
+      {
+        "event_name": "PokerAtlas Title Event 1C",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $500K Gtd",
+        "date": "APR/19 - 12:00pm"
+      },
+      {
+        "event_name": "NLH Main Event Milestone Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $3.3K Gtd",
+        "date": "APR/19 - 2:00pm"
+      },
+      {
+        "event_name": "Friday Mayhem Super",
+        "event_number": "Event #14",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 15 min levels $10K Gtd",
+        "date": "APR/19 - 5:00pm"
+      },
+      {
+        "event_name": "NLH Main Event Mega Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $3.3K Gtd",
+        "date": "APR/19 - 9:00pm"
+      },
+      {
+        "event_name": "PokerAtlas Title Event 1D",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $500K Gtd",
+        "date": "APR/20 - 12:00pm"
+      },
+      {
+        "event_name": "2nd Chance Turbo",
+        "event_number": "Event #15",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 15 min levels",
+        "date": "APR/20 - 5:00pm"
+      },
+      {
+        "event_name": "The Closer NLH",
+        "event_number": "Event #16",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $25K Gtd",
+        "date": "APR/21 - 1:00pm"
+      },
+      {
+        "event_name": "PokerAtlas Title Event - Day 2",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 2:00pm"
+      },
+      {
+        "event_name": "PokerAtlas Title Event - Final Table",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $500K Gtd",
+        "date": "APR/22 - 3:30pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/series/images/PT-BJFA_alI9uRCpIEnh1w"
   },
   {
     "name": "LCS",
@@ -25,13 +189,809 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/lcs-the-lodge-poker-club-round-rock-2023",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/YxQecADvgLuwM55xfwDoHg",
-    "event_name": "LCS E13 DEALERS CHOICE",
-    "event_number": "Event #E13",
-    "buy_in": "",
-    "type": "ML 10-Game",
-    "structure": "30,000 chips 30 min levels $20K Gtd"
+    "events": [
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/24 - 10:15am"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT A",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $500K Gtd",
+        "date": "APR/24 - 11:15am"
+      },
+      {
+        "event_name": "WEDNESDAY FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $1K Gtd",
+        "date": "APR/24 - 12:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATELLITE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/24 - 3:15pm"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT B",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $500K Gtd",
+        "date": "APR/24 - 5:15pm"
+      },
+      {
+        "event_name": "WEDNESDAY PLO FREEROLL",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "15,000 chips 15 min levels $5K Gtd",
+        "date": "APR/24 - 7:16pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/25 - 10:15am"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT C",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $500K Gtd",
+        "date": "APR/25 - 11:15am"
+      },
+      {
+        "event_name": "THURSDAY NLH",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $1K Gtd",
+        "date": "APR/25 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT D",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $500K Gtd",
+        "date": "APR/25 - 5:15pm"
+      },
+      {
+        "event_name": "THURSDAY FREEROLL",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $7.5K Gtd",
+        "date": "APR/25 - 7:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/26 - 10:15am"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT E",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $500K Gtd",
+        "date": "APR/26 - 11:15am"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT F",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $500K Gtd",
+        "date": "APR/26 - 5:15pm"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT G TURBO",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 15 min levels $500K Gtd",
+        "date": "APR/26 - 9:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/27 - 10:15am"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT H",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $500K Gtd",
+        "date": "APR/27 - 11:15am"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT I",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $500K Gtd",
+        "date": "APR/27 - 5:15pm"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT J TURBO",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 15 min levels $500K Gtd",
+        "date": "APR/27 - 9:15pm"
+      },
+      {
+        "event_name": "LCS E1 NLH-FLIGHT K SUPER TURBO",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 10 min levels $500K Gtd",
+        "date": "APR/28 - 9:15am"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/28 - 10:15am"
+      },
+      {
+        "event_name": "LCS PLO E2",
+        "event_number": "Event #E2",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "25,000 chips 30 min levels $20K Gtd",
+        "date": "APR/28 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E1 NLH-DAY 2",
+        "event_number": "Event #E1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/28 - 2:00pm"
+      },
+      {
+        "event_name": "SUNDAY FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $5K Gtd",
+        "date": "APR/28 - 4:15pm"
+      },
+      {
+        "event_name": "LCS E3 SENIORS",
+        "event_number": "Event #E3",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $15K Gtd",
+        "date": "APR/29 - 10:15am"
+      },
+      {
+        "event_name": "LCS E4 DOUBLE BOARD BOMB POT",
+        "event_number": "Event #E4",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "25,000 chips 30 min levels $15K Gtd",
+        "date": "APR/29 - 12:15pm"
+      },
+      {
+        "event_name": "MONDAY BOUNTY",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $2K Gtd",
+        "date": "APR/29 - 12:15pm"
+      },
+      {
+        "event_name": "MONDAY BIG-O",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "PL Big O",
+        "structure": "35,000 chips 40 min levels $3.5K Gtd",
+        "date": "APR/29 - 7:15pm"
+      },
+      {
+        "event_name": "LCS NLH FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $5K Gtd",
+        "date": "APR/29 - 7:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/30 - 10:15am"
+      },
+      {
+        "event_name": "TUESDAY NLH",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $1K Gtd",
+        "date": "APR/30 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E5 BLACK CHIP BOUNTY",
+        "event_number": "Event #E5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $20K Gtd",
+        "date": "APR/30 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E6 BIG O",
+        "event_number": "Event #E6",
+        "buy_in": "",
+        "type": "PL Big O",
+        "structure": "25,000 chips 30 min levels $15K Gtd",
+        "date": "APR/30 - 3:15pm"
+      },
+      {
+        "event_name": "LCS TUESDAY FREEROLL",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $30K Gtd",
+        "date": "APR/30 - 7:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/1 - 10:15am"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT A",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "MAY/1 - 11:15am"
+      },
+      {
+        "event_name": "WEDNESDAY FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $1K Gtd",
+        "date": "MAY/1 - 12:16pm"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT B",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "MAY/1 - 5:15pm"
+      },
+      {
+        "event_name": "WEDNESDAY PLO FREEROLL",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "15,000 chips 15 min levels $5K Gtd",
+        "date": "MAY/1 - 7:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/2 - 10:15am"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT C",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "MAY/2 - 11:15am"
+      },
+      {
+        "event_name": "THURSDAY NLH",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $1K Gtd",
+        "date": "MAY/2 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT D",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "MAY/2 - 5:15pm"
+      },
+      {
+        "event_name": "THURSDAY FREEROLL",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $7.5K Gtd",
+        "date": "MAY/2 - 7:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/3 - 10:15am"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT E",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "MAY/3 - 11:15am"
+      },
+      {
+        "event_name": "FRIDAY BOUNTY",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $2K Gtd",
+        "date": "MAY/3 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT F",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "MAY/3 - 5:15pm"
+      },
+      {
+        "event_name": "FRIDAY NIGHT FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 20 min levels $4K Gtd",
+        "date": "MAY/3 - 7:15pm"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT G TURBO",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 15 min levels $500K Gtd",
+        "date": "MAY/3 - 9:15pm"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT H",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "MAY/4 - 11:15am"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT I",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "MAY/4 - 5:15pm"
+      },
+      {
+        "event_name": "LCS E7 NLH-FLIGHT J TURBO",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 15 min levels $500K Gtd",
+        "date": "MAY/4 - 9:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/5 - 10:15am"
+      },
+      {
+        "event_name": "SUNDAY 15K",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "35,000 chips 30 min levels $15K Gtd",
+        "date": "MAY/5 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E8 SIX MAX",
+        "event_number": "Event #E8",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $50K Gtd",
+        "date": "MAY/5 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E7 NLH-DAY 2",
+        "event_number": "Event #E7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "MAY/5 - 1:00pm"
+      },
+      {
+        "event_name": "LCS FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $5K Gtd",
+        "date": "MAY/5 - 4:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/6 - 10:15am"
+      },
+      {
+        "event_name": "MONDAY BOUNTY",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $2K Gtd",
+        "date": "MAY/6 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E9 PLO",
+        "event_number": "Event #E9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $50K Gtd",
+        "date": "MAY/6 - 12:15pm"
+      },
+      {
+        "event_name": "LCS HIGH ROLLER 1-NLH",
+        "event_number": "Event #HRE1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels",
+        "date": "MAY/6 - 12:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATELLITE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "MAY/6 - 3:15pm"
+      },
+      {
+        "event_name": "LCS FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $5K Gtd",
+        "date": "MAY/6 - 7:15pm"
+      },
+      {
+        "event_name": "MONDAY BIG-O",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "PL Big O",
+        "structure": "35,000 chips 40 min levels $3.5K Gtd",
+        "date": "MAY/6 - 7:17pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/7 - 10:15am"
+      },
+      {
+        "event_name": "LCS E10 NLH",
+        "event_number": "Event #E10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $25K Gtd",
+        "date": "MAY/7 - 12:15pm"
+      },
+      {
+        "event_name": "TUESDAY NLH",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $1K Gtd",
+        "date": "MAY/7 - 12:15pm"
+      },
+      {
+        "event_name": "LCS HIGH ROLLER E2 PLO",
+        "event_number": "Event #HRE2",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "30,000 chips 30 min levels",
+        "date": "MAY/7 - 12:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATELLITE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "MAY/7 - 3:15pm"
+      },
+      {
+        "event_name": "LCS TUESDAY FREEROLL",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels $30K Gtd",
+        "date": "MAY/7 - 7:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/8 - 10:15am"
+      },
+      {
+        "event_name": "LCS HIGH ROLLER E3 PLO $5K",
+        "event_number": "Event #HRE3",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "40,000 chips 30 min levels",
+        "date": "MAY/8 - 12:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATELITTE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "MAY/8 - 12:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATLITTE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "MAY/8 - 3:15pm"
+      },
+      {
+        "event_name": "LCS MAIN EVENT FLIGHT A",
+        "event_number": "Event #E11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 40 min levels $2MM Gtd",
+        "date": "MAY/8 - 5:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATELITTE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "MAY/8 - 6:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATELITTE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "MAY/8 - 9:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/9 - 10:15am"
+      },
+      {
+        "event_name": "LCS MAIN EVENT FLIGHT B",
+        "event_number": "Event #E11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 40 min levels $2MM Gtd",
+        "date": "MAY/9 - 11:15am"
+      },
+      {
+        "event_name": "THURSDAY NLH",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $1K Gtd",
+        "date": "MAY/9 - 12:15pm"
+      },
+      {
+        "event_name": "LCS HIGH ROLLER E4 SIX MAX",
+        "event_number": "Event #HRE4",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels",
+        "date": "MAY/9 - 12:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATELITTE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "MAY/9 - 3:15pm"
+      },
+      {
+        "event_name": "LCS MAIN EVENT FLIGHT C",
+        "event_number": "Event #E11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 40 min levels $2MM Gtd",
+        "date": "MAY/9 - 5:15pm"
+      },
+      {
+        "event_name": "LCS SUPER SATELLITE",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "MAY/9 - 7:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/10 - 10:15am"
+      },
+      {
+        "event_name": "LCS MAIN EVENT FLIGHT D",
+        "event_number": "Event #E11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 40 min levels $2MM Gtd",
+        "date": "MAY/10 - 11:15am"
+      },
+      {
+        "event_name": "FRIDAY BOUNTY",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $2K Gtd",
+        "date": "MAY/10 - 12:15pm"
+      },
+      {
+        "event_name": "LCS HIGH ROLLER E5",
+        "event_number": "Event #HRE5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels",
+        "date": "MAY/10 - 12:15pm"
+      },
+      {
+        "event_name": "LCS MAIN EVENT FLIGHT E",
+        "event_number": "Event #E11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 40 min levels $2MM Gtd",
+        "date": "MAY/10 - 5:15pm"
+      },
+      {
+        "event_name": "FRIDAY NIGHT FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 20 min levels $4K Gtd",
+        "date": "MAY/10 - 7:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/11 - 10:15am"
+      },
+      {
+        "event_name": "LCS MAIN EVENT FLIGHT F",
+        "event_number": "Event #E11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 40 min levels $2MM Gtd",
+        "date": "MAY/11 - 11:15am"
+      },
+      {
+        "event_name": "LCS MAIN EVENT FLIGHT G",
+        "event_number": "Event #E11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 40 min levels $2MM Gtd",
+        "date": "MAY/11 - 5:15pm"
+      },
+      {
+        "event_name": "DAILY KICKOFF",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "MAY/12 - 10:15am"
+      },
+      {
+        "event_name": "LCS HIGH ROLLER E6 NLH",
+        "event_number": "Event #HRE6",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels",
+        "date": "MAY/12 - 12:15pm"
+      },
+      {
+        "event_name": "LCS E12 50 FOR 50",
+        "event_number": "Event #E12",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $50K Gtd",
+        "date": "MAY/12 - 12:15pm"
+      },
+      {
+        "event_name": "LCS MAIN EVENT DAY 2",
+        "event_number": "Restart",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "MAY/12 - 1:00pm"
+      },
+      {
+        "event_name": "LCS FREEZEOUT",
+        "event_number": "Side Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $5K Gtd",
+        "date": "MAY/12 - 4:15pm"
+      },
+      {
+        "event_name": "LCS E13 DEALERS CHOICE",
+        "event_number": "Event #E13",
+        "buy_in": "",
+        "type": "ML 10-Game",
+        "structure": "30,000 chips 30 min levels $20K Gtd",
+        "date": "MAY/13 - 4:15pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/YxQecADvgLuwM55xfwDoHg"
   },
   {
     "name": "WSOP-C Playground 2024",
@@ -42,13 +1002,193 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/wsop-c-playground-2024-playground-poker-kahnawake-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/QQwv0KS0-WjwkMA",
-    "event_name": "#15: $600 Mystery Bounty",
-    "event_number": "Event #15",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "25,000 chips 30 min levels $50K Gtd"
+    "events": [
+      {
+        "event_name": "#9: $250 Flip N'Go (Flip)",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 25 min levels $25K Gtd",
+        "date": "APR/17 - 8:00am"
+      },
+      {
+        "event_name": "#5: $800 Day 2 Mystery Bounty",
+        "event_number": "Event #5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $100K Gtd",
+        "date": "APR/17 - 11:00am"
+      },
+      {
+        "event_name": "#7: Day 1 $1,000 NLHE",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $100K Gtd",
+        "date": "APR/17 - 11:00am"
+      },
+      {
+        "event_name": "#7: Day 1 $1,000 NLHE",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $100K Gtd",
+        "date": "APR/17 - 11:00am"
+      },
+      {
+        "event_name": "$250 Main Event Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/17 - 7:00pm"
+      },
+      {
+        "event_name": "#7: Day 2 $1,000 NLHE",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/18 - 11:00am"
+      },
+      {
+        "event_name": "#8: $1,700 Day 1A Main Event",
+        "event_number": "Event #8",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $1.5MM Gtd",
+        "date": "APR/18 - 11:00am"
+      },
+      {
+        "event_name": "$250 4pm Main Event Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/18 - 4:00pm"
+      },
+      {
+        "event_name": "#9: $250 Flip N'Go (Go)",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 25 min levels $25K Gtd",
+        "date": "APR/18 - 6:00pm"
+      },
+      {
+        "event_name": "$250 8pm Main Event Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/18 - 8:00pm"
+      },
+      {
+        "event_name": "#8: $1,700 Day 1B Main Event",
+        "event_number": "Event #8",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $1.5MM Gtd",
+        "date": "APR/19 - 11:00am"
+      },
+      {
+        "event_name": "#10: $300 Ladies Event",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $10K Gtd",
+        "date": "APR/19 - 6:00pm"
+      },
+      {
+        "event_name": "#8: $1,700 Day 1C Main Event",
+        "event_number": "Event #8",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $1.5MM Gtd",
+        "date": "APR/20 - 11:00am"
+      },
+      {
+        "event_name": "#8: $1,700 Day 2 Main Event",
+        "event_number": "Event #8",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 11:00am"
+      },
+      {
+        "event_name": "#11: $600 8-Max",
+        "event_number": "Event #11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $50K Gtd",
+        "date": "APR/21 - 12:00pm"
+      },
+      {
+        "event_name": "#12: $600 Day 1A Closer",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $100K Gtd",
+        "date": "APR/21 - 4:00pm"
+      },
+      {
+        "event_name": "#8: $1,700 Day 3 Main Event",
+        "event_number": "Event #8",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/22 - 11:00am"
+      },
+      {
+        "event_name": "#13: Day 1 High Roller",
+        "event_number": "Event #13",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 45 min levels $500K Gtd",
+        "date": "APR/22 - 11:00am"
+      },
+      {
+        "event_name": "#12: $600 Day 1B Closer",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $100K Gtd",
+        "date": "APR/22 - 4:00pm"
+      },
+      {
+        "event_name": "#13: Day 2 High Roller",
+        "event_number": "Event #13",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/23 - 11:00am"
+      },
+      {
+        "event_name": "#14: $1,000 PKO",
+        "event_number": "Event #14",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $100K Gtd",
+        "date": "APR/23 - 2:00pm"
+      },
+      {
+        "event_name": "#12: $600 Day 2 Closer",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/23 - 4:00pm"
+      },
+      {
+        "event_name": "#15: $600 Mystery Bounty",
+        "event_number": "Event #15",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $50K Gtd",
+        "date": "APR/23 - 6:00pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/QQwv0KS0-WjwkMA"
   },
   {
     "name": "DeepStack Extravaganza II 2024",
@@ -59,13 +1199,841 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/deepstack-extravaganza-ii-2024-venetian-las-vegas-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/Gb9rAr8snywKSDOPaJrokw",
-    "event_name": "No Limit Hold'em Bounty",
-    "event_number": "Event #85",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "25,000 chips 30 min levels $5K Gtd"
+    "events": [
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $100K Gtd",
+        "date": "APR/1 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #2",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/1 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $100K Gtd",
+        "date": "APR/2 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #3",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/2 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/3 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #4",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/3 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/3 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Ultimate Bounty",
+        "event_number": "Event #6 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "APR/4 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/4 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Ultimate Bounty",
+        "event_number": "Event #6 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "APR/5 - 11:10am"
+      },
+      {
+        "event_name": "Big O Bounty",
+        "event_number": "Event #8",
+        "buy_in": "",
+        "type": "PL Big O Hi/Lo",
+        "structure": "25,000 chips 30 min levels $7.5K Gtd",
+        "date": "APR/5 - 2:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Ultimate Bounty",
+        "event_number": "Event #6 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "APR/6 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/6 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Ultimate Bounty",
+        "event_number": "Event #6 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/7 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/7 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/7 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/8 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #13",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/8 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #14",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/9 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #15",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/9 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #16",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/10 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #17",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/10 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #18",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/11 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #19",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/11 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #20",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/12 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #21",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/12 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #22",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/13 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #23",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/13 - 6:10pm"
+      },
+      {
+        "event_name": "Seniors No Limit Hold'em (50+)",
+        "event_number": "Event #24",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $20K Gtd",
+        "date": "APR/14 - 10:10am"
+      },
+      {
+        "event_name": "Big O",
+        "event_number": "Event #25",
+        "buy_in": "",
+        "type": "PL Big O Hi/Lo",
+        "structure": "25,000 chips 30 min levels $7.5K Gtd",
+        "date": "APR/14 - 2:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #26",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/15 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #27",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/15 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #28",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/16 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #29",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/16 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #30",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/17 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #31",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/17 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #32",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/18 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #33",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/18 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #34",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/19 - 11:10am"
+      },
+      {
+        "event_name": "PLO / PLO 8",
+        "event_number": "Event #35",
+        "buy_in": "",
+        "type": "PL Omaha/O8",
+        "structure": "25,000 chips 30 min levels $7.5K Gtd",
+        "date": "APR/19 - 2:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #36",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/20 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #37",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/20 - 6:10pm"
+      },
+      {
+        "event_name": "Seniors No Limit Hold'em (50+)",
+        "event_number": "Event #38",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $20K Gtd",
+        "date": "APR/21 - 10:10am"
+      },
+      {
+        "event_name": "Pot Limit Omaha 8/B",
+        "event_number": "Event #39",
+        "buy_in": "",
+        "type": "PL Omaha8",
+        "structure": "25,000 chips 30 min levels $7.5K Gtd",
+        "date": "APR/21 - 2:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #40",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/22 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #41",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/22 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #42",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/23 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #43",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/23 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #44",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/24 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #45",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/24 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #46 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "APR/25 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #47",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/25 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #46 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "APR/26 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #48",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/26 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #46 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "APR/27 - 11:10am"
+      },
+      {
+        "event_name": "Limit Omaha 8/B",
+        "event_number": "Event #49",
+        "buy_in": "",
+        "type": "FL Omaha8",
+        "structure": "20,000 chips 30 min levels $7.5K Gtd",
+        "date": "APR/27 - 2:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #46 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/28 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #50",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/28 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #51",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/28 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #52",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/29 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #53",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/29 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #54",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "APR/30 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #55",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "APR/30 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #56",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "MAY/1 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Milestone Survivor",
+        "event_number": "Event #57",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/1 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $200K Gtd",
+        "date": "MAY/2 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Milestone Survivor",
+        "event_number": "Event #59",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/2 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $200K Gtd",
+        "date": "MAY/3 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Milestone Survivor",
+        "event_number": "Event #60",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/3 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $200K Gtd",
+        "date": "MAY/4 - 11:10am"
+      },
+      {
+        "event_name": "Big O Bounty",
+        "event_number": "Event #61",
+        "buy_in": "",
+        "type": "PL Big O Hi/Lo",
+        "structure": "25,000 chips 30 min levels $7.5K Gtd",
+        "date": "MAY/4 - 2:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "MAY/5 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #62",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/5 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #63",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "MAY/6 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #64",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/6 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #65",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "MAY/7 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #66",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/7 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #67",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "MAY/8 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #68",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/8 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #69 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "MAY/9 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #70",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/9 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #69 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "MAY/10 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #71",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/10 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #69 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $150K Gtd",
+        "date": "MAY/11 - 11:10am"
+      },
+      {
+        "event_name": "Pot Limit Omaha",
+        "event_number": "Event #72",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "25,000 chips 30 min levels $7.5K Gtd",
+        "date": "MAY/11 - 2:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #69 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "MAY/12 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #73",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "MAY/12 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #74",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/12 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #75 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $100K Gtd",
+        "date": "MAY/13 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #76",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/13 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #75 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $100K Gtd",
+        "date": "MAY/14 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #77",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/14 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em UltimateStack",
+        "event_number": "Event #75 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "MAY/15 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em EpicStack",
+        "event_number": "Event #78",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "MAY/15 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Milestone Survivor",
+        "event_number": "Event #79",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/15 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Ultimate Bounty",
+        "event_number": "Event #80 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $200K Gtd",
+        "date": "MAY/16 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Milestone Survivor",
+        "event_number": "Event #81",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/16 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Ultimate Bounty",
+        "event_number": "Event #80 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $200K Gtd",
+        "date": "MAY/17 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Milestone Survivor",
+        "event_number": "Event #82",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/17 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Ultimate Bounty",
+        "event_number": "Event #80 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 40 min levels $200K Gtd",
+        "date": "MAY/18 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #83",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/18 - 6:10pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Ultimate Bounty",
+        "event_number": "Event #80 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "MAY/19 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em Epic Bounty",
+        "event_number": "Event #84",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels $20K Gtd",
+        "date": "MAY/19 - 11:10am"
+      },
+      {
+        "event_name": "No Limit Hold'em Bounty",
+        "event_number": "Event #85",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $5K Gtd",
+        "date": "MAY/19 - 6:10pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/Gb9rAr8snywKSDOPaJrokw"
   },
   {
     "name": "Poker Showdown 2024",
@@ -76,13 +2044,1321 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/poker-showdown-2024-hard-rock-hollywood-ft-lauderdale-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/AyLd5iUIu3EqNak",
-    "event_name": "Quad Stack Black Chip Bounty",
-    "event_number": "Event #75",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "40,000 chips 15 min levels"
+    "events": [
+      {
+        "event_name": "Multi Turbo Satellite into Event 1 + Event 26 + $250 Cash",
+        "event_number": "Event #76",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/1 - 11:00am"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $1,100 Event + Any $600 Event + $400 Cash",
+        "event_number": "Event #77",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/1 - 3:00pm"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Event 1 + Event 26 + $250 Cash",
+        "event_number": "Event #78",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/2 - 11:00am"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $1,100 Event + Any $600 Event + $400 Cash",
+        "event_number": "Event #79",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/2 - 3:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $1MM Gtd",
+        "date": "APR/3 - 10:00am"
+      },
+      {
+        "event_name": "7-Card Stud",
+        "event_number": "Event #2",
+        "buy_in": "",
+        "type": "Stud",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/3 - 11:00am"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #80",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/3 - 1:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack (6-Max)",
+        "event_number": "Event #3",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/3 - 2:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $1MM Gtd",
+        "date": "APR/3 - 5:00pm"
+      },
+      {
+        "event_name": "NLH Quad Stack - Final Table Only Payouts",
+        "event_number": "Event #4",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/3 - 6:00pm"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #81",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/3 - 8:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $1MM Gtd",
+        "date": "APR/4 - 10:00am"
+      },
+      {
+        "event_name": "Seniors No Limit Hold'em Deep Stack (50+)",
+        "event_number": "Event #5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $50K Gtd",
+        "date": "APR/4 - 11:00am"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #82",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/4 - 1:00pm"
+      },
+      {
+        "event_name": "Big O Deep Stack",
+        "event_number": "Event #6",
+        "buy_in": "",
+        "type": "PL Big O Hi/Lo",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/4 - 2:00pm"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $1,100 Event + Any $600 Event + $400 Cash",
+        "event_number": "Event #83",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/4 - 3:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $1MM Gtd",
+        "date": "APR/4 - 5:00pm"
+      },
+      {
+        "event_name": "NLH / PLO Quad Stack Mix",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "ML HA",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/4 - 6:00pm"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #84",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/4 - 8:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $1MM Gtd",
+        "date": "APR/5 - 10:00am"
+      },
+      {
+        "event_name": "Limit Omaha Hi/Lo 8/B",
+        "event_number": "Event #8",
+        "buy_in": "",
+        "type": "FL Omaha8",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/5 - 11:00am"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #85",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/5 - 1:00pm"
+      },
+      {
+        "event_name": "NLH Double Black Chip Bounty Deep Stack",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/5 - 2:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $1MM Gtd",
+        "date": "APR/5 - 5:00pm"
+      },
+      {
+        "event_name": "NLH Quad Stack Black Chip Bounty",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/5 - 6:00pm"
+      },
+      {
+        "event_name": "NLH Nitty Game aka \"The Stand Up Game\"",
+        "event_number": "Event #86",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels",
+        "date": "APR/5 - 7:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $1MM Gtd",
+        "date": "APR/6 - 10:00am"
+      },
+      {
+        "event_name": "5-Card PLO Deep Stack",
+        "event_number": "Event #11",
+        "buy_in": "",
+        "type": "PL 5COHi",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/6 - 11:00am"
+      },
+      {
+        "event_name": "8-Game Mix",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "ML 8-Game",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/6 - 2:00pm"
+      },
+      {
+        "event_name": "NLH Black Chip Bounty Big Stack Survivor",
+        "event_number": "Event #87",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/6 - 3:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $1MM Gtd",
+        "date": "APR/6 - 5:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Survivor",
+        "event_number": "Event #88",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/6 - 8:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/7 - 1:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack",
+        "event_number": "Event #13",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $100K Gtd",
+        "date": "APR/7 - 1:00pm"
+      },
+      {
+        "event_name": "Triple Stud",
+        "event_number": "Event #14",
+        "buy_in": "",
+        "type": "FL Triple Stud",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/7 - 2:00pm"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #89",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/7 - 3:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack Eight Handed",
+        "event_number": "Event #15",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $100K Gtd",
+        "date": "APR/7 - 4:00pm"
+      },
+      {
+        "event_name": "Pot Limit Omaha Deep Stack",
+        "event_number": "Event #16 ",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "20,000 chips 30 min levels $100K Gtd",
+        "date": "APR/7 - 5:00pm"
+      },
+      {
+        "event_name": "NLH Double Green Chip Bounty Quad Stack",
+        "event_number": "Event #17",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/7 - 6:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to Event 26 & Event 36",
+        "event_number": "Event #90",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 15 min levels",
+        "date": "APR/7 - 7:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Big Stack",
+        "event_number": "Event #18 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 30 min levels $200K Gtd",
+        "date": "APR/8 - 11:00am"
+      },
+      {
+        "event_name": "Pot Limit Omaha Deep Stack",
+        "event_number": "Event #16 ",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "20,000 chips 30 min levels $100K Gtd",
+        "date": "APR/8 - 12:00pm"
+      },
+      {
+        "event_name": "H.O.R.S.E.",
+        "event_number": "Event #19",
+        "buy_in": "",
+        "type": "HORSE",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/8 - 12:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/8 - 1:00pm"
+      },
+      {
+        "event_name": "NLH Triple Stack (Eight-Handed)",
+        "event_number": "Event #20",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels",
+        "date": "APR/8 - 1:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Big Stack",
+        "event_number": "Event #18 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 30 min levels $200K Gtd",
+        "date": "APR/8 - 3:00pm"
+      },
+      {
+        "event_name": "Pot Limit Omaha Deep Stack",
+        "event_number": "Event #16 ",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "20,000 chips 30 min levels $100K Gtd",
+        "date": "APR/8 - 5:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Big Stack",
+        "event_number": "Event #18 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 30 min levels $200K Gtd",
+        "date": "APR/8 - 7:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Big Stack",
+        "event_number": "Event #18 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 30 min levels $200K Gtd",
+        "date": "APR/9 - 11:00am"
+      },
+      {
+        "event_name": "Mixed Pot Limit Omaha (PLO, PLO8, Big O) Deep Stack",
+        "event_number": "Event #21",
+        "buy_in": "",
+        "type": "PL Omaha Mix",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/9 - 12:00pm"
+      },
+      {
+        "event_name": "Pot Limit Omaha Deep Stack",
+        "event_number": "Event #16 ",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "Re-start",
+        "date": "APR/9 - 1:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack Six-Max",
+        "event_number": "Event #22",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $50K Gtd",
+        "date": "APR/9 - 1:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Big Stack",
+        "event_number": "Event #18 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 30 min levels $200K Gtd",
+        "date": "APR/9 - 3:00pm"
+      },
+      {
+        "event_name": "Fun Under The Gun (PLO, PLO8, Omaha 8, Badugi)",
+        "event_number": "Event #91",
+        "buy_in": "",
+        "type": "M",
+        "structure": "25,000 chips 20 min levels",
+        "date": "APR/9 - 5:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Big Stack",
+        "event_number": "Event #18 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 30 min levels $200K Gtd",
+        "date": "APR/9 - 7:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $2MM Gtd",
+        "date": "APR/10 - 10:00am"
+      },
+      {
+        "event_name": "Seniors No Limit Hold'em Deep Stack (50+)",
+        "event_number": "Event #23",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/10 - 11:00am"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #92",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/10 - 11:00am"
+      },
+      {
+        "event_name": "Big O Deep Stack",
+        "event_number": "Event #24",
+        "buy_in": "",
+        "type": "PL Big O Hi/Lo",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/10 - 12:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Big Stack",
+        "event_number": "Event #18 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/10 - 1:00pm"
+      },
+      {
+        "event_name": "NLH Quad Stack Black Chip Bounty",
+        "event_number": "Event #25",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/10 - 2:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Survivor",
+        "event_number": "Event #93",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/10 - 3:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $2MM Gtd",
+        "date": "APR/10 - 5:00pm"
+      },
+      {
+        "event_name": "NLH No Checking Allowed",
+        "event_number": "Event #94",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels",
+        "date": "APR/10 - 7:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $2MM Gtd",
+        "date": "APR/11 - 10:00am"
+      },
+      {
+        "event_name": "Limit 2-7 Triple Draw",
+        "event_number": "Event #27",
+        "buy_in": "",
+        "type": "2-7TD",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/11 - 11:00am"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #95",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/11 - 1:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Triple Stack (Six-Max)",
+        "event_number": "Event #28",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels",
+        "date": "APR/11 - 2:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event 26 & Event 36",
+        "event_number": "Event #96",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/11 - 3:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $2MM Gtd",
+        "date": "APR/11 - 5:00pm"
+      },
+      {
+        "event_name": "PLO Deep Stack (Eight Handed)",
+        "event_number": "Event #29",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/11 - 6:00pm"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #97",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/11 - 8:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $2MM Gtd",
+        "date": "APR/12 - 10:00am"
+      },
+      {
+        "event_name": "Limit Omaha Hi-Lo 8/B",
+        "event_number": "Event #30",
+        "buy_in": "",
+        "type": "FL Omaha8",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/12 - 11:00am"
+      },
+      {
+        "event_name": "Multi Turbo Satellite into Any $400 Event + $600 Event + $250 Cash",
+        "event_number": "Event #98",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/12 - 1:00pm"
+      },
+      {
+        "event_name": "NLH Quad Stack Black Chip Bounty",
+        "event_number": "Event #31",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/12 - 2:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $2MM Gtd",
+        "date": "APR/12 - 5:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event 36",
+        "event_number": "Event #99",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/12 - 7:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $2MM Gtd",
+        "date": "APR/13 - 10:00am"
+      },
+      {
+        "event_name": "Limit Badugi Triple Draw",
+        "event_number": "Event #32",
+        "buy_in": "",
+        "type": "FL Badugi",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/13 - 11:00am"
+      },
+      {
+        "event_name": "5-Card PLO Black Chip Bounty Deep Stack",
+        "event_number": "Event #33",
+        "buy_in": "",
+        "type": "PL 5COHi",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/13 - 2:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Survivor",
+        "event_number": "Event #100",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/13 - 3:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $2MM Gtd",
+        "date": "APR/13 - 5:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event 36",
+        "event_number": "Event #101",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/13 - 8:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/14 - 1:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack",
+        "event_number": "Event #34",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $100K Gtd",
+        "date": "APR/14 - 1:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to Event 36",
+        "event_number": "Event #102",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/14 - 1:00pm"
+      },
+      {
+        "event_name": "Big Bet Mix Dealers Choice",
+        "event_number": "Event #35",
+        "buy_in": "",
+        "type": "ML Dlr Choice",
+        "structure": "30,000 chips 30 min levels",
+        "date": "APR/14 - 2:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Triple Stack",
+        "event_number": "Event #36 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/14 - 4:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event 36",
+        "event_number": "Event #103",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/14 - 5:00pm"
+      },
+      {
+        "event_name": "Mega Satellite to WPT Championship",
+        "event_number": "Event #104",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/14 - 7:00pm"
+      },
+      {
+        "event_name": "PLO Deep Stack Turbo",
+        "event_number": "Event #37",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "20,000 chips 15 min levels",
+        "date": "APR/14 - 8:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Triple Stack",
+        "event_number": "Event #36 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/15 - 11:00am"
+      },
+      {
+        "event_name": "Seniors NLH Black Chip Bounty (50+)",
+        "event_number": "Event #38",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $30K Gtd",
+        "date": "APR/15 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #26 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/15 - 12:00pm"
+      },
+      {
+        "event_name": "8-Game Mix",
+        "event_number": "Event #39",
+        "buy_in": "",
+        "type": "ML 8-Game",
+        "structure": "30,000 chips 40 min levels",
+        "date": "APR/15 - 12:00pm"
+      },
+      {
+        "event_name": "NLH Heads Up",
+        "event_number": "Event #40",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/15 - 12:00pm"
+      },
+      {
+        "event_name": "NLH Double Black Chip Bounty Deep Stack",
+        "event_number": "Event #41",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/15 - 2:00pm"
+      },
+      {
+        "event_name": "PLO Black Chip Bounty Deep Stack 6-Max",
+        "event_number": "Event #42",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/15 - 4:00pm"
+      },
+      {
+        "event_name": "Old School No Limit Hold'em",
+        "event_number": "Event #105",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "8,000 chips 20 min levels",
+        "date": "APR/15 - 5:00pm"
+      },
+      {
+        "event_name": "Mega Satellite to WPT Championship",
+        "event_number": "Event #106",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/15 - 7:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack Turbo",
+        "event_number": "Event #43",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 15 min levels",
+        "date": "APR/15 - 8:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Triple Stack",
+        "event_number": "Event #36 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/16 - 11:00am"
+      },
+      {
+        "event_name": "NLH Deep Stack Six Max",
+        "event_number": "Event #44",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $50K Gtd",
+        "date": "APR/16 - 11:00am"
+      },
+      {
+        "event_name": "Mega Super Turbo Satellite Into Event 46",
+        "event_number": "Event #107",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 10 min levels",
+        "date": "APR/16 - 11:00am"
+      },
+      {
+        "event_name": "Limit Omaha Hi/Lo 8/B",
+        "event_number": "Event #45",
+        "buy_in": "",
+        "type": "FL Omaha8",
+        "structure": "30,000 chips 40 min levels",
+        "date": "APR/16 - 12:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack Eight Handed",
+        "event_number": "Event #46",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 40 min levels",
+        "date": "APR/16 - 1:00pm"
+      },
+      {
+        "event_name": "PLO Deep Stack 6-Max",
+        "event_number": "Event #47",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/16 - 2:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #48",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/16 - 4:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite Into Event 50",
+        "event_number": "Event #108",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/16 - 5:00pm"
+      },
+      {
+        "event_name": "Mega Satellite Into Super High Roller",
+        "event_number": "Event #109",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/16 - 7:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack Turbo",
+        "event_number": "Event #49",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 15 min levels",
+        "date": "APR/16 - 8:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #50",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $200K Gtd",
+        "date": "APR/17 - 11:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em Triple Stack",
+        "event_number": "Event #36 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/17 - 12:00pm"
+      },
+      {
+        "event_name": "H.O.R.S.E.",
+        "event_number": "Event #51",
+        "buy_in": "",
+        "type": "HORSE",
+        "structure": "30,000 chips 40 min levels",
+        "date": "APR/17 - 12:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to WPT Championship Event",
+        "event_number": "Event #110",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/17 - 12:00pm"
+      },
+      {
+        "event_name": "Super High Roller No Limit Hold'em",
+        "event_number": "Event #52",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "125,000 chips 40 min levels",
+        "date": "APR/17 - 1:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to WPT Championship Event",
+        "event_number": "Event #111",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/17 - 4:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite into Any $25.500 Buy-in Event",
+        "event_number": "Event #112",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/17 - 6:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to WPT Championship Event",
+        "event_number": "Event #113",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/17 - 8:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to WPT Championship Event",
+        "event_number": "Event #114",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/18 - 10:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #53",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $100K Gtd",
+        "date": "APR/18 - 11:00am"
+      },
+      {
+        "event_name": "Omaha 8 / Stud 8",
+        "event_number": "Event #54",
+        "buy_in": "",
+        "type": "O8/S8",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/18 - 12:00pm"
+      },
+      {
+        "event_name": "High Roller Pot Limit Omaha",
+        "event_number": "Event #55",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "125,000 chips 40 min levels",
+        "date": "APR/18 - 1:00pm"
+      },
+      {
+        "event_name": "NLH Quad Stack Black Chip Bounty",
+        "event_number": "Event #56",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/18 - 2:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to WPT Championship Event",
+        "event_number": "Event #115",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/18 - 3:00pm"
+      },
+      {
+        "event_name": "Larry Frank Memorial Charity Event Benefiting the Make-A-Wish Foundation",
+        "event_number": "Event #57",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/18 - 7:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite Into WPT Championship Event",
+        "event_number": "Event #116",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/18 - 9:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to WPT Championship Event",
+        "event_number": "Event #117",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/19 - 10:00am"
+      },
+      {
+        "event_name": "WPT Showdown Championship NLH",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 60 min levels $3MM Gtd",
+        "date": "APR/19 - 11:00am"
+      },
+      {
+        "event_name": "Pot Limit Omaha 8/B Deep Stack (8-Handed)",
+        "event_number": "Event #59",
+        "buy_in": "",
+        "type": "PL Omaha8",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/19 - 12:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to WPT Championship Event",
+        "event_number": "Event #118",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/19 - 3:00pm"
+      },
+      {
+        "event_name": "NLH Quad Stack - Final Table Only Payouts",
+        "event_number": "Event #60",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/19 - 6:00pm"
+      },
+      {
+        "event_name": "Milestone Satellite to WPT Championship Event",
+        "event_number": "Event #119",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels",
+        "date": "APR/19 - 7:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event #64",
+        "event_number": "Event #120",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/19 - 9:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite Into WPT Championship Event",
+        "event_number": "Event #121",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/20 - 9:00am"
+      },
+      {
+        "event_name": "WPT Showdown Championship NLH",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 60 min levels $3MM Gtd",
+        "date": "APR/20 - 11:00am"
+      },
+      {
+        "event_name": "Mega Super Turbo Satellite to WPT Championship",
+        "event_number": "Event #122",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 10 min levels",
+        "date": "APR/20 - 11:00am"
+      },
+      {
+        "event_name": "Big O Deep Stack",
+        "event_number": "Event #61",
+        "buy_in": "",
+        "type": "PL Big O Hi/Lo",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/20 - 12:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Big Stack",
+        "event_number": "Event #62",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 20 min levels $20K Gtd",
+        "date": "APR/20 - 6:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event #64",
+        "event_number": "Event #123",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/20 - 8:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event #64",
+        "event_number": "Event #124",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/21 - 11:00am"
+      },
+      {
+        "event_name": "WPT Showdown Championship NLH",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 12:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #63",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $100K Gtd",
+        "date": "APR/21 - 12:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack",
+        "event_number": "Event #64",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 40 min levels $1MM Gtd",
+        "date": "APR/21 - 1:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event 69",
+        "event_number": "Event #125",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/21 - 2:00pm"
+      },
+      {
+        "event_name": "Mixed Pot Limit Omaha (PLO, PLO8, Big O) Deep Stack",
+        "event_number": "Event #65",
+        "buy_in": "",
+        "type": "PL Omaha Mix",
+        "structure": "30 min levels",
+        "date": "APR/21 - 4:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event 69",
+        "event_number": "Event #126",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/21 - 8:00pm"
+      },
+      {
+        "event_name": "NLH Deep Stack Turbo",
+        "event_number": "Event #66",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 15 min levels",
+        "date": "APR/21 - 9:00pm"
+      },
+      {
+        "event_name": "Mega Super Turbo Satellite Into Event 69",
+        "event_number": "Event #127",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 10 min levels",
+        "date": "APR/22 - 11:00am"
+      },
+      {
+        "event_name": "WPT Showdown Championship NLH",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/22 - 12:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Savage Average",
+        "event_number": "Event #67",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips $50K Gtd",
+        "date": "APR/22 - 12:00pm"
+      },
+      {
+        "event_name": "Triple Stud",
+        "event_number": "Event #68",
+        "buy_in": "",
+        "type": "FL Triple Stud",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/22 - 12:00pm"
+      },
+      {
+        "event_name": "High Roller No Limit Hold'em",
+        "event_number": "Event #69",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 40 min levels $1MM Gtd",
+        "date": "APR/22 - 2:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event #73",
+        "event_number": "Event #128",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/22 - 3:00pm"
+      },
+      {
+        "event_name": "NLH Purple Chip Bounty Turbo Deep Stack",
+        "event_number": "Event #70",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 15 min levels",
+        "date": "APR/22 - 8:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event #73",
+        "event_number": "Event #129",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/22 - 9:00pm"
+      },
+      {
+        "event_name": "Mega Turbo Satellite to Event #73",
+        "event_number": "Event #130",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "10,000 chips 15 min levels",
+        "date": "APR/23 - 10:00am"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack",
+        "event_number": "Event #71",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/23 - 11:00am"
+      },
+      {
+        "event_name": "Limit 2-7 Triple Draw",
+        "event_number": "Event #72",
+        "buy_in": "",
+        "type": "2-7TD",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/23 - 11:00am"
+      },
+      {
+        "event_name": "WPT Showdown Championship NLH",
+        "event_number": "Event #58 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/23 - 12:00pm"
+      },
+      {
+        "event_name": "No Limit Hold'em Deep Stack Eight Handed",
+        "event_number": "Event #73",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels $250K Gtd",
+        "date": "APR/23 - 12:00pm"
+      },
+      {
+        "event_name": "5-Card PLO Deep Stack Six Max",
+        "event_number": "Event #74",
+        "buy_in": "",
+        "type": "PL 5COHi",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/23 - 2:00pm"
+      },
+      {
+        "event_name": "Quad Stack Black Chip Bounty",
+        "event_number": "Event #75",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 15 min levels",
+        "date": "APR/23 - 5:00pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/AyLd5iUIu3EqNak"
   },
   {
     "name": "2024 Columbus Poker Open",
@@ -93,13 +3369,185 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-columbus-poker-open-hollywood-columbus-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/vQWu2xrnJlcxb5M",
-    "event_name": "CPO Main Event NLH",
-    "event_number": "Event #10 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "events": [
+      {
+        "event_name": "$20K Opener",
+        "event_number": "Event #1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $20K Gtd",
+        "date": "APR/7 - 11:15am"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (3 seats guaranteed)",
+        "event_number": "Event #2",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/8 - 12:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (5 seats guaranteed)",
+        "event_number": "Event #3",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/8 - 7:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (3 seats guaranteed)",
+        "event_number": "Event #4",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/9 - 12:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (5 seats guaranteed)",
+        "event_number": "Event #5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/9 - 7:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (3 seats guaranteed)",
+        "event_number": "Event #6",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/10 - 12:15pm"
+      },
+      {
+        "event_name": "Top Tier $20K",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 20 min levels $20K Gtd",
+        "date": "APR/10 - 7:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (3 seats guaranteed)",
+        "event_number": "Event #8",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/11 - 12:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (5 seats guaranteed)",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/11 - 7:15pm"
+      },
+      {
+        "event_name": "CPO Main Event NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30/40 min levels $300K Gtd",
+        "date": "APR/12 - 12:15pm"
+      },
+      {
+        "event_name": "CPO Main Event NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30/40 min levels $300K Gtd",
+        "date": "APR/13 - 12:15pm"
+      },
+      {
+        "event_name": "CPO Main Event NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30/40 min levels $300K Gtd",
+        "date": "APR/14 - 12:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (3 seats guaranteed)",
+        "event_number": "Event #11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/15 - 12:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (5 seats guaranteed)",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/15 - 7:15pm"
+      },
+      {
+        "event_name": "Seniors NLH (50+)",
+        "event_number": "Event #13",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20/30 min levels $20K Gtd",
+        "date": "APR/16 - 12:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (5 seats guaranteed)",
+        "event_number": "Event #14",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/16 - 7:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (3 seats guaranteed)",
+        "event_number": "Event #15",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/17 - 12:15pm"
+      },
+      {
+        "event_name": "Mega Satellite to Event 10 (5 seats guaranteed)",
+        "event_number": "Event #16",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 15 min levels",
+        "date": "APR/17 - 7:15pm"
+      },
+      {
+        "event_name": "CPO Main Event NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30/40 min levels $300K Gtd",
+        "date": "APR/18 - 12:15pm"
+      },
+      {
+        "event_name": "CPO Main Event NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30/40 min levels $300K Gtd",
+        "date": "APR/19 - 12:15pm"
+      },
+      {
+        "event_name": "CPO Main Event NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30/40 min levels $300K Gtd",
+        "date": "APR/20 - 12:15pm"
+      },
+      {
+        "event_name": "CPO Main Event NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 12:15pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/vQWu2xrnJlcxb5M"
   },
   {
     "name": "Wynn Signature - April '24",
@@ -110,13 +3558,353 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/wynn-signature-april-24-wynn-las-vegas-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/y8YzkAed-seaDik",
-    "event_name": "$10,000 GTD NLH Turbo",
-    "event_number": "Series Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "25,000 chips 20 min levels $10K Gtd"
+    "events": [
+      {
+        "event_name": "$100,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $100K Gtd",
+        "date": "APR/8 - 12:00pm"
+      },
+      {
+        "event_name": "$30,000 GTD H.O.R.S.E.",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "HORSE",
+        "structure": "25,000 chips 30 min levels $30K Gtd",
+        "date": "APR/8 - 1:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/8 - 6:00pm"
+      },
+      {
+        "event_name": "$100,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $100K Gtd",
+        "date": "APR/9 - 12:00pm"
+      },
+      {
+        "event_name": "$30,000 GTD 8-Game Mix",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "ML 8-Game",
+        "structure": "25,000 chips 30 min levels $30K Gtd",
+        "date": "APR/9 - 1:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/9 - 6:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em Mystery Bounty",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $500K Gtd",
+        "date": "APR/10 - 12:00pm"
+      },
+      {
+        "event_name": "$100,000 GTD No Limit Hold'em",
+        "event_number": "Restart ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/10 - 12:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/10 - 6:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em Mystery Bounty",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $500K Gtd",
+        "date": "APR/11 - 12:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/11 - 6:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em Mystery Bounty",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $500K Gtd",
+        "date": "APR/12 - 12:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em Mystery Bounty",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $500K Gtd",
+        "date": "APR/13 - 12:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em Mystery Bounty",
+        "event_number": "Restart ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/14 - 12:00pm"
+      },
+      {
+        "event_name": "$40,000 GTD No Limit Hold'em",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $40K Gtd",
+        "date": "APR/14 - 1:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/14 - 6:00pm"
+      },
+      {
+        "event_name": "$150,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $150K Gtd",
+        "date": "APR/15 - 12:00pm"
+      },
+      {
+        "event_name": "$30,000 GTD Big O",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "PL Big O Hi/Lo",
+        "structure": "25,000 chips 30 min levels $30K Gtd",
+        "date": "APR/15 - 1:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/15 - 6:00pm"
+      },
+      {
+        "event_name": "$150,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $150K Gtd",
+        "date": "APR/16 - 12:00pm"
+      },
+      {
+        "event_name": "$20,000 GTD Limit Omaha 8",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "FL Omaha8",
+        "structure": "25,000 chips 30 min levels $20K Gtd",
+        "date": "APR/16 - 1:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/16 - 6:00pm"
+      },
+      {
+        "event_name": "$50,000 GTD Seniors (50+)",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $50K Gtd",
+        "date": "APR/17 - 12:00pm"
+      },
+      {
+        "event_name": "$150,000 GTD No Limit Hold'em",
+        "event_number": "Restart ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/17 - 12:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/17 - 6:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/18 - 12:00pm"
+      },
+      {
+        "event_name": "$20,000 GTD Mix Omaha 8 (PLO8, Big O, O8)",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "ML Mixed Omaha",
+        "structure": "25,000 chips 30 min levels $20K Gtd",
+        "date": "APR/18 - 1:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/18 - 6:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/19 - 12:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/19 - 6:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/20 - 12:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $500K Gtd",
+        "date": "APR/20 - 7:00pm"
+      },
+      {
+        "event_name": "$500,000 GTD No Limit Hold'em",
+        "event_number": "Restart ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 12:00pm"
+      },
+      {
+        "event_name": "$40,000 GTD No Limit Hold'em",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $40K Gtd",
+        "date": "APR/21 - 1:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/21 - 6:00pm"
+      },
+      {
+        "event_name": "$100,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $100K Gtd",
+        "date": "APR/22 - 12:00pm"
+      },
+      {
+        "event_name": "$20,000 GTD PLO",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "25,000 chips 30 min levels $20K Gtd",
+        "date": "APR/22 - 1:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/22 - 6:00pm"
+      },
+      {
+        "event_name": "$100,000 GTD No Limit Hold'em",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $100K Gtd",
+        "date": "APR/23 - 12:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/23 - 6:00pm"
+      },
+      {
+        "event_name": "$40,000 GTD No Limit Hoid'em",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $40K Gtd",
+        "date": "APR/24 - 12:00pm"
+      },
+      {
+        "event_name": "$100,000 GTD No Limit Hold'em",
+        "event_number": "Restart ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/24 - 12:00pm"
+      },
+      {
+        "event_name": "$10,000 GTD NLH Turbo",
+        "event_number": "Series Event",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 20 min levels $10K Gtd",
+        "date": "APR/24 - 6:00pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/y8YzkAed-seaDik"
   },
   {
     "name": "Ameristar Poker Open 2024",
@@ -127,13 +3915,441 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/ameristar-poker-open-2024-ameristar-st-charles-st-charles-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/Xv0hZsGw72H69wU",
-    "event_name": "Progressive Bounty NLH",
-    "event_number": "Event #17",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "25,000 chips 30 min levels"
+    "events": [
+      {
+        "event_name": "Pre Event Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "MAR/30 - 4:00pm"
+      },
+      {
+        "event_name": "Pre Event Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/6 - 4:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/10 - 2:00pm"
+      },
+      {
+        "event_name": "Tag Team",
+        "event_number": "Event #1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips 20 min levels",
+        "date": "APR/10 - 6:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/11 - 12:00pm"
+      },
+      {
+        "event_name": "Freeze Out NLH",
+        "event_number": "Event #2",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/11 - 2:00pm"
+      },
+      {
+        "event_name": "Mini Main Event",
+        "event_number": "Event #3 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $100K Gtd",
+        "date": "APR/11 - 6:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/11 - 7:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/12 - 10:00am"
+      },
+      {
+        "event_name": "Mini Main Event",
+        "event_number": "Event #3 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $100K Gtd",
+        "date": "APR/12 - 12:00pm"
+      },
+      {
+        "event_name": "Mini Main Event",
+        "event_number": "Event #3 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $100K Gtd",
+        "date": "APR/12 - 12:00pm"
+      },
+      {
+        "event_name": "Crazy Pineapple",
+        "event_number": "Event #4",
+        "buy_in": "",
+        "type": "NL Crazy Pineapple",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/12 - 4:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/12 - 7:00pm"
+      },
+      {
+        "event_name": "Satellite X5 Stack to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/13 - 10:00am"
+      },
+      {
+        "event_name": "Mini Main Event",
+        "event_number": "Event #3 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels $100K Gtd",
+        "date": "APR/13 - 12:00pm"
+      },
+      {
+        "event_name": "Ladies Event",
+        "event_number": "Event #5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/13 - 2:00pm"
+      },
+      {
+        "event_name": "Deep Stack",
+        "event_number": "Event #6",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/13 - 4:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/13 - 7:00pm"
+      },
+      {
+        "event_name": "Mini Main Event",
+        "event_number": "Event #3 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/14 - 11:00am"
+      },
+      {
+        "event_name": "Deep Stack",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/14 - 12:00pm"
+      },
+      {
+        "event_name": "Big O Hi/Lo",
+        "event_number": "Event #14",
+        "buy_in": "",
+        "type": "PL Big O Hi/Lo",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/14 - 2:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/14 - 6:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/15 - 10:00am"
+      },
+      {
+        "event_name": "Super Deep Stack",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels",
+        "date": "APR/15 - 11:00am"
+      },
+      {
+        "event_name": "Big Bag NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/15 - 5:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/15 - 7:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/16 - 9:00am"
+      },
+      {
+        "event_name": "Seniors (50+) Event",
+        "event_number": "Event #11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/16 - 11:00am"
+      },
+      {
+        "event_name": "Big Bag NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/16 - 5:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/16 - 7:00pm"
+      },
+      {
+        "event_name": "Satellite to any Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 15 min levels",
+        "date": "APR/17 - 10:00am"
+      },
+      {
+        "event_name": "Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/17 - 10:00am"
+      },
+      {
+        "event_name": "Big Bag NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/17 - 12:00pm"
+      },
+      {
+        "event_name": "Big Bag NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/17 - 5:00pm"
+      },
+      {
+        "event_name": "Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/17 - 7:00pm"
+      },
+      {
+        "event_name": "Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/18 - 10:00am"
+      },
+      {
+        "event_name": "PLO Big Bounty",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/18 - 12:00pm"
+      },
+      {
+        "event_name": "Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/18 - 1:00pm"
+      },
+      {
+        "event_name": "Super Stack",
+        "event_number": "Event #13",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 20 min levels",
+        "date": "APR/18 - 5:00pm"
+      },
+      {
+        "event_name": "Big Bag NLH",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/18 - 6:00pm"
+      },
+      {
+        "event_name": "Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/18 - 7:00pm"
+      },
+      {
+        "event_name": "Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/19 - 10:00am"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Event #14 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $150K Gtd",
+        "date": "APR/19 - 12:00pm"
+      },
+      {
+        "event_name": "Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/19 - 1:00pm"
+      },
+      {
+        "event_name": "Deep Stack",
+        "event_number": "Event #15",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 30 min levels",
+        "date": "APR/19 - 4:00pm"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Event #14 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $150K Gtd",
+        "date": "APR/19 - 5:00pm"
+      },
+      {
+        "event_name": "Satellite for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/19 - 7:00pm"
+      },
+      {
+        "event_name": "Satellite X8 Stack for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/20 - 10:00am"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Event #14 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $150K Gtd",
+        "date": "APR/20 - 12:00pm"
+      },
+      {
+        "event_name": "Satellite X8 Stack for Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "12,000 chips 20 min levels",
+        "date": "APR/20 - 1:00pm"
+      },
+      {
+        "event_name": "Super Stack",
+        "event_number": "Event #16",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 20 min levels",
+        "date": "APR/20 - 4:00pm"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Event #14 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $150K Gtd",
+        "date": "APR/20 - 5:00pm"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Event #14 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 12:00pm"
+      },
+      {
+        "event_name": "Progressive Bounty NLH",
+        "event_number": "Event #17",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "25,000 chips 30 min levels",
+        "date": "APR/21 - 1:00pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/Xv0hZsGw72H69wU"
   },
   {
     "name": "2023-24 WSOPC International-Cannes",
@@ -144,13 +4360,153 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/2023-24-wsopc-international-cannes-casino-barriere-cannes-le-croisette-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/EZ3qXUkWkggs9C4",
-    "event_name": "NLH (Online Only Event)",
-    "event_number": "Event #10 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": ""
+    "events": [
+      {
+        "event_name": "Gladiators of Poker Multi-Flight NLH",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "",
+        "date": "APR/12 - 2:00pm"
+      },
+      {
+        "event_name": "Gladiators of Poker Multi-Flight NLH",
+        "event_number": "Event #1 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "",
+        "date": "APR/12 - 3:00pm"
+      },
+      {
+        "event_name": "Mystery Bounty NLH",
+        "event_number": "Event #2 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 30/40 min levels",
+        "date": "APR/13 - 2:00pm"
+      },
+      {
+        "event_name": "Mystery Bounty NLH",
+        "event_number": "Event #2 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 30/40 min levels",
+        "date": "APR/13 - 7:00pm"
+      },
+      {
+        "event_name": "Monster Stack NLH",
+        "event_number": "Event #3",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "60,000 chips 40 min levels",
+        "date": "APR/14 - 2:00pm"
+      },
+      {
+        "event_name": "8-Max High Roller NLH",
+        "event_number": "Event #4",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 60 min levels",
+        "date": "APR/15 - 2:00pm"
+      },
+      {
+        "event_name": "Colossus NLH",
+        "event_number": "Event #5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "40,000 chips 30 min levels",
+        "date": "APR/16 - 2:00pm"
+      },
+      {
+        "event_name": "Progressive Knockout Bounty",
+        "event_number": "Event #6",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 30 min levels",
+        "date": "APR/17 - 3:00pm"
+      },
+      {
+        "event_name": "PLO 8-Max",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "PL Omaha",
+        "structure": "100,000 chips 30 min levels",
+        "date": "APR/17 - 6:00pm"
+      },
+      {
+        "event_name": "WSOPC Main Event",
+        "event_number": "Event #8 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 60 min levels",
+        "date": "APR/18 - 2:00pm"
+      },
+      {
+        "event_name": "WSOPC Main Event",
+        "event_number": "Event #8 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 60 min levels",
+        "date": "APR/19 - 2:00pm"
+      },
+      {
+        "event_name": "WSOPC Main Event",
+        "event_number": "Event #8 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 60 min levels",
+        "date": "APR/20 - 2:00pm"
+      },
+      {
+        "event_name": "WSOPC Main Event",
+        "event_number": "Event #8 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 60 min levels",
+        "date": "APR/20 - 8:00pm"
+      },
+      {
+        "event_name": "Mini Main Event",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 30 min levels",
+        "date": "APR/21 - 2:00pm"
+      },
+      {
+        "event_name": "NLH (Online Only Event)",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "",
+        "date": "APR/21 - 8:30pm"
+      },
+      {
+        "event_name": "High Roller Big Bounty",
+        "event_number": "Event #11",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "100,000 chips 40 min levels",
+        "date": "APR/22 - 3:00pm"
+      },
+      {
+        "event_name": "Ultra Stack NLH",
+        "event_number": "Event #12",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "80,000 chips 20/30 min levels",
+        "date": "APR/22 - 4:00pm"
+      },
+      {
+        "event_name": "NLH (Online Only Event)",
+        "event_number": "Event #10 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "",
+        "date": "APR/22 - 8:30pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/EZ3qXUkWkggs9C4"
   },
   {
     "name": "Hard Rock $200K Guaranteed Multi-Flight - April '24",
@@ -161,30 +4517,105 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/hard-rock-200k-guaranteed-multi-flight-april-24-hard-rock-cincinnati-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/JXlLdDEb15E-rQ9XOXoZog",
-    "event_name": "$200K Multi-Flight",
-    "event_number": "Restart ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
-  },
-  {
-    "name": "April 2024 Little Slick",
-    "place": "Seminole Hard Rock Tampa",
-    "date": "Apr 17, 2024 - Apr 21, 2024",
-    "count": "1 Event",
-    "location": "Tampa, FL",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/april-2024-little-slick-hard-rock-tampa-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/GHIcxarF9zn5o5g",
-    "event_name": "No Limit Hold'em",
-    "event_number": "Restart ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "events": [
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/12 - 11:15am"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/12 - 4:15pm"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/13 - 11:15am"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/13 - 4:15pm"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/14 - 11:15am"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/18 - 11:15am"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/18 - 4:15pm"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/19 - 11:15am"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/19 - 11:15am"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/20 - 11:15am"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $200K Gtd",
+        "date": "APR/20 - 4:15pm"
+      },
+      {
+        "event_name": "$200K Multi-Flight",
+        "event_number": "Restart ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 12:15pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/JXlLdDEb15E-rQ9XOXoZog"
   },
   {
     "name": "2024 Battle of the Bay",
@@ -195,47 +4626,73 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-battle-of-the-bay-lucky-chances-colma-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/LFve5H0iZ20m7kQ",
-    "event_name": "Main Event",
-    "event_number": "Restart ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
-  },
-  {
-    "name": "WPT Choctaw Championship",
-    "place": "Choctaw Casino Durant",
-    "date": "Apr 17, 2024 - May 6, 2024",
-    "count": "72 Events",
-    "location": "Durant, OK",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/wpt-choctaw-championship-choctaw-durant-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/g9g7hUwpPkbKJzo",
-    "event_name": "WPT $2 Million Championship",
-    "event_number": "Event #63 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
-  },
-  {
-    "name": "$200K Road to Riches - April '24",
-    "place": "Live! Casino Philadelphia",
-    "date": "Apr 17, 2024 - Apr 21, 2024",
-    "count": "1 Event",
-    "location": "Philadelphia, PA",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/200k-road-to-riches-april-24-live-casino-philadelphia-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9NrcfvA_P3LTJH6wX2yYiQ",
-    "event_name": "$200K Road to Riches",
-    "event_number": "Restart ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "events": [
+      {
+        "event_name": "Super Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips",
+        "date": "APR/5 - 9:30am"
+      },
+      {
+        "event_name": "Super Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips",
+        "date": "APR/7 - 9:30am"
+      },
+      {
+        "event_name": "Super Satellite",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "15,000 chips",
+        "date": "APR/12 - 9:30am"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels",
+        "date": "APR/17 - 9:30am"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels",
+        "date": "APR/18 - 9:30am"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels",
+        "date": "APR/19 - 9:30am"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Series Event ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels",
+        "date": "APR/20 - 9:30am"
+      },
+      {
+        "event_name": "Main Event",
+        "event_number": "Restart ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 10:00am"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/LFve5H0iZ20m7kQ"
   },
   {
     "name": "So Cal Spring Special 2024",
@@ -246,13 +4703,145 @@
     "phone": "",
     "hours": "",
     "link_detail": "/poker-tournament-series/so-cal-spring-special-2024-the-gardens-hawaiian-gardens-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/-nmlgf15U4VU0Bw",
-    "event_name": "Encore Main Event NLH",
-    "event_number": "Event #8 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "events": [
+      {
+        "event_name": "NLH Knockout Bounty",
+        "event_number": "Event #1",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $50K Gtd",
+        "date": "APR/17 - 11:00am"
+      },
+      {
+        "event_name": "Milestone Mystery Bounty Mega Satellite to $200K Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $5.5K Gtd",
+        "date": "APR/17 - 5:00pm"
+      },
+      {
+        "event_name": "Monster Stack Turbo NLH",
+        "event_number": "Event #2",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 20 min levels $30K Gtd",
+        "date": "APR/18 - 11:00am"
+      },
+      {
+        "event_name": "Milestone Mystery Bounty Mega Satellite to $200K Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $11K Gtd",
+        "date": "APR/18 - 5:00pm"
+      },
+      {
+        "event_name": "Main Event NLH",
+        "event_number": "Event #3 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $200K Gtd",
+        "date": "APR/19 - 11:00am"
+      },
+      {
+        "event_name": "Milestone Mystery Bounty Mega Satellite to $200K Main Event",
+        "event_number": "Satellite",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "20,000 chips 20 min levels $11K Gtd",
+        "date": "APR/19 - 5:00pm"
+      },
+      {
+        "event_name": "Main Event NLH",
+        "event_number": "Event #3 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $200K Gtd",
+        "date": "APR/20 - 11:00am"
+      },
+      {
+        "event_name": "NLH Progressive Knockout Bounty",
+        "event_number": "Event #4",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $50K Gtd",
+        "date": "APR/21 - 11:00am"
+      },
+      {
+        "event_name": "Main Event NLH",
+        "event_number": "Event #3 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "APR/21 - 12:00pm"
+      },
+      {
+        "event_name": "NLH Deepstack (Encore)",
+        "event_number": "Event #5",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $50K Gtd",
+        "date": "APR/26 - 11:00am"
+      },
+      {
+        "event_name": "NLH Deepstack (Encore)",
+        "event_number": "Event #6",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $100K Gtd",
+        "date": "APR/27 - 11:00am"
+      },
+      {
+        "event_name": "Knockout Bounty NLH (Encore)",
+        "event_number": "Event #7",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $50K Gtd",
+        "date": "APR/28 - 11:00am"
+      },
+      {
+        "event_name": "Encore Main Event NLH",
+        "event_number": "Event #8 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $200K Gtd",
+        "date": "MAY/3 - 11:00am"
+      },
+      {
+        "event_name": "Monster Stack Turbo NLH (Encore)",
+        "event_number": "Event #9",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "50,000 chips 20 min levels $30K Gtd",
+        "date": "MAY/3 - 5:00pm"
+      },
+      {
+        "event_name": "Encore Main Event NLH",
+        "event_number": "Event #8 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 40 min levels $200K Gtd",
+        "date": "MAY/4 - 11:00am"
+      },
+      {
+        "event_name": "Super Bounty NLH (Encore)",
+        "event_number": "Event #10",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "30,000 chips 30 min levels $50K Gtd",
+        "date": "MAY/5 - 11:00am"
+      },
+      {
+        "event_name": "Encore Main Event NLH",
+        "event_number": "Event #8 ",
+        "buy_in": "",
+        "type": "NL Holdem",
+        "structure": "Re-start",
+        "date": "MAY/5 - 12:00pm"
+      }
+    ],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/-nmlgf15U4VU0Bw"
   },
   {
     "name": "Moneymaker Poker Tour Daytona Beach",
@@ -264,12 +4853,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/moneymaker-poker-tour-daytona-beach-daytona-beach-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/VLD_AbAz3kYByLPGv24saw",
-    "event_name": "No Limit Hold'em Main Event",
-    "event_number": "Event #10 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/VLD_AbAz3kYByLPGv24saw"
   },
   {
     "name": "$200K Guaranteed Multi-Flight - April '24",
@@ -281,12 +4865,43 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/200k-guaranteed-multi-flight-april-24-mgm-national-oxon-hill-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/G4HkO5JCZZ65uAk",
-    "event_name": "$200K Multi-Flight",
-    "event_number": "Restart ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/G4HkO5JCZZ65uAk"
+  },
+  {
+    "name": "April 2024 Little Slick",
+    "place": "Seminole Hard Rock Tampa",
+    "date": "Apr 17, 2024 - Apr 21, 2024",
+    "count": "1 Event",
+    "location": "Tampa, FL",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/april-2024-little-slick-hard-rock-tampa-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/GHIcxarF9zn5o5g"
+  },
+  {
+    "name": "WPT Choctaw Championship",
+    "place": "Choctaw Casino Durant",
+    "date": "Apr 17, 2024 - May 6, 2024",
+    "count": "72 Events",
+    "location": "Durant, OK",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/wpt-choctaw-championship-choctaw-durant-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/g9g7hUwpPkbKJzo"
+  },
+  {
+    "name": "$200K Road to Riches - April '24",
+    "place": "Live! Casino Philadelphia",
+    "date": "Apr 17, 2024 - Apr 21, 2024",
+    "count": "1 Event",
+    "location": "Philadelphia, PA",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/200k-road-to-riches-april-24-live-casino-philadelphia-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9NrcfvA_P3LTJH6wX2yYiQ"
   },
   {
     "name": "WPT Prime Gold Coast Championship",
@@ -298,12 +4913,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wpt-prime-gold-coast-championship-star-casino-gold-coast-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/BF3cf_x_rQSJy_s",
-    "event_name": "WPT Prime Main Event",
-    "event_number": "Restart ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/BF3cf_x_rQSJy_s"
   },
   {
     "name": "MSPT '24 Showdown Series - Minneapolis",
@@ -315,29 +4925,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/mspt-24-showdown-series-minneapolis-running-aces-forest-lake-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/XhrsJbdPYrtYGsnBgrb0dQ",
-    "event_name": "Last Dance NLH",
-    "event_number": "Event #16",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "12,000 chips 20 min levels"
-  },
-  {
-    "name": "2023-24 WSOP Circuit Event (Tunica-Spring)",
-    "place": "Horseshoe Casino Tunica",
-    "date": "Apr 18, 2024 - Apr 29, 2024",
-    "count": "17 Events",
-    "location": "Robinsonville, MS",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/2023-24-wsop-circuit-event-tunica-spring-horseshoe-tunica-robinsonville-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/pzoiUrOeiqdM6wg",
-    "event_name": "Double Stack Closer",
-    "event_number": "Event #17",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "$25K Gtd"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/XhrsJbdPYrtYGsnBgrb0dQ"
   },
   {
     "name": "Bounty Series - April '24",
@@ -349,12 +4937,19 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/bounty-series-april-24-rivers-philadelphia-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9XNMb5PFutTpfcU",
-    "event_name": "Mystery Bounty NLH",
-    "event_number": "Event #3",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "30,000 chips 20 min levels $15K Gtd"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9XNMb5PFutTpfcU"
+  },
+  {
+    "name": "2023-24 WSOP Circuit Event (Tunica-Spring)",
+    "place": "Horseshoe Casino Tunica",
+    "date": "Apr 18, 2024 - Apr 29, 2024",
+    "count": "17 Events",
+    "location": "Robinsonville, MS",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/2023-24-wsop-circuit-event-tunica-spring-horseshoe-tunica-robinsonville-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/pzoiUrOeiqdM6wg"
   },
   {
     "name": "2024 Getaway Classic",
@@ -366,12 +4961,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-getaway-classic-talking-stick-resort-scottsdale-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/H2ge2sgcpotc-nw",
-    "event_name": "No Limit Hold'em Bounty",
-    "event_number": "Series Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "20,000 chips 30 min levels"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/H2ge2sgcpotc-nw"
   },
   {
     "name": "2024 Destination RunGood Iowa",
@@ -383,12 +4973,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-destination-rungood-iowa-horseshoe-casino-council-bluffs-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/w12SpmcHMXoFbGk",
-    "event_name": "Last Chance NLH Ring Event",
-    "event_number": "Series Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "20,000 chips 30 min levels"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/w12SpmcHMXoFbGk"
   },
   {
     "name": "2024 Destination RunGood Reno",
@@ -400,63 +4985,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-destination-rungood-reno-atlantis-casino-reno-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/xFsmYUSMbIfNNsE",
-    "event_name": "NLH Tag Team",
-    "event_number": "Series Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "20,000 chips 20 min levels"
-  },
-  {
-    "name": "2024 April Big Stack Special",
-    "place": "Seminole Hard Rock Hollywood",
-    "date": "Apr 24, 2024 - Apr 28, 2024",
-    "count": "1 Event",
-    "location": "Ft. Lauderdale, FL",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/2024-april-big-stack-special-hard-rock-hollywood-ft-lauderdale-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/AyLd5iUIu3EqNak",
-    "event_name": "No Limit Hold'em Big Stack",
-    "event_number": "Restart ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
-  },
-  {
-    "name": "$200K Live! Megastacks - April '24",
-    "place": "Live! Casino Philadelphia",
-    "date": "Apr 24, 2024 - Apr 28, 2024",
-    "count": "1 Event",
-    "location": "Philadelphia, PA",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/200k-live-megastacks-april-24-live-casino-philadelphia-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9NrcfvA_P3LTJH6wX2yYiQ",
-    "event_name": "$200K Live! Megastacks",
-    "event_number": "Series Event ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "40,000 chips 30/40 min levels $200K Gtd"
-  },
-  {
-    "name": "2024 PGT Texas Poker Open",
-    "place": "Champions Club",
-    "date": "Apr 24, 2024 - May 5, 2024",
-    "count": "17 Events",
-    "location": "Houston, TX",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/2024-pgt-texas-poker-open-champions-club-houston-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/yIe-kP8lglKhNXNLXpUXng",
-    "event_name": "150K GTD Multi-Flight Day 2",
-    "event_number": "Side Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "30,000 chips 30 min levels $150K Gtd"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/xFsmYUSMbIfNNsE"
   },
   {
     "name": "$100K GTD GutShot Poker Open",
@@ -468,12 +4997,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/100k-gtd-gutshot-poker-open-ocalabets-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/uJNSZrL76q8Pilcz8dI_Hg",
-    "event_name": "100K GutShot Poker Open DAY 2",
-    "event_number": "Event #1 DAY 2",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/uJNSZrL76q8Pilcz8dI_Hg"
   },
   {
     "name": "Emerald Valley Poker Classic 2024",
@@ -485,12 +5009,43 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/emerald-valley-poker-classic-2024-high-mountain-eugene-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/sAOizvVqOYfUWWo",
-    "event_name": "The Main Event",
-    "event_number": "Restart ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/sAOizvVqOYfUWWo"
+  },
+  {
+    "name": "2024 April Big Stack Special",
+    "place": "Seminole Hard Rock Hollywood",
+    "date": "Apr 24, 2024 - Apr 28, 2024",
+    "count": "1 Event",
+    "location": "Ft. Lauderdale, FL",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/2024-april-big-stack-special-hard-rock-hollywood-ft-lauderdale-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/AyLd5iUIu3EqNak"
+  },
+  {
+    "name": "$200K Live! Megastacks - April '24",
+    "place": "Live! Casino Philadelphia",
+    "date": "Apr 24, 2024 - Apr 28, 2024",
+    "count": "1 Event",
+    "location": "Philadelphia, PA",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/200k-live-megastacks-april-24-live-casino-philadelphia-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/9NrcfvA_P3LTJH6wX2yYiQ"
+  },
+  {
+    "name": "2024 PGT Texas Poker Open",
+    "place": "Champions Club",
+    "date": "Apr 24, 2024 - May 5, 2024",
+    "count": "17 Events",
+    "location": "Houston, TX",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/2024-pgt-texas-poker-open-champions-club-houston-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/yIe-kP8lglKhNXNLXpUXng"
   },
   {
     "name": "April 10K GTD Ring Event",
@@ -502,12 +5057,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/april-10k-gtd-ring-event-tri-state-social-henderson-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/3KlMcDNRNxbdW7G-bf6jEw",
-    "event_name": "April 10K GTD Ring Event Day 2",
-    "event_number": "Event #4",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "30,000 chips 30 min levels $10K Gtd"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/3KlMcDNRNxbdW7G-bf6jEw"
   },
   {
     "name": "MSPT Spring Showdown Series 2024",
@@ -519,12 +5069,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/mspt-spring-showdown-series-2024-sycuan-casino-el-cajon-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/_r4BaG0GO_-IqiQ",
-    "event_name": "Last Chance NLH",
-    "event_number": "Event #18",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "12,000 chips 20 min levels"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/_r4BaG0GO_-IqiQ"
   },
   {
     "name": "Queen City Bounty Series '24",
@@ -536,12 +5081,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/queen-city-bounty-series-24-hard-rock-cincinnati-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/JXlLdDEb15E-rQ9XOXoZog",
-    "event_name": "All-In Or Fold Progressive Black Chip Bounty",
-    "event_number": "Event #12",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "30,000 chips 20 min levels $10K Gtd"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/JXlLdDEb15E-rQ9XOXoZog"
   },
   {
     "name": "The Live! Cup 3 (Pittsburgh Day 1s)",
@@ -553,29 +5093,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/the-live-cup-3-pittsburgh-day-1s-live-casino-pittsburgh-greensburg-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/XQn2YIAFBw4cpE1KOoPi8A",
-    "event_name": "Live! Cup 3 (Pittsburgh Day 1s)",
-    "event_number": "Series Event ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "30,000 chips 25/40 min levels $1MM Gtd"
-  },
-  {
-    "name": "Borgata Spring Poker Open '24",
-    "place": "Borgata Hotel Casino &amp; Spa",
-    "date": "Apr 29, 2024 - May 14, 2024",
-    "count": "33 Events",
-    "location": "Atlantic City, NJ",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/borgata-spring-poker-open-24-borgata-atlantic-city-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/KGQBrSf5dluDciw",
-    "event_name": "Borgata Spring Poker Open Main Event",
-    "event_number": "Event #19 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/XQn2YIAFBw4cpE1KOoPi8A"
   },
   {
     "name": "Seminole Spring Series",
@@ -587,12 +5105,19 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/seminole-spring-series-seminole-coconut-crk-coconut-creek-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/OyHVGUBl4Ab-DxM",
-    "event_name": "No Limit Hold'em",
-    "event_number": "Series Event ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "20,000 chips 20 min levels $100K Gtd"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/OyHVGUBl4Ab-DxM"
+  },
+  {
+    "name": "Borgata Spring Poker Open '24",
+    "place": "Borgata Hotel Casino &amp; Spa",
+    "date": "Apr 29, 2024 - May 14, 2024",
+    "count": "33 Events",
+    "location": "Atlantic City, NJ",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/borgata-spring-poker-open-24-borgata-atlantic-city-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/KGQBrSf5dluDciw"
   },
   {
     "name": "2024 Destination RunGood St. Louis",
@@ -604,12 +5129,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-destination-rungood-st-louis-hollywood-st-louis-maryland-heights-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/wftAhNEr-2rdKlg",
-    "event_name": "Closer NLH Ring Event",
-    "event_number": "Series Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "20,000 chips 20 min levels"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/wftAhNEr-2rdKlg"
   },
   {
     "name": "WSOP Circuit Calgary 2024",
@@ -621,12 +5141,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wsop-circuit-calgary-2024-deerfoot-casino-calgary-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/_1LJ_pDcGH9AwdYosuLEow",
-    "event_name": "Big 30 Stack NLH",
-    "event_number": "Event #16",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "30,000 chips 20 min levels"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/_1LJ_pDcGH9AwdYosuLEow"
   },
   {
     "name": "2024 Colorado Spring Poker Championship",
@@ -638,46 +5153,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-colorado-spring-poker-championship-ballys-black-hawk-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/sk2gSsQGfZHoT79yhVKM-w",
-    "event_name": "High Roller",
-    "event_number": "Series Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "40,000 chips 40 min levels"
-  },
-  {
-    "name": "2023-24 WSOP Circuit Event (North Carolina-Spring)",
-    "place": "Harrah's Cherokee",
-    "date": "May 2, 2024 - May 13, 2024",
-    "count": "20 Events",
-    "location": "Cherokee, NC",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/2023-24-wsop-circuit-event-north-carolina-spring-harrahs-cherokee-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/NDoMwjRfYDVty1o",
-    "event_name": "Last Chance NLH",
-    "event_number": "Side Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "50,000 chips 20 min levels"
-  },
-  {
-    "name": "2024 Destination RunGood Bay Area",
-    "place": "Graton Resort &amp; Casino",
-    "date": "May 2, 2024 - May 12, 2024",
-    "count": "18 Events",
-    "location": "Rohnert Park, CA",
-    "phone": "",
-    "hours": "",
-    "link_detail": "/poker-tournament-series/2024-destination-rungood-bay-area-graton-casino-rohnert-park-2024",
-    "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/3mV-CHVTajuMCQE",
-    "event_name": "Super Satellite into WSOP Main Event",
-    "event_number": "Satellite",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "10,000 chips 20 min levels"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/sk2gSsQGfZHoT79yhVKM-w"
   },
   {
     "name": "Moneymaker Poker Tour Palm Beach May 2024",
@@ -689,29 +5165,31 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/moneymaker-poker-tour-palm-beach-may-2024-palm-beach-kc-west-palm-beach-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/hSdRTNoox7nOhA26-P7smA",
-    "event_name": "Deep Stack",
-    "event_number": "Event #26 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/hSdRTNoox7nOhA26-P7smA"
   },
   {
-    "name": "MSPT '24 Cleveland-Spring",
-    "place": "JACK Cleveland Casino",
-    "date": "May 3, 2024 - May 12, 2024",
-    "count": "4 Events",
-    "location": "Cleveland, OH",
+    "name": "2024 Destination RunGood Bay Area",
+    "place": "Graton Resort &amp; Casino",
+    "date": "May 2, 2024 - May 12, 2024",
+    "count": "18 Events",
+    "location": "Rohnert Park, CA",
     "phone": "",
     "hours": "",
-    "link_detail": "/poker-tournament-series/mspt-24-cleveland-spring-jack-cleveland-2024",
+    "link_detail": "/poker-tournament-series/2024-destination-rungood-bay-area-graton-casino-rohnert-park-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/kTBWN_9a578LwqA",
-    "event_name": "PLO 8-Max",
-    "event_number": "Event #4",
-    "buy_in": "",
-    "type": "PL Omaha",
-    "structure": "30,000 chips 30 min levels $50K Gtd"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/3mV-CHVTajuMCQE"
+  },
+  {
+    "name": "2023-24 WSOP Circuit Event (North Carolina-Spring)",
+    "place": "Harrah's Cherokee",
+    "date": "May 2, 2024 - May 13, 2024",
+    "count": "20 Events",
+    "location": "Cherokee, NC",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/2023-24-wsop-circuit-event-north-carolina-spring-harrahs-cherokee-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/NDoMwjRfYDVty1o"
   },
   {
     "name": "2023-24 WSOPC International-Netherlands",
@@ -723,12 +5201,19 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2023-24-wsopc-international-netherlands-holland-casino-venlo-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/S8hWiapPCzKGOU0",
-    "event_name": "WSOPC Main Event",
-    "event_number": "Event #3 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/S8hWiapPCzKGOU0"
+  },
+  {
+    "name": "MSPT '24 Cleveland-Spring",
+    "place": "JACK Cleveland Casino",
+    "date": "May 3, 2024 - May 12, 2024",
+    "count": "4 Events",
+    "location": "Cleveland, OH",
+    "phone": "",
+    "hours": "",
+    "link_detail": "/poker-tournament-series/mspt-24-cleveland-spring-jack-cleveland-2024",
+    "events": [],
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/kTBWN_9a578LwqA"
   },
   {
     "name": "Portland Meadows Spring Classic",
@@ -740,12 +5225,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/portland-meadows-spring-classic-portland-meadows-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/2nl7aJUG-SF6DUQ",
-    "event_name": "NLH Turbo The Closer",
-    "event_number": "Series Event",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "20,000 chips 15 min levels"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/2nl7aJUG-SF6DUQ"
   },
   {
     "name": "2024 Spring Championship Series",
@@ -757,12 +5237,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2024-spring-championship-series-canterbury-park-shakopee-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/6N7rHqdGXhtTjH0",
-    "event_name": "Double Stack NLH",
-    "event_number": "Event #8",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "20,000 chips 20 min levels"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/6N7rHqdGXhtTjH0"
   },
   {
     "name": "2023-24 WSOP Circuit Event (Louisville)",
@@ -774,12 +5249,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/2023-24-wsop-circuit-event-louisville-caesars-s-indiana-elizabeth-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/k0zsSRpnYNN0LFk",
-    "event_name": "WSOPC Main Event NLH",
-    "event_number": "Event #11 ",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "Re-start"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/k0zsSRpnYNN0LFk"
   },
   {
     "name": "WPT Montreal May 2024",
@@ -791,12 +5261,7 @@
     "hours": "",
     "link_detail": "/poker-tournament-series/wpt-montreal-may-2024-playground-poker-kahnawake-2024",
     "events": [],
-    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/QQwv0KS0-WjwkMA",
-    "event_name": "#14 $400 Mystery Bounty",
-    "event_number": "Event #14",
-    "buy_in": "",
-    "type": "NL Holdem",
-    "structure": "20,000 chips 30 min levels $40K Gtd"
+    "image": "https://pokeratlas-images-production.s3.amazonaws.com/venues/images/QQwv0KS0-WjwkMA"
   },
   {
     "name": "2023-24 WSOP Circuit Event (Los Angeles)",

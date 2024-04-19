@@ -564,6 +564,7 @@ async function pokeratlasInfo(page, config) {
                         //restaurant["events"].push(tempData)
 
                         const other_details = await newPage.evaluate(async () => {
+                            let listEvents = []
                             let tempData = {
                                 event_name: "",
                                 event_number: "",
@@ -613,15 +614,15 @@ async function pokeratlasInfo(page, config) {
                                     tempData["structure"] = descriptions[n].querySelector("[class=\"structure-info\"]") ? descriptions[n].querySelector("[class=\"structure-info\"]").innerText : "";
                                     tempData["date"] = descriptions[n].querySelector("[class=\"date\"]") ? descriptions[n].querySelector("[class=\"month\"]").innerText + "/" + descriptions[n].querySelector("[class=\"day\"]").innerText+" - "+  descriptions[n].querySelector("[class=\"hour\"]").innerText : "";
 
-                                    restaurant["events"].push(tempData)
+                                    listEvents.push(tempData)
                                 }
                                 console.log(tempData)
-                                return tempData;
+                                //return tempData;
                             }
-                            //return;
+                            return listEvents;
                         });
 
-                        scrape[contador] = { ...restaurant };
+                        scrape[contador] = { ...restaurant, events: other_details };
                         await newPage.close();
                     } catch (err4) {
                         console.log("error: ", err4)
