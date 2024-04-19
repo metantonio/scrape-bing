@@ -426,7 +426,7 @@ async function pokeratlasInfo(page, config) {
                 const cards = Array.from(document.querySelectorAll(".series-list-item"));
 
                 for (const card of cards) {
-                    const restaurant = {
+                    let restaurant = {
                         name: '',
                         place: '',
                         date: '',
@@ -441,10 +441,10 @@ async function pokeratlasInfo(page, config) {
                     const title = card.querySelector("[class=\"series-meta\"]");
                     if (title) {
                         const detail_0 = card.querySelector(".title");
-                        restaurant["name"] = detail_0.innerHTML;
+                        restaurant["name"] = detail_0.innerHTML.trim();
 
                         const detail_a = card.querySelector(".venue");
-                        if (detail_a) restaurant["place"] = detail_a.innerHTML;
+                        if (detail_a) restaurant["place"] = detail_a.innerHTML.trim();
 
                         const detail_b = card.querySelector(".date");
                         if (detail_b) restaurant["date"] = detail_b.innerText;
@@ -453,7 +453,7 @@ async function pokeratlasInfo(page, config) {
                         if (detail_c) restaurant["count"] = detail_c.innerHTML;
 
                         const detail_1 = card.querySelector(".location");
-                        if (detail_1) restaurant["location"] = detail_1.innerHTML;
+                        if (detail_1) restaurant["location"] = detail_1.innerHTML.trim();
 
                         const detail_img = card.querySelector("img");
                         if (detail_img) {
@@ -519,10 +519,10 @@ async function pokeratlasInfo(page, config) {
 
                                     restaurant["events"].push(tempData)
                                 }
-
+                                print(tempData)
                                 return temp_data;
                             }
-                            return {};
+                            return;
                         });
 
                         scrape[contador] = { ...restaurant, ...other_details };
@@ -536,9 +536,9 @@ async function pokeratlasInfo(page, config) {
             }
 
             //console.log('scrape: ', scrape);
-            const dataJSON = JSON.stringify(scrape, null, 2);
-
-            fs.writeFile(`${ruta}/${scrape[0]["name"]}.json`, dataJSON, 'utf8', (err) => {
+            let dataJSON = JSON.stringify(scrape, null, 2);
+            console.log("file name: ",`${scrape[0]["name"].trim()}.json`)
+            fs.writeFile(`${ruta}/${scrape[0]["name"].trim()}.json`, dataJSON, 'utf8', (err) => {
                 if (err) {
                     console.error('Error al escribir el archivo JSON:', err);
                 } else {
