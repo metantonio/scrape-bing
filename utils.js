@@ -416,6 +416,9 @@ async function pokeratlasInfo(page, config) {
         try {
             //console.log("MGMgoIn function");
             await page.goto(url[k]);
+            await page.waitForSelector("[class=\"modal-close\"]")
+            const dmButton = await page.$("[class=\"modal-close\"]")
+            await dmButton.click();
             await page.waitForSelector("[class=\"series-list-item\"]", { visible: true, timeout: 5000 });
 
             const scrape = await page.evaluate(() => {
@@ -535,7 +538,7 @@ async function pokeratlasInfo(page, config) {
             //console.log('scrape: ', scrape);
             const dataJSON = JSON.stringify(scrape, null, 2);
 
-            fs.writeFile(`${ruta}/${scrape[0]["hotel"]}.json`, dataJSON, 'utf8', (err) => {
+            fs.writeFile(`${ruta}/${scrape[0]["name"]}.json`, dataJSON, 'utf8', (err) => {
                 if (err) {
                     console.error('Error al escribir el archivo JSON:', err);
                 } else {
@@ -635,5 +638,6 @@ module.exports = {
     sendTwitterPost,
     limitarLongitud,
     mgmgoin,
-    tracks
+    tracks,
+    pokeratlasInfo
 }
