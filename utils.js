@@ -419,7 +419,7 @@ async function pokeratlasInfo(page, config) {
             await page.waitForSelector("[class=\"modal-close\"]")
             const dmButton = await page.$("[class=\"modal-close\"]")
             await dmButton.click();
-            await page.waitForSelector("[class=\"series-list-item\"]", { visible: true, timeout: 5000 });
+            await page.waitForSelector("[class=\" cds-itemu series-list-item\"]", { visible: true, timeout: 5000 });
 
             const scrape = await page.evaluate(() => {
                 const restaurants = [];
