@@ -23,3 +23,10 @@ node tracks.js tracks
 ```
 
 ## Scraping nerby restaurant from Bing Maps (in development)
+
+## Scraping Poker Atlas
+
+### Run Code
+```bash
+node pokeratlas.js pokeratlas
+```
