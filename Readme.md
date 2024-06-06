@@ -30,3 +30,10 @@ node tracks.js tracks
 ```bash
 node pokeratlas.js pokeratlas
 ```
+
+## Scraping Powerball
+
+### Run Code
+```bash
+node powerball.js powerball
+```
