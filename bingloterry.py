@@ -125,7 +125,7 @@ time.sleep(5)
 driver.quit()
 
 # Elimina filas duplicadas basadas en 'Store_Name' y 'Detail'
-df_results = df_results.drop_duplicates(subset=['Name', 'Detail'])
+df_results = df_results.drop_duplicates(subset=['Detail'])
 
 # Guarda los cambios en el Excel file
 df_results.to_csv(file_path_results, index=False)
