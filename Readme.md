@@ -37,3 +37,13 @@ node pokeratlas.js pokeratlas
 ```bash
 node powerball.js powerball
 ```
+
+# Scrapping Loterry Retailers with Bing:
+
+You should add the search "keyword" and city, at **bingloterry.csv**
+
+```bash
+python bingloterry.py
+```
+
+You will obtain the results at **bingloterry_results.csv**
