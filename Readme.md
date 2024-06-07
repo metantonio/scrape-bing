@@ -38,9 +38,13 @@ node pokeratlas.js pokeratlas
 node powerball.js powerball
 ```
 
-# Scrapping Loterry Retailers with Bing:
+# Scrapping Loterry Retailers with Bing and Python:
 
 You should add the search "keyword" and city, at **bingloterry.csv**
+
+```bash
+pip install bs4 pandas selenium
+```
 
 ```bash
 python bingloterry.py
