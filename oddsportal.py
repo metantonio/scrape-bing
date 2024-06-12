@@ -103,7 +103,7 @@ try:
             df.to_csv(file_path2, index=False)           
 
     print(data)
-
+    print("len: ",len(data))
 
 except Exception as error:
     print("Error browsing: ", str(error))
