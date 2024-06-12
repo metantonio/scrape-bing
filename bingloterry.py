@@ -1,5 +1,5 @@
-import pandas as pd
-from selenium import webdriver
+import pandas as pd #pip install pandas
+from selenium import webdriver #pip install selenium
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
 from selenium.webdriver.common.by import By
