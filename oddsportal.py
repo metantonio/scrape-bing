@@ -54,14 +54,20 @@ try:
     
     if child_divs:
         internal_divs = child_divs.find_all("div", recursive=False)
+        date=""
         for internal_div in internal_divs:
+
             # iterate over the children looking for the class "bg-gray-light" (bootstrap) because contains the date
-            gray_light_div = internal_div.find("div", class_=lambda x: x and "bg-gray-light" in x.split())
+            gray_light_div = internal_div.find("div", class_=lambda x: x and "bg-gray-light" in x.split())            
             if gray_light_div:
                 date_div = gray_light_div.find("div", recursive=False)
                 #print(gray_light_div)
                 date = date_div.text.strip()  # Suponiendo que la fecha está en texto plano dentro del div
-                data.append(date)
+                #data.append(date)
+
+            # iterate over the children looking for the class "hover:bg-[#f9e9cc]" because it contains the remaining data
+
+            
 
     print(data)
 
