@@ -52,3 +52,13 @@ python bingloterry.py
 ```
 
 You will obtain the results at **bingloterry_results.csv**
+
+# Scrapping MLS betting odd with Bing and Python:
+
+```bash
+pip install bs4 pandas selenium
+```
+
+```bash
+python oddsportal.py
+```
