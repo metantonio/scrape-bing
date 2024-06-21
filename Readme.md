@@ -72,7 +72,6 @@ You will obtain the results at **bingloterry_results.csv**
 - [MLS odds](https://www.oddsportal.com/football/usa/mls/)
 
 
-
 ```bash
 pip install bs4 pandas selenium
 ```
