@@ -1,7 +1,8 @@
 # Bot to Scrape simulating navigation with Chrome browser (with Node) and Edge Browser (with Python)
 
 Some websites uses anti-scrape techniques, and the only way to scrape data is simulating navigation.
-microsoft edge driver, if dont have download it from https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/?form=MA13LH#downloads
+
+Microsoft edge driver, if dont have download it from https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/?form=MA13LH#downloads
 
 ## Scraping from Vegas Restaurants from MGM Resorts
 
@@ -9,6 +10,9 @@ microsoft edge driver, if dont have download it from https://developer.microsoft
 - [MGM Resort](https://www.mgmresorts.com/)
 
 ### Run Code
+
+For node scripts, please adjust the **Chrome browser path at utils.js and powerball_utils.js**
+
 ```bash
 node mgm.js mgm
 ```
@@ -19,6 +23,9 @@ node mgm.js mgm
 - [Twinspires](https://www.twinspires.com/edge/racing/tracks/belmont-park/)
 
 ### Run Code
+
+For node scripts, please adjust the **Chrome browser path at utils.js and powerball_utils.js**
+
 ```bash
 node tracks.js tracks
 ```
@@ -28,6 +35,9 @@ node tracks.js tracks
 ## Scraping Poker Atlas
 
 ### Run Code
+
+For node scripts, please adjust the **Chrome browser path at utils.js and powerball_utils.js**
+
 ```bash
 node pokeratlas.js pokeratlas
 ```
@@ -35,6 +45,9 @@ node pokeratlas.js pokeratlas
 ## Scraping Powerball
 
 ### Run Code
+
+For node scripts, please adjust the **Chrome browser path at utils.js and powerball_utils.js**
+
 ```bash
 node powerball.js powerball
 ```
