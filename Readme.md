@@ -1,4 +1,4 @@
-# Bot to Scrape simulating navigation with Chrome browser
+# Bot to Scrape simulating navigation with Chrome browser (with Node) and Edge Browser (with Python)
 
 Some websites uses anti-scrape techniques, and the only way to scrape data is simulating navigation.
 microsoft edge driver, if dont have download it from https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/?form=MA13LH#downloads
