@@ -68,6 +68,11 @@ You will obtain the results at **bingloterry_results.csv**
 
 # Scrapping MLS betting odd with Bing and Python:
 
+### Website
+- [MLS odds](https://www.oddsportal.com/football/usa/mls/)
+
+
+
 ```bash
 pip install bs4 pandas selenium
 ```
