@@ -18,43 +18,41 @@ options = Options()
 options.binary_location = r".\msedgedriver.exe"
 driver = webdriver.Edge()
 
-# Abre Excel file
+# open Excel file
 file_path = r".\bingloterry.csv"
 file_path_results = r".\bingloterry_results.csv"
 df = pd.read_csv(file_path)
 df_results = pd.read_csv(file_path_results)
 
-# Crea una nueva columna para las direcciones
+# Create a new column that will be used for address
 df["AG"] = ""
 
-# Itera a través de las filas del DataFrame
+# loop each row of the Dataframe
 for index, row in df.iterrows():
     name = row["Search"]
-    # new_latitude = row['Latitude']
-    # new_longitude = row['Longitude']
     state = row["State"]
     city = row["City"]
     checked = row["found"]
     if checked != "true":
-        # Abre Google Maps y busca el casino
+        # Open google Maps and try to find the keyword and the state
         url = f"https://www.google.com/maps/search/{name}+{state}"
         driver.get(url)
 
-        # Espera a que la página cargue completamente (puedes ajustar el tiempo si es necesario)
+        # Wait until the website is loaded (you can adjust this value in seconds)
         driver.implicitly_wait(10)
 
         current_url_before_click = driver.current_url
 
-        # Hacer clic en cualquier parte de la pantalla (por ejemplo, el centro)
+        # It will make a click in the screen (normal thing to do when scraping with browsers)
         driver.find_element(By.TAG_NAME, "body").click()
 
-        # Espera un momento para que ocurra la interacción y la nueva URL se cargue
-        time.sleep(2)  # Ajusta el tiempo según sea necesario
+        # wait for the interaction of the previous click
+        time.sleep(2)
 
-        # Obtén la nueva URL actual después de hacer clic
+        # Obtain the new URL after the click was made (some website change it)
         current_url_after_click = driver.current_url
 
-        # Compara las URLs para asegurarte de que haya cambiado
+        # Compare URLs
         if current_url_before_click != current_url_after_click:
             # La URL ha cambiado, puedes imprimir o usar current_url_after_click como lo necesites
             # print("Nueva URL:", current_url_after_click)
@@ -63,41 +61,41 @@ for index, row in df.iterrows():
             current_url = current_url_after_click
             # print("La URL no ha cambiado después de hacer clic")
         try:
-            # Esperar un breve momento para que se copie la dirección en el portapapeles (ajusta según sea necesario)
+            # Start the webscraping process
             time.sleep(2)
             current_url = driver.current_url
-            print("current_url: ", current_url)
+            print("current_url: ", current_url) # The current URL where we gonna start the scraping
             # print(current_url)
             time.sleep(1)
             # .fontHeadlineSmall #Contiene los nombres de las tiendas de loterry
             # .section-subtitle-extension #el 2do  div hermano contiene la información de dirección
 
-            # Extrae el contenido de la página
+            # Extract website's content
             page_source = driver.page_source
             page_soup = soup(page_source, "html.parser")
 
-            # Encuentra los nombres de las tiendas
+            # Find names of items, on google maps use to be in the class .fontHeadlineSmall
             store_names = [
                 store.get_text()
                 for store in page_soup.find_all("div", class_="fontHeadlineSmall")
             ]
 
-            # Encuentra las direcciones
+            # Find addresses
             address_elements = page_soup.find_all(
                 "div", class_="section-subtitle-extension"
             )
             addresses = []
             for element in address_elements:
-                # Obtiene dos divs hermanos después del actual
+                # Need more information that are in siblings div of addresses divs
                 sibling = element.find_next_siblings("div", limit=2)
                 if len(sibling) >= 2:
-                    address = sibling[1].get_text() + " "  # Segundo hermano
+                    address = sibling[1].get_text() + " "  # 2nd sibling
                     addresses.append(address)
 
             print(f"Store Names: {store_names}")
             print(f"Addresses: {addresses}")
 
-            # Actualiza el DataFrame con los nombres y direcciones encontrados
+            # Update the dataframe
             for store_name, address in zip(store_names, addresses):
                 new_row = pd.DataFrame(
                     {"Name": [store_name], "Detail": [address], "URL": [current_url]}
@@ -111,7 +109,7 @@ for index, row in df.iterrows():
                 latitude = float(match.group(1))
                 longitude = float(match.group(2))
                 # df.at[index, 'found'] = "true"
-            # Almacena la latitud y la longitud en el DataFrame
+            # Saved the URLs of the current search that gave us a series of places
             df_results.at[index, "URL"] = current_url
             # df_results.at[index, 'Longitude'] = longitude
             # df_results.at[index, 'Latitude'] = longitude
@@ -122,12 +120,12 @@ for index, row in df.iterrows():
         except Exception as e:
             print(str(e))
 
-# Cierra el navegador
+# Close the browser
 time.sleep(5)
 driver.quit()
 
-# Elimina filas duplicadas basadas en 'Store_Name' y 'Detail'
+# Delete duplicate rows with the same 'Detail'
 df_results = df_results.drop_duplicates(subset=["Detail"])
 
-# Guarda los cambios en el Excel file
+# Save changes in a csv file
 df_results.to_csv(file_path_results, index=False)
