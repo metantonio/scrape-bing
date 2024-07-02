@@ -15,7 +15,7 @@ There are 2 ways to install Python, globally or into a local environment.
 ### 1.1.A Python globally (Easy way):
 - [Python 3.11.6](https://www.python.org/downloads/release/python-3116/)
 
-### 1.1.1.B Python local environment (optional but recommended):
+### 1.1.B Python local environment (optional but recommended):
 
 If you want to control the Python version to use and change between others:
 - Install pyenv (windows), you need run ***powershell with Administrator rights***:
@@ -51,11 +51,21 @@ pyenv local 3.11.6
 pyenv global 3.11.6
 ```
 
+## 1.1.2 Install Python libraries for this project
+
+- Run this command in the root of this project:
+
+```powershell
+pip install pandas requests beautifulsoup4 selenium bs4
+```
+
 # 2. Node Installation
+
+### 2.1 Download NodeJS:
 
 - Make sure you are using node.js LTS version >= 20.x+ Link: [node v20.9.0 LTS](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi)
 
-### 2.1 Install the packages (just need to do this the first time):
+### 2.2 Install the packages (just need to do this the first time):
 
 - Install the libraries of this project. ***Run this command in the root of this project***
 
