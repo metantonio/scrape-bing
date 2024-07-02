@@ -75,10 +75,46 @@ for index, row in df.iterrows():
             page_soup = soup(page_source, "html.parser")
 
             # Find names of items, on google maps use to be in the class .fontHeadlineSmall
-            store_names = [
+            store_elements = driver.find_elements(By.CLASS_NAME, "fontHeadlineSmall")
+            store_names = []
+            """ store_names = [
                 store.get_text()
                 for store in page_soup.find_all("div", class_="fontHeadlineSmall")
-            ]
+            ] """
+            alt_texts = []
+            hrefs = []
+
+            # Use ActionChains to hover over each element and capture the alt text
+            for store_element in store_elements:
+                action = ActionChains(driver)
+                action.move_to_element(store_element).perform()
+                time.sleep(1)  # Adjust sleep time as necessary
+                #alt_text = store_element.get_attribute("alt")
+                store_names.append(store_element.text)
+
+                # Navigate to the grandparent element, then to the sibling with the href attribute
+                #href_element = store_element.find_element(By.XPATH, "../../../../../../../following-sibling::a")
+                try:                
+                    href_element = store_element.find_element(By.XPATH, "../../../../../../../../a") #../../preceding-sibling::div[2]//a
+                    
+                    if href_element:
+                        href = href_element.get_attribute("href")
+                        print("href: ", href)
+                        hrefs.append(href)
+                    else:
+                        print("not found href")
+                        hrefs.append("")
+                    #href = store_element.find_element(By.XPATH, "..").get_attribute("href")
+                    """ if alt_text:
+                        alt_texts.append(alt_text)
+                    else:
+                        alt_texts.append("") """
+                except Exception as err:
+                    print(str(err))
+                    hrefs.append("")
+                    alt_texts.append("")
+
+                
 
             # Find addresses
             address_elements = page_soup.find_all(
@@ -96,9 +132,9 @@ for index, row in df.iterrows():
             print(f"Addresses: {addresses}")
 
             # Update the dataframe
-            for store_name, address in zip(store_names, addresses):
+            for store_name, address, href in zip(store_names, addresses, hrefs):
                 new_row = pd.DataFrame(
-                    {"Name": [store_name], "Detail": [address], "URL": [current_url]}
+                    {"Name": [store_name], "Detail": [address], "href": [href], "search_url": [current_url]}
                 )
                 df_results = pd.concat([df_results, new_row], ignore_index=True)
 
