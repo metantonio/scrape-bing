@@ -133,20 +133,30 @@ for index, row in df.iterrows():
 
             # Update the dataframe
             for store_name, address, href in zip(store_names, addresses, hrefs):
+                #match = re.search(r"@([+-]?\d+\.\d+),([+-]?\d+\.\d+)", href)
+                match1 = re.compile(r"!3d(-?\d+\.\d+)!4d(-?\d+\.\d+)")
+                match = match1.search(href)
+                latitude = 0
+                longitude = 0
+                if match:
+                    latitude = float(match.group(1))
+                    longitude = float(match.group(2))
                 new_row = pd.DataFrame(
-                    {"Name": [store_name], "Detail": [address], "href": [href], "search_url": [current_url]}
+                    {"Name": [store_name], "Detail": [address], "href": [href], "latitude":latitude, "longitude": longitude}
                 )
+                
                 df_results = pd.concat([df_results, new_row], ignore_index=True)
 
-            match = re.search(r"@([+-]?\d+\.\d+),([+-]?\d+\.\d+)", current_url)
+            """ match1 = re.compile(r"!3d(-?\d+\.\d+)!4d(-?\d+\.\d+)")
+            match = match1.search(href)
             latitude = 0
             longitude = 0
             if match:
                 latitude = float(match.group(1))
-                longitude = float(match.group(2))
+                longitude = float(match.group(2)) """
                 # df.at[index, 'found'] = "true"
             # Saved the URLs of the current search that gave us a series of places
-            df_results.at[index, "URL"] = current_url
+            #df_results.at[index, "URL"] = current_url
             # df_results.at[index, 'Longitude'] = longitude
             # df_results.at[index, 'Latitude'] = longitude
 
