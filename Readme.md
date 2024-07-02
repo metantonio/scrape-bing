@@ -30,6 +30,8 @@ Invoke-WebRequest -UseBasicParsing -Uri "https://raw.githubusercontent.com/pyenv
 ```
 
  - You may need to add `pyenv` to environment PATH, in order to be able to use `pyenv` command. And open a new **Powershell** window
+ 
+    Note that the path use to be : ``C:\Users\my-user\.pyenv\pyenv-win\bin`` and ``C:\Users\my-user\.pyenv\pyenv-win\bin\shims``
 
  - Install Python Version:
 
