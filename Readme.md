@@ -128,7 +128,7 @@ node powerball.js powerball
 
 - This file contains the keywords and states that the script will take to try to find places at google maps:
 
-You should add the search "keyword" and city, at **bingloterry.csv**
+You should add the keywords and states, at **bingloterry.csv**
 
 Note: If you have not installed the libraries yet, please check [Python libraries installation section](#112-install-python-libraries-for-this-project)
 
