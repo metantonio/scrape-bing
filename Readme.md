@@ -4,7 +4,7 @@ Some websites uses anti-scrape techniques, and the only way to scrape data is si
 
 This repository has scripts that works with Python, and anothers with Javascript.
 
-Microsoft edge driver, if dont have download it from https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/?form=MA13LH#downloads
+Microsoft edge driver, if you don't have it,  [download it here](https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/?form=MA13LH#downloads), this is necessary in order to run scraping scripts with Python.
 
 # 1. Python Installation
 
@@ -55,7 +55,7 @@ pyenv global 3.11.6
 
 ### 2.1 Install the packages (just need to do this the first time):
 
-- Install the libraries of this project. Run this command in the root of this project
+- Install the libraries of this project. ***Run this command in the root of this project***
 
 ```bash
 npm install --legacy-peer-deps
