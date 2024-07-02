@@ -123,17 +123,24 @@ node powerball.js powerball
 
 # Scrapping Loterry Retailers with Bing and Python:
 
+
+### Update the bingloterry.csv file
+
+- This file contains the keywords and states that the script will take to try to find places at google maps:
+
 You should add the search "keyword" and city, at **bingloterry.csv**
 
-```bash
-pip install bs4 pandas selenium
-```
+Note: If you have not installed the libraries yet, please check [Python libraries installation section](#112-install-python-libraries-for-this-project)
+
+Run the code
 
 ```bash
 python bingloterry.py
 ```
 
-You will obtain the results at **bingloterry_results.csv**
+### Results of the script will be at bingloterry_results.csv
+
+- You will obtain the results at **bingloterry_results.csv** without duplicates
 
 # Scrapping MLS betting odd with Bing and Python:
 
