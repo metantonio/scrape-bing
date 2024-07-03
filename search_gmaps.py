@@ -27,6 +27,7 @@ def main():
 
     # Main CSS Class to search on Google Maps
     main_class = "fontHeadlineSmall" # This is the main css class that contains the name of the places
+    address_class = "section-subtitle-extension"
 
     # loop each row of the Dataframe
     for index, row in df.iterrows():
@@ -112,7 +113,7 @@ def main():
 
             # Find addresses
             address_elements = page_soup.find_all(
-                "div", class_="section-subtitle-extension"
+                "div", class_=address_class
             )
             addresses = []
             for element in address_elements:
